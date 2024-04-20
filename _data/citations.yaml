@@ -589,16 +589,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85058938109
-  title: Wikidata as an intuitive resource towards semantic data modeling in data
-    FAIRification
-  publisher: CEUR Workshop Proceedings
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85058938109&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/pmic.201700391
   title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
     Colitic Mice and Control Groups
@@ -1073,24 +1063,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85016175634
-  title: Linking wikidata to the rest of the semantic web
-  publisher: CEUR Workshop Proceedings
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85016175634&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-85018733229
-  title: Opportunities and challenges presented by Wikidata in the context of biocuration
-  publisher: CEUR Workshop Proceedings
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85018733229&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0149621
   title: 'The Implicitome: A Resource for Rationalizing Gene-Disease Associations'
   authors:
@@ -1281,15 +1253,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84971343428
-  title: Crowdsourcing and mining crowd data
-  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971343428&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmc:PMC4376322
   title: Crowdsourcing and mining crowd data.
   authors:
@@ -1328,31 +1291,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:25592589
-  title: Microtask crowdsourcing for disease mention annotation in PubMed abstracts.
-  authors:
-  - Benjamin M Good
-  - Max Nanis
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-24'
-  link: http://europepmc.org/abstract/med/25592589
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: sources.py
-  file: sources.yaml
-  remove: true
-- id: eid:2-s2.0-84971246378
-  title: Microtask crowdsourcing for disease mention annotation in pubmed abstracts
-  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971246378&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: sources.py
-  file: sources.yaml
-  remove: true
 - id: doi:10.1186/s12920-015-0095-z
   title: 'OncoRep: an n-of-1 reporting tool to support genome-guided treatment for
     breast cancer patients using RNA-sequencing'
@@ -1364,16 +1302,6 @@
   publisher: BMC Medical Genomics
   date: '2015-05-21'
   link: https://doi.org/gb34tr
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84964048048
-  title: 'Wikidata: A platform for data integration and dissemination for the life
-    sciences and beyond'
-  publisher: CEUR Workshop Proceedings
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964048048&partnerID=MN8TOARS
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -2480,16 +2408,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-3543127794
-  title: 'Erratum: Applications of a rat multiple tissue gene expression data set
-    (Genome Research (2004) vol. 14 (742-749))'
-  publisher: Genome Research
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-3543127794&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pbio.0020393
   title: Use of a Dense Single Nucleotide Polymorphism Map for In Silico Mapping in
     the Mouse
@@ -2643,16 +2561,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-0036790528
-  title: Large scale molecular analysis identifies genes with altered expression in
-    salivary adenoid cystic carcinoma
-  publisher: American Journal of Pathology
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036790528&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1073/pnas.012025199
   title: Large-scale analysis of the human and mouse transcriptomes
   authors:
@@ -2733,26 +2641,6 @@
   publisher: Cell
   date: '2001-08-01'
   link: https://doi.org/fn6
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-0035881732
-  title: Analysis of gene expression identifies candidate markers and pharmacological
-    targets in prostate cancer
-  publisher: Cancer Research
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0035881732&partnerID=MN8TOARS
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-0038968618
-  title: 'Combinatorial synthesis and discovery of an antibiotic compound: An experiment
-    suitable for high school and undergraduate laboratories'
-  publisher: Journal of Chemical Education
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0038968618&partnerID=MN8TOARS
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
