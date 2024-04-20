@@ -49,13 +49,13 @@
 <meta property="og:title" content="Blog">
 <meta property="og:site_title" content="andrewsu">
 <meta property="og:description" content="An engaging 1-3 sentence description of your lab.">
-<meta property="og:url" content="">
+<meta property="og:url" content="https://andrewsu.github.io/sulab.org">
 <meta property="og:image" content="/sulab.org/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Blog">
 <meta property="twitter:description" content="An engaging 1-3 sentence description of your lab.">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="https://andrewsu.github.io/sulab.org">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/sulab.org/images/share.jpg">
 
@@ -76,11 +76,11 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/sulab.org/images/icon.png" }
     },
-    "url": ""
+    "url": "https://andrewsu.github.io/sulab.org"
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/sulab.org/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="https://andrewsu.github.io/sulab.org/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -90,9 +90,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -353,6 +353,8 @@
 
   <script src="/sulab.org/_scripts/site-search.js"></script>
 
+  <script src="/sulab.org/_scripts/table-wrap.js"></script>
+
   <script src="/sulab.org/_scripts/tooltip.js"></script>
 
 
@@ -434,9 +436,9 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>andrewsu</span>
+          <span class="title">andrewsu</span>
         
         
       </span>
@@ -486,11 +488,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -527,17 +526,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </button>
 </div>
 
-<div class="tags" data-link="/sulab.org/blog/">
+<div class="tags" data-link="https://andrewsu.github.io/sulab.org/blog/">
     
-      <a href="/sulab.org/blog/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="/sulab.org/blog/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="/sulab.org/blog/?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog/?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
         big data
       </a>
     
@@ -547,12 +546,22 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <h3 id="2023">2023</h3>
 
-<div class="post-excerpt">
-  
-  
-  <a href="/sulab.org/2023/02/23/example-post-3.html">Example post 3</a>
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
 
-  <div class="post-info">
+    
+      <a href="/sulab.org/2023/02/23/example-post-3.html" class="post-excerpt-image" aria-label="Example post 3">
+        <img src="/sulab.org/images/photo.jpg" alt="Example post 3" loading="lazy" onerror="this.src = '/sulab.org/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="post-excerpt-text">
+      <a href="/sulab.org/2023/02/23/example-post-3.html">Example post 3</a>
+
+      <div class="post-info">
   
     
     
@@ -598,7 +607,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>January 20, 2024</span>
+      <span>April 20, 2024</span>
     </span>
   
 </div>
@@ -607,13 +616,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
 
 
-  <div class="tags" data-link="/sulab.org/blog">
+  <div class="tags" data-link="https://andrewsu.github.io/sulab.org/blog">
     
-      <a href="/sulab.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="/sulab.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
@@ -623,22 +632,30 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 
-  
-  
-  <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-  </p>
+      </p>
+    </div>
+  </div>
 </div>
 
 <h3 id="2021">2021</h3>
 
-<div class="post-excerpt">
-  
-  
-  <a href="/sulab.org/2021/09/30/example-post-2.html">Example post 2</a>
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
 
-  <div class="post-info">
+    
+
+    <div class="post-excerpt-text">
+      <a href="/sulab.org/2021/09/30/example-post-2.html">Example post 2</a>
+
+      <div class="post-info">
   
     
     
@@ -684,7 +701,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>January 20, 2024</span>
+      <span>April 20, 2024</span>
     </span>
   
 </div>
@@ -697,22 +714,30 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 
-  
-  
-  <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-  </p>
+      </p>
+    </div>
+  </div>
 </div>
 
 <h3 id="2019">2019</h3>
 
-<div class="post-excerpt">
-  
-  
-  <a href="/sulab.org/2019/01/07/example-post-1.html">Example post 1</a>
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
 
-  <div class="post-info">
+    
+
+    <div class="post-excerpt-text">
+      <a href="/sulab.org/2019/01/07/example-post-1.html">Example post 1</a>
+
+      <div class="post-info">
   
     
     
@@ -758,7 +783,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>January 20, 2024</span>
+      <span>April 20, 2024</span>
     </span>
   
 </div>
@@ -767,17 +792,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
 
 
-  <div class="tags" data-link="/sulab.org/blog">
+  <div class="tags" data-link="https://andrewsu.github.io/sulab.org/blog">
     
-      <a href="/sulab.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="/sulab.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="/sulab.org/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
+      <a href="https://andrewsu.github.io/sulab.org/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
         big data
       </a>
     
@@ -787,12 +812,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 
-  
-  
-  <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-  </p>
+      </p>
+    </div>
+  </div>
 </div>
   </section>
 
