@@ -3,3 +3,9 @@
 
 - id: doi:10.1093/bioinformatics/btad570
   image: images/bte.jpeg
+
+- id: eid:2-s2.0-84971246378
+  remove: true
+
+- id: pmid:25592589
+  remove: true

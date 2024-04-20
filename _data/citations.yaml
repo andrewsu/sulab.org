@@ -1340,8 +1340,9 @@
   link: http://europepmc.org/abstract/med/25592589
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  remove: true
 - id: eid:2-s2.0-84971246378
   title: Microtask crowdsourcing for disease mention annotation in pubmed abstracts
   publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
@@ -1349,8 +1350,9 @@
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971246378&partnerID=MN8TOARS
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  remove: true
 - id: doi:10.1186/s12920-015-0095-z
   title: 'OncoRep: an n-of-1 reporting tool to support genome-guided treatment for
     breast cancer patients using RNA-sequencing'
