@@ -1,8 +1,11 @@
 ---
-title: Example post 3
+name: Sarah Johnson
 image: images/photo.jpg
-author: john-doe
-tags: biology, medicine
+description: Lead Programmer
+role: programmer
+links:
+  email: sarah.johnson@gmail.com
+  twitter: sarahjohnson
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
