@@ -1,155 +1,2849 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1186/s12915-023-01764-2
+  title: 'Author Correction: A protocol for adding knowledge to Wikidata: aligning
+    resources on human coronaviruses'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
+  - Andra Waagmeester
+  - Egon L. Willighagen
+  - Andrew I. Su
+  - Martina Kutmon
+  - Jose Emilio Labra Gayo
+  - "Daniel Fern\xE1ndez-\xC1lvarez"
+  - Quentin Groom
+  - Peter J. Schaap
+  - Lisa M. Verhagen
+  - Jasper J. Koehorst
+  publisher: BMC Biology
+  date: '2023-11-16'
+  link: https://doi.org/gtrgz9
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btad570
+  title: 'BioThings Explorer: a query engine for a federated knowledge graph of biomedical
+    APIs'
+  authors:
+  - Jackson Callaghan
+  - Colleen H Xu
+  - Jiwen Xin
   - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
+  - Anders Riutta
+  - Eric Zhou
+  - Rohan Juneja
+  - Yao Yao
+  - Madhumita Narayan
+  - Kristina Hanspers
+  - Ayushi Agrawal
+  - Alexander R Pico
   - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2023-09-01'
+  link: https://doi.org/gtrg2c
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: sources.py
+  file: sources.yaml
+  image: images/bte.jpeg
+- id: doi:10.1101/2023.05.12.540594
+  title: Drug Repositioning using Consilience of Knowledge Graph Completion Methods
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Roger Tu
+  - Meghamala Sinha
+  - "Carolina Gonz\xE1lez"
+  - Eric Hu
+  - Shehzaad Dhuliawala
+  - Andrew McCallum
+  - Andrew I. Su
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-05-14'
+  link: https://doi.org/gtrg2d
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s41597-023-02534-z
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrick A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
+  - Andrew I. Su
+  publisher: Scientific Data
+  date: '2023-09-16'
+  link: https://doi.org/gtrg2b
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
+- id: doi:10.1101/2021.09.02.458726
+  title: 'Schema Playground: A tool for authoring, extending, and using metadata schemas
+    to improve FAIRness of biomedical data'
+  authors:
+  - Marco Cano
+  - Ginger Tsueng
+  - Xinghua Zhou
+  - Laura D. Hughes
+  - Julia L. Mullen
+  - Jiwen Xin
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-03'
+  link: https://doi.org/gtrg2g
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2021.04.15.440028
+  title: Design and application of a knowledge network for automatic prioritization
+    of drug mechanisms
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Michael Mayers
+  - Roger Tu
+  - Dylan Steinecke
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-15'
+  link: https://doi.org/gtrg2h
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12915-020-00940-y
+  title: 'A protocol for adding knowledge to Wikidata: aligning resources on human
+    coronaviruses'
+  authors:
+  - Andra Waagmeester
+  - Egon L. Willighagen
+  - Andrew I. Su
+  - Martina Kutmon
+  - Jose Emilio Labra Gayo
+  - "Daniel Fern\xE1ndez-\xC1lvarez"
+  - Quentin Groom
+  - Peter J. Schaap
+  - Lisa M. Verhagen
+  - Jasper J. Koehorst
+  publisher: BMC Biology
+  date: '2021-01-22'
+  link: https://doi.org/gndrg7
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes11111384
+  title: Multi-Omics Database Analysis of Aminoacyl-tRNA Synthetases in Cancer
+  authors:
+  - Justin Wang
+  - Ingrid Vallee
+  - Aditi Dutta
+  - Yu Wang
+  - Zhongying Mo
+  - Ze Liu
+  - Haissi Cui
+  - Andrew I. Su
+  - Xiang-Lei Yang
+  publisher: Genes
+  date: '2020-11-22'
+  link: https://doi.org/ghstqb
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.11.11.378836
+  title: Quantitative metaproteomics of patient fecal microbiota identifies host and
+    microbial proteins associated with ulcerative colitis
+  authors:
+  - Peter S. Thuy-Boun
+  - Ana Y. Wang
+  - Ana Crissien-Martinez
+  - Janice H. Xu
+  - Sandip Chatterjee
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Walter J. Coyle
+  - Dennis W. Wolan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-11-11'
+  link: https://doi.org/gtrg2j
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.05.026336
+  title: A protocol for adding knowledge to Wikidata, a case report
+  authors:
+  - Andra Waagmeester
+  - Egon L. Willighagen
+  - Andrew I Su
+  - Martina Kutmon
+  - Jose Emilio Labra Gayo
+  - "Daniel Fern\xE1ndez-\xC1lvarez"
+  - Quentin Groom
+  - Peter J. Schaap
+  - Lisa M. Verhagen
+  - Jasper J. Koehorst
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-07'
+  link: https://doi.org/gjqfrz
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-019-3297-0
+  title: Time-resolved evaluation of compound repositioning predictions on a text-mined
+    knowledge network
+  authors:
+  - Michael Mayers
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I. Su
+  publisher: BMC Bioinformatics
+  date: '2019-12-01'
+  link: https://doi.org/ggpcsr
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/729475
+  title: Structured Reviews for Data and Knowledge Driven Research
+  authors:
+  - "N\xFAria Queralt-Rosinach"
+  - Gregory S. Stupp
+  - Tong Shu Li
+  - Michael Mayers
+  - Maureen E. Hoatlin
+  - Matthew Might
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-12'
+  link: https://doi.org/gkxdqp
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciimmunol.aaw6329
+  title: "Position \u03B257 of I-A\n            <sup>g7</sup>\n            controls\
+    \ early anti-insulin responses in NOD mice, linking an MHC susceptibility allele\
+    \ to type 1 diabetes onset"
+  authors:
+  - Louis Gioia
+  - Marie Holt
+  - Anne Costanzo
+  - Siddhartha Sharma
+  - Brian Abe
+  - Lisa Kain
+  - Maki Nakayama
+  - Xiaoxiao Wan
+  - Andrew Su
+  - Clayton Mathews
+  - Yi-Guang Chen
+  - Emil Unanue
+  - Luc Teyton
+  publisher: Science Immunology
+  date: '2019-08-02'
+  link: https://doi.org/gtrg2k
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15346/hc.v6i1.105
+  title: 'Aligning Needs: Integrating Citizen Science Efforts into Schools Through
+    Service Requirements.'
+  authors:
+  - Ginger Tsueng
+  - Arun Kumar
+  - Steven Max Nanis
+  - Andrew I Su
+  publisher: Human Computation
+  date: '2019-06-02'
+  link: https://doi.org/gtrg2m
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/564187
+  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
+    Biomedical Abstracts
+  authors:
+  - Ginger Tsueng
+  - Max Nanis
+  - Jennifer T. Fouquier
+  - Michael Mayers
+  - Benjamin M. Good
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-28'
+  link: https://doi.org/gkv78t
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molimm.2019.01.011
+  title: "Corrigendum to \u201CUsing single cell analysis for translational studies\
+    \ in immune mediated diseases: Opportunities and challenges\u201D [Mol. Immunol.\
+    \ 103 (2018) 191\u2013199]"
+  authors:
+  - Siddhartha Sharma
+  - Louis Gioia
+  - Brian Abe
+  - Marie Holt
+  - Anne Costanzo
+  - Lisa Kain
+  - Andrew Su
+  - Luc Teyton
+  publisher: Molecular Immunology
+  date: '2019-03-01'
+  link: https://doi.org/gtrg2p
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/444497
+  title: Association study of long-term kidney transplant rejection using whole-exome
+    sequencing
+  authors:
+  - Louis Gioia
+  - Sunil Kurian
+  - Tony S. Mondala
+  - Laia Bassaganyas
+  - Pui-Yan Kwok
+  - Daniel R. Salomon
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-10-16'
+  link: https://doi.org/gk253n
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molimm.2018.09.020
+  title: 'Using single cell analysis for translational studies in immune mediated
+    diseases: Opportunities and challenges'
+  authors:
+  - Siddhartha Sharma
+  - Louis Gioia
+  - Brian Abe
+  - Marie Holt
+  - Anne Costanzo
+  - Lisa Kain
+  - Andrew Su
+  - Luc Teyton
+  publisher: Molecular Immunology
+  date: '2018-11-01'
+  link: https://doi.org/gfp76k
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/367599
+  title: Triflic acid treatment enables LC-MS/MS analysis of insoluble bacterial biomass
+  authors:
+  - Ana Y. Wang
+  - Peter S. Thuy-Boun
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-07-11'
+  link: https://doi.org/gkwvfq
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/304766
+  title: 'Aligning Needs: Integrating Citizen Science Efforts into Schools Through
+    Service Requirements'
+  authors:
+  - Ginger Tsueng
+  - Arun Kumar
+  - Steven M. Nanis
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-04-21'
+  link: https://doi.org/gktrdt
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/289371
+  title: 'The Healthy Pregnancy Research Program: Transforming Pregnancy Research
+    Through a ResearchKit App'
+  authors:
+  - Jennifer M. Radin
+  - Steven R. Steinhubl
+  - Andrew I. Su
+  - Hansa Bhargava
+  - Benjamin Greenberg
+  - Brian M. Bot
+  - Megan Doerr
+  - Eric J. Topol
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-03-29'
+  link: https://doi.org/gkvxv3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aan0746
+  title: FoxO transcription factors modulate autophagy and proteoglycan 4 in cartilage
+    homeostasis and osteoarthritis
+  authors:
+  - Tokio Matsuzaki
+  - Oscar Alvarez-Garcia
+  - Sho Mokuda
+  - Keita Nagira
+  - Merissa Olmer
+  - Ramya Gamini
+  - Kohei Miyata
+  - Yukio Akasaki
+  - Andrew I. Su
+  - Hiroshi Asahara
+  - Martin K. Lotz
+  publisher: Science Translational Medicine
+  date: '2018-02-14'
+  link: https://doi.org/ggnj2f
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-018-4718-6
+  title: A genome-wide survey of mutations in the Jurkat cell line
+  authors:
+  - Louis Gioia
+  - Azeem Siddique
+  - Steven R. Head
+  - Daniel R. Salomon
+  - Andrew I. Su
+  publisher: BMC Genomics
+  date: '2018-05-08'
+  link: https://doi.org/gst8gc
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.2002846
+  title: 'Biocuration: Distilling data into knowledge'
+  authors: []
+  publisher: PLOS Biology
+  date: '2018-04-16'
+  link: https://doi.org/gfsj89
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2018.02.047
+  title: Common PIEZO1 Allele in African Populations Causes RBC Dehydration and Attenuates
+    Plasmodium Infection
+  authors:
+  - Shang Ma
+  - Stuart Cahalan
+  - Gregory LaMonte
+  - Nathan D. Grubaugh
+  - Weizheng Zeng
+  - Swetha E. Murthy
+  - Emma Paytas
+  - Ramya Gamini
+  - Viktor Lukacs
+  - Tess Whitwam
+  - Meaghan Loud
+  - Rakhee Lohia
+  - Laurence Berry
+  - Shahid M. Khan
+  - Chris J. Janse
+  - Michael Bandell
+  - Christian Schmedt
+  - Kai Wengelnik
+  - Andrew I. Su
+  - Eric Honore
+  - Elizabeth A. Winzeler
+  - Kristian G. Andersen
+  - Ardem Patapoutian
+  publisher: Cell
+  date: '2018-04-01'
+  link: https://doi.org/gc6wb9
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.RA118.003192
+  title: "Correcting the F508del-CFTR variant by modulating eukaryotic translation\
+    \ initiation factor 3\u2013mediated translation initiation"
+  authors:
+  - Darren M. Hutt
+  - Salvatore Loguercio
+  - Daniela Martino Roth
+  - Andrew I. Su
+  - William E. Balch
+  publisher: Journal of Biological Chemistry
+  date: '2018-08-01'
+  link: https://doi.org/gd7nt5
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-018-2041-5
+  title: Cross-linking BioThings APIs through JSON-LD to facilitate knowledge exploration
+  authors:
+  - Jiwen Xin
+  - Cyrus Afrasiabi
+  - Sebastien Lelong
+  - Julee Adesara
+  - Ginger Tsueng
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: BMC Bioinformatics
+  date: '2018-02-01'
+  link: https://doi.org/grfnc4
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jsb.2018.02.006
+  title: Exploring applications of crowdsourcing to cryo-EM
+  authors:
+  - Jacob Bruggemann
+  - Gabriel C. Lander
+  - Andrew I. Su
+  publisher: Journal of Structural Biology
+  date: '2018-07-01'
+  link: https://doi.org/gdrt5g
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-7514-3_14
+  title: Gene Profiling and T Cell Receptor Sequencing from Antigen-Specific CD4 T
+    Cells
+  authors:
+  - Marie Holt
+  - Anne Costanzo
+  - Louis Gioia
+  - Brian Abe
+  - Andrew I. Su
+  - Luc Teyton
+  publisher: Methods in Molecular Biology
+  date: '2017-12-10'
+  link: https://doi.org/gtrg2q
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.joca.2018.07.012
+  title: Identification of transcription factors responsible for dysregulated networks
+    in human osteoarthritis cartilage by global gene expression analysis
+  authors:
+  - K.M. Fisch
+  - R. Gamini
+  - O. Alvarez-Garcia
+  - R. Akagi
+  - M. Saito
+  - Y. Muramatsu
+  - T. Sasho
+  - J.A. Koziol
+  - A.I. Su
+  - M.K. Lotz
+  publisher: Osteoarthritis and Cartilage
+  date: '2018-11-01'
+  link: https://doi.org/gfjddv
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1810137115
+  title: The ReFRAME library as a comprehensive drug repurposing library and its application
+    to the treatment of cryptosporidiosis
+  authors:
+  - Jeff Janes
+  - Megan E. Young
+  - Emily Chen
+  - Nicole H. Rogers
+  - Sebastian Burgstaller-Muehlbacher
+  - Laura D. Hughes
+  - Melissa S. Love
+  - Mitchell V. Hull
+  - Kelli L. Kuhen
+  - Ashley K. Woods
+  - Sean B. Joseph
+  - H. Michael Petrassi
+  - Case W. McNamara
+  - Matthew S. Tremblay
+  - Andrew I. Su
+  - Peter G. Schultz
+  - Arnab K. Chatterjee
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-10-03'
+  link: https://doi.org/gfhbr4
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85058938109
+  title: Wikidata as an intuitive resource towards semantic data modeling in data
+    FAIRification
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85058938109&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201700391
+  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
+    Colitic Mice and Control Groups
+  authors:
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: PROTEOMICS
+  date: '2018-02-01'
+  link: https://doi.org/gtrg2r
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/156141
+  title: 'Science Game Lab: tool for the unification of biomedical games with a purpose'
+  authors:
+  - Benjamin M. Good
+  - Sarah Santini
+  - Margaret Wallace
+  - Nicholas Fortugno
+  - John Szeder
+  - Patrick Mooney
+  - Jerome Waldispuhl
+  - Ginger Tsueng
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-07-10'
+  link: https://doi.org/gkz9ch
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/121178
+  title: 'EXPLANe: An Extensible Framework for Poster Annotation with Mobile Devices'
+  authors:
+  - Nikhil Gopal
+  - Andrew Su
+  - Chunlei Wu
+  - Sean D. Mooney
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-29'
+  link: https://doi.org/gkz3cs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.3774
+  title: CIViC is a community knowledgebase for expert crowdsourcing the clinical
+    interpretation of variants in cancer
+  authors:
+  - Malachi Griffith
+  - Nicholas C Spies
+  - Kilannin Krysiak
+  - Joshua F McMichael
+  - Adam C Coffman
+  - Arpad M Danos
+  - Benjamin J Ainscough
+  - Cody A Ramirez
+  - Damian T Rieke
+  - Lynzey Kujan
+  - Erica K Barnell
+  - Alex H Wagner
+  - Zachary L Skidmore
+  - Amber Wollam
+  - Connor J Liu
+  - Martin R Jones
+  - Rachel L Bilski
+  - Robert Lesurf
+  - Yan-Yang Feng
+  - Nakul M Shah
+  - Melika Bonakdar
+  - Lee Trani
+  - Matthew Matlock
+  - Avinash Ramu
+  - Katie M Campbell
+  - Gregory C Spies
+  - Aaron P Graubert
+  - Karthik Gangavarapu
+  - James M Eldred
+  - David E Larson
+  - Jason R Walker
+  - Benjamin M Good
+  - Chunlei Wu
+  - Andrew I Su
+  - Rodrigo Dienstmann
+  - Adam A Margolin
+  - David Tamborero
+  - Nuria Lopez-Bigas
+  - Steven J M Jones
+  - Ron Bose
+  - David H Spencer
+  - Lukas D Wartman
+  - Richard K Wilson
+  - Elaine R Mardis
+  - Obi L Griffith
+  publisher: Nature Genetics
+  date: '2017-01-31'
+  link: https://doi.org/gf8dhs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.6b00938
+  title: Quantitative Metaproteomics and Activity-Based Probe Enrichment Reveals Significant
+    Alterations in Protein Expression from a Mouse Model of Inflammatory Bowel Disease
+  authors:
+  - Michael D. Mayers
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: Journal of Proteome Research
+  date: '2017-01-23'
+  link: https://doi.org/f9q8c4
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/bax025
+  title: 'WikiGenomes: an open web application for community consumption and curation
+    of gene annotation data in Wikidata'
+  authors:
+  - Tim E. Putman
+  - Sebastien Lelong
+  - Sebastian Burgstaller-Muehlbacher
+  - Andra Waagmeester
+  - Colin Diesh
+  - Nathan Dunn
+  - Monica Munoz-Torres
+  - Gregory S. Stupp
+  - Chunlei Wu
+  - Andrew I. Su
+  - Benjamin M. Good
+  publisher: Database
+  date: '2017-01-01'
+  link: https://doi.org/f9x446
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aao0462
+  title: Academics can help shape Wikipedia
+  authors:
+  - Thomas Shafee
+  - Daniel Mietchen
+  - Andrew I. Su
+  publisher: Science
+  date: '2017-08-11'
+  link: https://doi.org/gtrg2s
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.6b00095
+  title: Data-Driven Approach To Determine Popular Proteins for Targeted Proteomics
+    Translation of Six Organ Systems
+  authors:
+  - Maggie P. Y. Lam
+  - Vidya Venkatraman
+  - Yi Xing
+  - Edward Lau
+  - Quan Cao
+  - Dominic C. M. Ng
+  - Andrew I. Su
+  - Junbo Ge
+  - Jennifer E. Van Eyk
+  - Peipei Ping
+  publisher: Journal of Proteome Research
+  date: '2016-07-19'
+  link: https://doi.org/f89xb8
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.joca.2016.11.007
+  title: "Dysregulated circadian rhythm pathway in human osteoarthritis: NR1D1 and\
+    \ BMAL1 suppression alters TGF-\u03B2 signaling in chondrocytes"
+  authors:
+  - R. Akagi
+  - Y. Akatsu
+  - K.M. Fisch
+  - O. Alvarez-Garcia
+  - T. Teramura
+  - Y. Muramatsu
+  - M. Saito
+  - T. Sasho
+  - A.I. Su
+  - M.K. Lotz
+  publisher: Osteoarthritis and Cartilage
+  date: '2017-06-01'
+  link: https://doi.org/gbpbsz
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gene.2016.04.053
+  title: "Gene Wiki Reviews\u2014Raising the quality and accessibility of information\
+    \ about the human genome"
+  authors:
+  - Ginger Tsueng
+  - Benjamin M. Good
+  - Peipei Ping
+  - Erica Golemis
+  - Israel Hanukoglu
+  - Andre J. van Wijnen
+  - Andrew I. Su
+  publisher: Gene
+  date: '2016-11-01'
+  link: https://doi.org/f85mvw
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.joca.2016.04.015
+  title: Suppression of REDD1 in osteoarthritis cartilage, a novel mechanism for dysregulated
+    mTOR signaling and defective autophagy
+  authors:
+  - O. Alvarez-Garcia
+  - M. Olmer
+  - R. Akagi
+  - Y. Akasaki
+  - K.M. Fisch
+  - T. Shen
+  - A.I. Su
+  - M.K. Lotz
+  publisher: Osteoarthritis and Cartilage
+  date: '2016-09-01'
+  link: https://doi.org/f8z6db
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-016-2855-3
+  title: A comprehensive and scalable database search system for metaproteomics
+  authors:
+  - Sandip Chatterjee
+  - Gregory S. Stupp
+  - Sung Kyu Robin Park
+  - Jean-Christophe Ducom
+  - John R. Yates
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: BMC Genomics
+  date: '2016-08-16'
+  link: https://doi.org/gg8v8v
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/art.39643
+  title: Increased DNA Methylation and Reduced Expression of Transcription Factors
+    in Human Osteoarthritis Cartilage
+  authors:
+  - "Oscar Alvarez\u2010Garcia"
+  - Kathleen M. Fisch
+  - Nathan E. Wineinger
+  - Ryuichiro Akagi
+  - Masahiko Saito
+  - Takahisa Sasho
+  - Andrew I. Su
+  - Martin K. Lotz
+  publisher: Arthritis &amp; Rheumatology
+  date: '2016-07-27'
+  link: https://doi.org/f8427j
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btw117
+  title: 'Branch: an interactive, web-based tool for testing hypotheses and developing
+    predictive models'
+  authors:
+  - Karthik Gangavarapu
+  - Vyshakh Babji
+  - "Tobias Mei\xDFner"
+  - Andrew I. Su
+  - Benjamin M. Good
+  publisher: Bioinformatics
+  date: '2016-03-07'
+  link: https://doi.org/f8vmxx
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ajt.13728
+  title: "Gene Expression in Biopsies of Acute Rejection and Interstitial Fibrosis/Tubular\
+    \ Atrophy Reveals Highly Shared Mechanisms That Correlate With Worse Long\u2010\
+    Term Outcomes"
+  authors:
+  - B.D. Modena
+  - S.M. Kurian
+  - L.W. Gaber
+  - J. Waalen
+  - A.I. Su
+  - T. Gelbart
+  - T.S. Mondala
+  - S.R. Head
+  - S. Papp
+  - R. Heilman
+  - J.J. Friedewald
+  - S.M. Flechner
+  - C.L. Marsh
+  - R.S. Sung
+  - H. Shidban
+  - L. Chan
+  - M.M. Abecassis
+  - D.R. Salomon
+  publisher: American Journal of Transplantation
+  date: '2016-07-01'
+  link: https://doi.org/gmh23q
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1606297113
+  title: YY1 plays an essential role at all stages of B-cell differentiation
+  authors:
+  - Eden Kleiman
+  - Haiqun Jia
+  - Salvatore Loguercio
+  - Andrew I. Su
+  - Ann J. Feeney
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-06-22'
+  link: https://doi.org/f8tqdj
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-016-0953-9
+  title: High-performance web services for querying gene and variant annotation
+  authors:
+  - Jiwen Xin
+  - Adam Mark
+  - Cyrus Afrasiabi
+  - Ginger Tsueng
+  - Moritz Juchler
+  - Nikhil Gopal
+  - Gregory S. Stupp
+  - Timothy E. Putman
+  - Benjamin J. Ainscough
+  - Obi L. Griffith
+  - Ali Torkamani
+  - Patricia L. Whetzel
+  - Christopher J. Mungall
+  - Sean D. Mooney
+  - Andrew I. Su
+  - Chunlei Wu
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2016-05-06'
+  link: https://doi.org/gqgsp3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/038083
+  title: Citizen Science for Mining the Biomedical Literature
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Ginger Tsueng
+  - Steven M. Nanis
+  - Jennifer Fouquier
+  - Benjamin M Good
+  - Andrew I Su
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2016-01-27'
+  link: https://doi.org/gkwsxg
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1093/database/baw051
+  title: A crowdsourcing workflow for extracting chemical-induced disease relations
+    from free text
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Tong Shu Li
+  - "\xC0lex Bravo"
+  - Laura I. Furlong
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Database
+  date: '2016-01-01'
+  link: https://doi.org/f8w9vw
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkv1104
+  title: 'BioGPS: building your own mash-up of gene annotations and expression profiles'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Chunlei Wu
+  - Xuefeng Jin
+  - Ginger Tsueng
+  - Cyrus Afrasiabi
+  - Andrew I. Su
+  publisher: Nucleic Acids Research
+  date: '2015-11-17'
+  link: https://doi.org/f8cnjs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/baw028
+  title: 'Centralizing content and distributing labor: a community model for curating
+    the very long tail of microbial genomes'
+  authors:
+  - Tim E. Putman
+  - Sebastian Burgstaller-Muehlbacher
+  - Andra Waagmeester
+  - Chunlei Wu
+  - Andrew I. Su
+  - Benjamin M. Good
+  publisher: Database
+  date: '2016-01-01'
+  link: https://doi.org/gtrg2t
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/baw094
+  title: Combining machine learning, crowdsourcing and expert knowledge to detect
+    chemical-induced diseases in text
+  authors:
+  - "\xC0lex Bravo"
+  - Tong Shu Li
+  - Andrew I. Su
+  - Benjamin M. Good
+  - Laura I. Furlong
+  publisher: Database
+  date: '2016-01-01'
+  link: https://doi.org/gtrg2v
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13326-016-0061-5
+  title: Extending gene ontology in the context of extracellular RNA and vesicle communication
+  authors:
+  - Kei-Hoi Cheung
+  - Shivakumar Keerthikumar
+  - Paola Roncaglia
+  - Sai Lakshmi Subramanian
+  - Matthew E. Roth
+  - Monisha Samuel
+  - Sushma Anand
+  - Lahiru Gangoda
+  - Stephen Gould
+  - Roger Alexander
+  - David Galas
+  - Mark B. Gerstein
+  - Andrew F. Hill
+  - Robert R. Kitchen
+  - "Jan L\xF6tvall"
+  - Tushar Patel
+  - Dena C. Procaccini
+  - Peter Quesenberry
+  - Joel Rozowsky
+  - Robert L. Raffai
+  - Aleksandra Shypitsyna
+  - Andrew I. Su
+  - "Clotilde Th\xE9ry"
+  - Kasey Vickers
+  - Marca H.M. Wauben
+  - Suresh Mathivanan
+  - Aleksandar Milosavljevic
+  - Louise C. Laurent
+  publisher: Journal of Biomedical Semantics
+  date: '2016-04-12'
+  link: https://doi.org/f3rs38
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85016175634
+  title: Linking wikidata to the rest of the semantic web
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85016175634&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85018733229
+  title: Opportunities and challenges presented by Wikidata in the context of biocuration
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85018733229&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0149621
+  title: 'The Implicitome: A Resource for Rationalizing Gene-Disease Associations'
+  authors:
+  - Kristina M. Hettne
+  - Mark Thompson
+  - Herman H. H. B. M. van Haagen
+  - Eelke van der Horst
+  - Rajaram Kaliyaperumal
+  - Eleni Mina
+  - Zuotian Tatum
+  - Jeroen F. J. Laros
+  - Erik M. van Mulligen
+  - Martijn Schuemie
+  - Emmelien Aten
+  - Tong Shu Li
+  - Richard Bruskiewich
+  - Benjamin M. Good
+  - Andrew I. Su
+  - Jan A. Kors
+  - Johan den Dunnen
+  - Gert-Jan B. van Ommen
+  - Marco Roos
+  - "Peter A.C. \u2018t Hoen"
+  - Barend Mons
+  - Erik A. Schultes
+  publisher: PLOS ONE
+  date: '2016-02-26'
+  link: https://doi.org/gtrg2w
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/032144
+  title: Wikidata as a semantic framework for the Gene Wiki initiative
+  authors:
+  - Sebastian Burgstaller-Muehlbacher
+  - Andra Waagmeester
+  - Elvira Mitraka
+  - Julia Turner
+  - Tim E. Putman
+  - Justin Leong
+  - Paul Pavlidis
+  - Lynn Schriml
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2015-11-18'
+  link: https://doi.org/gkv5sv
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26578587
+  title: 'BioGPS: building your own mash-up of gene annotations and expression profiles.'
+  authors:
+  - Chunlei Wu
+  - Xuefeng Jin
+  - Ginger Tsueng
+  - Cyrus Afrasiabi
+  - Andrew I Su
+  publisher: Nucleic acids research
+  date: '2022-05-24'
+  link: http://europepmc.org/abstract/med/26578587
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jacc.2015.04.072
+  title: Prioritizing Proteomics Assay Development for Clinical Translation
+  authors:
+  - Maggie P.Y. Lam
+  - Vidya Venkatraman
+  - Quan Cao
+  - Ding Wang
+  - T. Umut Dincer
+  - Edward Lau
+  - Andrew I. Su
+  - Yi Xing
+  - Junbo Ge
+  - Peipei Ping
+  - Jennifer E. Van Eyk
+  publisher: Journal of the American College of Cardiology
+  date: '2015-07-01'
+  link: https://doi.org/f3jg9t
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btv061
+  title: 'Omics Pipe: a community-based framework for reproducible multi-omics data
+    analysis'
+  authors:
+  - Kathleen M. Fisch
+  - "Tobias Mei\xDFner"
+  - Louis Gioia
+  - Jean-Christophe Ducom
+  - Tristan M. Carland
+  - Salvatore Loguercio
+  - Andrew I. Su
+  publisher: Bioinformatics
+  date: '2015-01-30'
+  link: https://doi.org/f7gk9q
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.3009986
+  title: "The nicotinic \u03B16 subunit gene determines variability in chronic pain\
+    \ sensitivity via cross-inhibition of P2X2/3 receptors"
+  authors:
+  - Jeffrey S. Wieskopf
+  - Jayanti Mathur
+  - Walrati Limapichat
+  - Michael R. Post
+  - Mona Al-Qazzaz
+  - Robert E. Sorge
+  - Loren J. Martin
+  - Dmitri V. Zaykin
+  - Shad B. Smith
+  - Kelen Freitas
+  - Jean-Sebastien Austin
+  - Feng Dai
+  - Jie Zhang
+  - Jaclyn Marcovitz
+  - Alexander H. Tuttle
+  - Peter M. Slepian
+  - Sarah Clarke
+  - Ryan M. Drenan
+  - Jeff Janes
+  - Shakir Al Sharari
+  - Samantha K. Segall
+  - Eske K. Aasvang
+  - Weike Lai
+  - Reinhard Bittner
+  - Christopher I. Richards
+  - Gary D. Slade
+  - Henrik Kehlet
+  - John Walker
+  - Uwe Maskos
+  - Jean-Pierre Changeux
+  - Marshall Devor
+  - William Maixner
+  - Luda Diatchenko
+  - Inna Belfer
+  - Dennis A. Dougherty
+  - Andrew I. Su
+  - Sarah C. R. Lummis
+  - M. Imad Damaj
+  - Henry A. Lester
+  - Ardem Patapoutian
+  - Jeffrey S. Mogil
+  publisher: Science Translational Medicine
+  date: '2015-05-13'
+  link: https://doi.org/gmv7sc
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bbv021
+  title: 'Crowdsourcing in biomedicine: challenges and opportunities'
+  authors:
+  - Ritu Khare
+  - Benjamin M. Good
+  - Robert Leaman
+  - Andrew I. Su
+  - Zhiyong Lu
+  publisher: Briefings in Bioinformatics
+  date: '2015-04-17'
+  link: https://doi.org/f78tkj
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCRESAHA.115.306013
+  title: Harnessing the Heart of Big Data
+  authors:
+  - Sarah B. Scruggs
+  - Karol Watson
+  - Andrew I. Su
+  - Henning Hermjakob
+  - John R. Yates
+  - Merry L. Lindsey
+  - Peipei Ping
+  publisher: Circulation Research
+  date: '2015-03-27'
+  link: https://doi.org/gtrg2x
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84971343428
+  title: Crowdsourcing and mining crowd data
+  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971343428&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC4376322
+  title: Crowdsourcing and mining crowd data.
+  authors:
+  - Robert Leaman
+  - Benjamin M Good
+  - Andrew I Su
+  - Zhiyong Lu
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2022-05-24'
+  link: http://europepmc.org/abstract/med/25592587
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3402/jev.v4.27497
+  title: Integration of extracellular RNA profiling data using metadata, biomedical
+    ontologies and Linked Data technologies
+  authors:
+  - Sai Lakshmi Subramanian
+  - Robert R. Kitchen
+  - Roger Alexander
+  - Bob S. Carter
+  - "Kei\u2010Hoi Cheung"
+  - Louise C. Laurent
+  - Alexander Pico
+  - Lewis R. Roberts
+  - Matthew E. Roth
+  - Joel S. Rozowsky
+  - Andrew I. Su
+  - Mark B. Gerstein
+  - Aleksandar Milosavljevic
+  publisher: Journal of Extracellular Vesicles
+  date: '2015-01-01'
+  link: https://doi.org/gtrg2z
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25592589
+  title: Microtask crowdsourcing for disease mention annotation in PubMed abstracts.
+  authors:
+  - Benjamin M Good
+  - Max Nanis
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2022-05-24'
+  link: http://europepmc.org/abstract/med/25592589
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84971246378
+  title: Microtask crowdsourcing for disease mention annotation in pubmed abstracts
+  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971246378&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12920-015-0095-z
+  title: 'OncoRep: an n-of-1 reporting tool to support genome-guided treatment for
+    breast cancer patients using RNA-sequencing'
+  authors:
+  - "Tobias Mei\xDFner"
+  - Kathleen M Fisch
+  - Louis Gioia
+  - Andrew I Su
+  publisher: BMC Medical Genomics
+  date: '2015-05-21'
+  link: https://doi.org/gb34tr
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84964048048
+  title: 'Wikidata: A platform for data integration and dissemination for the life
+    sciences and beyond'
+  publisher: CEUR Workshop Proceedings
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964048048&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2014.09.006
+  title: Oxidative Stress Diverts tRNA Synthetase to Nucleus for Protection against
+    DNA Damage
+  authors:
+  - Na Wei
+  - Yi Shi
+  - "Lan\_N. Truong"
+  - "Kathleen\_M. Fisch"
+  - Tao Xu
+  - Elisabeth Gardiner
+  - Guangsen Fu
+  - "Yun-Shiuan\_Olivia Hsu"
+  - Shuji Kishi
+  - "Andrew\_I. Su"
+  - Xiaohua Wu
+  - Xiang-Lei Yang
+  publisher: Molecular Cell
+  date: '2014-10-01'
+  link: https://doi.org/f6pc4d
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/009332
+  title: 'MyGene.info: gene annotation query as a service'
+  authors:
+  - Chunlei Wu
+  - Adam Mark
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2014-09-18'
+  link: https://doi.org/gkvs6q
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/008383
+  title: 'Omics Pipe: A Computational Framework for Reproducible Multi-Omics Data
+    Analysis'
+  authors:
+  - Kathleen M Fisch
+  - "Tobias Mei\xDFner"
+  - Louis Gioia
+  - Jean-Christophe Ducom
+  - Tristan Carland
+  - Salvatore Loguercio
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2014-08-23'
+  link: https://doi.org/gkttjd
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcimb.2014.00108
+  title: Functional expression of dental plaque microbiota
+  authors:
+  - Scott N. Peterson
+  - Tobias Meissner
+  - Andrew I. Su
+  - Erik Snesrud
+  - Ana C. Ong
+  - Nicholas J. Schork
+  - Walter A. Bretz
+  publisher: Frontiers in Cellular and Infection Microbiology
+  date: '2014-08-14'
+  link: https://doi.org/gtrg22
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-014-0438-7
+  title: Organizing knowledge to enable personalization of medicine in cancer
+  authors:
+  - Benjamin M Good
+  - Benjamin J Ainscough
+  - Josh F McMichael
+  - Andrew I Su
+  - Obi L Griffith
+  publisher: Genome Biology
+  date: '2014-08-01'
+  link: https://doi.org/gnp849
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/games.3350
+  title: 'The Cure: Design and Evaluation of a Crowdsourcing Game for Gene Selection
+    for Breast Cancer Survival Prediction'
+  authors:
+  - Benjamin M Good
+  - Salvatore Loguercio
+  - Obi L Griffith
+  - Max Nanis
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: JMIR Serious Games
+  date: '2014-07-29'
+  link: https://doi.org/ggv7vg
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gene.2013.08.093
+  title: 'Gene Wiki Reviews: Marrying crowdsourcing with traditional peer review'
+  authors:
+  - Andrew I. Su
+  - Benjamin M. Good
+  - Andre J. van Wijnen
+  publisher: Gene
+  date: '2013-12-01'
+  link: https://doi.org/gtrg23
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/jimmunol.1301279
+  title: Deep Sequencing of the Murine <i>Igh</i> Repertoire Reveals Complex Regulation
+    of Nonrandom V Gene Rearrangement Frequencies
+  authors:
+  - Nancy M. Choi
+  - Salvatore Loguercio
+  - Jiyoti Verma-Gaur
+  - Stephanie C. Degner
+  - Ali Torkamani
+  - Andrew I. Su
+  - Eugene M. Oltz
+  - Maxim Artyomov
+  - Ann J. Feeney
+  publisher: The Journal of Immunology
+  date: '2013-09-01'
+  link: https://doi.org/f49fg3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1304048110
+  title: "Unifying model for molecular determinants of the preselection V\u03B2 repertoire"
+  authors:
+  - Suhasni Gopalakrishnan
+  - Kinjal Majumder
+  - Alexander Predeus
+  - Yue Huang
+  - Olivia I. Koues
+  - Jiyoti Verma-Gaur
+  - Salvatore Loguercio
+  - Andrew I. Su
+  - Ann J. Feeney
+  - Maxim N. Artyomov
+  - Eugene M. Oltz
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2013-08-05'
+  link: https://doi.org/f477pq
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/2041-1480-4-S1-S4
+  title: A task-based approach for Gene Ontology evaluation
+  authors:
+  - Erik L Clarke
+  - Salvatore Loguercio
+  - Benjamin M Good
+  - Andrew I Su
+  publisher: Journal of Biomedical Semantics
+  date: '2013-04-01'
+  link: https://doi.org/gtrg24
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gks1114
+  title: 'BioGPS and MyGene.info: organizing online, gene-centric information'
+  authors:
+  - Chunlei Wu
+  - Ian MacLeod
+  - Andrew I. Su
+  publisher: Nucleic Acids Research
+  date: '2012-11-21'
+  link: https://doi.org/ggpcrs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3782358
+  title: 'Correction: Dizeez: An Online Game for Human Gene-Disease Annotation.'
+  authors:
+  - Salvatore Loguercio
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: PLoS ONE
+  date: '2022-05-23'
+  link: http://europepmc.org/abstract/PMC/PMC3782358
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btt333
+  title: Crowdsourcing for bioinformatics
+  authors:
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Bioinformatics
+  date: '2013-06-19'
+  link: https://doi.org/f455sp
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0071171
+  title: 'Dizeez: An Online Game for Human Gene-Disease Annotation'
+  authors:
+  - Salvatore Loguercio
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: PLoS ONE
+  date: '2013-08-07'
+  link: https://doi.org/gtrg25
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/annotation/efa93b55-c8f0-4943-b922-a585d68f0bd0
+  title: 'Correction: Dizeez: An Online Game for Human Gene-Disease Annotation'
+  authors:
+  - Salvatore Loguercio
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: PLoS ONE
+  date: '2013-08-26'
+  link: https://doi.org/gtrg26
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0072511
+  title: "Identification of Regulatory Elements That Control PPAR\u03B3 Expression\
+    \ in Adipocyte Progenitors"
+  authors:
+  - Wen-Ling Chou
+  - Andrea Galmozzi
+  - David Partida
+  - Kevin Kwan
+  - Hui Yeung
+  - Andrew I. Su
+  - Enrique Saez
+  publisher: PLoS ONE
+  date: '2013-08-29'
+  link: https://doi.org/gtrg27
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2013.03.024
+  title: Stress-Independent Activation of XBP1s and/or ATF6 Reveals Three Functionally
+    Diverse ER Proteostasis Environments
+  authors:
+  - "Matthew\_D. Shoulders"
+  - "Lisa\_M. Ryno"
+  - "Joseph\_C. Genereux"
+  - "James\_J. Moresco"
+  - "Patricia\_G. Tu"
+  - Chunlei Wu
+  - "John\_R. Yates"
+  - "Andrew\_I. Su"
+  - "Jeffery\_W. Kelly"
+  - "R.\_Luke Wiseman"
+  publisher: Cell Reports
+  date: '2013-04-01'
+  link: https://doi.org/f44c6w
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1003244
+  title: Ten Simple Rules for Cultivating Open Science and Collaborative R&amp;D
+  authors:
+  - Hassan Masum
+  - Aarthi Rao
+  - Benjamin M. Good
+  - Matthew H. Todd
+  - Aled M. Edwards
+  - Leslie Chan
+  - Barry A. Bunin
+  - Andrew I. Su
+  - Zakir Thomas
+  - Philip E. Bourne
+  publisher: PLoS Computational Biology
+  date: '2013-09-26'
+  link: https://doi.org/ggsfb4
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/art.37760
+  title: "Zone\u2010specific gene expression patterns in articular cartilage"
+  authors:
+  - Shawn P. Grogan
+  - Stuart F. Duffy
+  - Chantal Pauli
+  - James A. Koziol
+  - Andrew I. Su
+  - Darryl D. D'Lima
+  - Martin K. Lotz
+  publisher: Arthritis &amp; Rheumatism
+  date: '2013-01-28'
+  link: https://doi.org/f4m5s3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1741-7007-10-90
+  title: A gene expression atlas of the domestic pig
+  authors:
+  - Tom C Freeman
+  - Alasdair Ivens
+  - J Kenneth Baillie
+  - Dario Beraldi
+  - Mark W Barnett
+  - David Dorward
+  - Alison Downing
+  - Lynsey Fairbairn
+  - Ronan Kapetanovic
+  - Sobia Raza
+  - Andru Tomoiu
+  - Ramiro Alberio
+  - Chunlei Wu
+  - Andrew I Su
+  - Kim M Summers
+  - Christopher K Tuggle
+  - Alan L Archibald
+  - David A Hume
+  publisher: BMC Biology
+  date: '2012-11-15'
+  link: https://doi.org/gb8xht
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00335-012-9408-0
+  title: "BioGPS and GXD: mouse gene expression data\u2014the benefits and challenges\
+    \ of data integration"
+  authors:
+  - Martin Ringwald
+  - Chunlei Wu
+  - Andrew I. Su
+  publisher: Mammalian Genome
+  date: '2012-07-31'
+  link: https://doi.org/f4bv8k
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/bar060
+  title: Building a biomedical semantic network in Wikipedia with Semantic Wiki Links
+  authors:
+  - B. M. Good
+  - E. L. Clarke
+  - S. Loguercio
+  - A. I. Su
+  publisher: Database
+  date: '2012-03-20'
+  link: https://doi.org/gtrg28
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chembiol.2012.07.005
+  title: Identification of Serum-Derived Sphingosine-1-Phosphate as a Small Molecule
+    Regulator of YAP
+  authors:
+  - Eric Miller
+  - Jiayi Yang
+  - Michael DeRan
+  - Chunlei Wu
+  - "Andrew\_I. Su"
+  - "Ghislain\_M.C. Bonamy"
+  - Jun Liu
+  - "Eric\_C. Peters"
+  - Xu Wu
+  publisher: Chemistry &amp; Biology
+  date: '2012-08-01'
+  link: https://doi.org/f36kdw
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/2041-1480-3-S1-S6
+  title: Linking genes to diseases with a SNPedia-Gene Wiki mashup
+  authors:
+  - Benjamin M Good
+  - Erik L Clarke
+  - Salvatore Loguercio
+  - Andrew I Su
+  publisher: Journal of Biomedical Semantics
+  date: '2012-04-24'
+  link: https://doi.org/gtrg29
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkr925
+  title: 'The Gene Wiki in 2011: community intelligence applied to human gene annotation'
+  authors:
+  - Benjamin M. Good
+  - Erik L. Clarke
+  - Luca de Alfaro
+  - Andrew I. Su
+  publisher: Nucleic Acids Research
+  date: '2011-11-09'
+  link: https://doi.org/b2xp4p
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bies.201200033
+  title: "The evolution of dynamin to regulate clathrin\u2010mediated endocytosis"
+  authors:
+  - "Ya\u2010Wen Liu"
+  - Andrew I. Su
+  - Sandra L. Schmid
+  publisher: BioEssays
+  date: '2012-05-16'
+  link: https://doi.org/fz44v3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HISB.2012.70
+  title: 'genegames.org: High-Throughput Access to Biological Knowledge and Reasoning
+    through Online Games'
+  authors:
+  - Benjamin M. Good
+  - Salvatore Loguercio
+  - Max Nanis
+  - Andrew I. Su
+  publisher: 2012 IEEE Second International Conference on Healthcare Informatics,
+    Imaging and Systems Biology
+  date: '2012-09-01'
+  link: https://doi.org/gtrg3b
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0025807
+  title: CAFET Algorithm Reveals Wnt/PCP Signature in Lung Squamous Cell Carcinoma
+  authors:
+  - Yue Hu
+  - Anna V. Galkin
+  - Chunlei Wu
+  - Venkateshwar Reddy
+  - Andrew I. Su
+  publisher: PLoS ONE
+  date: '2011-10-10'
+  link: https://doi.org/fmscjd
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2011-12-12-135
+  title: Games with a scientific purpose
+  authors:
+  - Benjamin M Good
+  - Andrew I Su
+  publisher: Genome Biology
+  date: '2011-01-01'
+  link: https://doi.org/fxr3dh
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2164-12-603
+  title: Mining the Gene Wiki for functional genomic knowledge
+  authors:
+  - Benjamin M Good
+  - Douglas G Howe
+  - Simon M Lin
+  - Warren A Kibbe
+  - Andrew I Su
+  publisher: BMC Genomics
+  date: '2011-12-01'
+  link: https://doi.org/fqqwdt
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCBB.2010.34
+  title: 'TCLUST: A Fast Method for Clustering Genome-Scale Expression Data'
+  authors:
+  - Banu Dost
+  - ' Chunlei Wu'
+  - Andrew Su
+  - Vineet Bafna
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2011-05-01'
+  link: https://doi.org/fr7
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1752-0509-4-29
+  title: A novel approach to investigate tissue-specific trinucleotide repeat instability
+  authors:
+  - Jong-Min Lee
+  - Jie Zhang
+  - Andrew I Su
+  - John R Walker
+  - Tim Wiltshire
+  - Kihwa Kang
+  - Ella Dragileva
+  - Tammy Gillis
+  - Edith T Lopez
+  - Marie-Josee Boily
+  - Michel Cyr
+  - Isaac Kohane
+  - James F Gusella
+  - Marcy E MacDonald
+  - Vanessa C Wheeler
+  publisher: BMC Systems Biology
+  date: '2010-03-19'
+  link: https://doi.org/dqs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0013920
+  title: Integrative Analysis of Low- and High-Resolution eQTL
+  authors:
+  - Salvatore Loguercio
+  - Rupert W. Overall
+  - Jacob J. Michaelson
+  - Tim Wiltshire
+  - Mathew T. Pletcher
+  - Brooke H. Miller
+  - John R. Walker
+  - Gerd Kempermann
+  - Andrew I. Su
+  - Andreas Beyer
+  publisher: PLoS ONE
+  date: '2010-11-10'
+  link: https://doi.org/dn4x6n
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0014458
+  title: Phenotypic Characterization of a Genetically Diverse Panel of Mice for Behavioral
+    Despair and Anxiety
+  authors:
+  - Brooke H. Miller
+  - Laura E. Schultz
+  - Anisha Gulati
+  - Andrew I. Su
+  - Mathew T. Pletcher
+  publisher: PLoS ONE
+  date: '2010-12-29'
+  link: https://doi.org/bndzcc
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0914019107
+  title: Screening the mammalian extracellular proteome for regulators of embryonic
+    human stem cell pluripotency
+  authors:
+  - Rodolfo Gonzalez
+  - Lori L. Jennings
+  - Mark Knuth
+  - Anthony P. Orth
+  - Heath E. Klock
+  - Weija Ou
+  - Julie Feuerhelm
+  - Mitchell V. Hull
+  - Eric Koesema
+  - Yuping Wang
+  - Jia Zhang
+  - Chunlei Wu
+  - Charles Y. Cho
+  - Andrew I. Su
+  - Serge Batalov
+  - Hong Chen
+  - Kristen Johnson
+  - Bryan Laffitte
+  - Deborah G. Nguyen
+  - Evan Y. Snyder
+  - Peter G. Schultz
+  - Jennifer L. Harris
+  - Scott A. Lesley
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2010-02-23'
+  link: https://doi.org/dq3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2009.08.031
+  title: A Genome-wide RNAi Screen for Modifiers of the Circadian Clock in Human Cells
+  authors:
+  - Eric E. Zhang
+  - Andrew C. Liu
+  - Tsuyoshi Hirota
+  - Loren J. Miraglia
+  - Genevieve Welch
+  - Pagkapol Y. Pongsawakul
+  - Xianzhong Liu
+  - Ann Atwood
+  - Jon W. Huss
+  - Jeff Janes
+  - Andrew I. Su
+  - John B. Hogenesch
+  - Steve A. Kay
+  publisher: Cell
+  date: '2009-10-01'
+  link: https://doi.org/dkvccg
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0004649
+  title: A Common and Unstable Copy Number Variant Is Associated with Differences
+    in Glo1 Expression and Anxiety-Like Behavior
+  authors:
+  - Richard Williams
+  - Jackie E. Lim
+  - Bettina Harr
+  - Claudia Wing
+  - Ryan Walters
+  - Margaret G. Distler
+  - Meike Teschke
+  - Chunlei Wu
+  - Tim Wiltshire
+  - Andrew I. Su
+  - Greta Sokoloff
+  - Lisa M. Tarantino
+  - Justin O. Borevitz
+  - Abraham A. Palmer
+  publisher: PLoS ONE
+  date: '2009-03-06'
+  link: https://doi.org/dw3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2009-10-11-r130
+  title: 'BioGPS: an extensible and customizable portal for querying and organizing
+    gene annotation resources'
+  authors:
+  - Chunlei Wu
+  - Camilo Orozco
+  - Jason Boyer
+  - Marc Leglise
+  - James Goodale
+  - Serge Batalov
+  - Christopher L Hodge
+  - James Haase
+  - Jeff Janes
+  - Jon W Huss
+  - Andrew I Su
+  publisher: Genome Biology
+  date: '2009-11-01'
+  link: https://doi.org/dth
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1359/jbmr.081258
+  title: Genome-Wide Haplotype Association Mapping in Mice Identifies a Genetic Variant
+    in <i>CER1</i> Associated With BMD and Fracture in Southern Chinese Women
+  authors:
+  - Paul LF Tang
+  - Ching-Lung Cheung
+  - Pak C Sham
+  - Philip McClurg
+  - Bob Lee
+  - Shut-Yan Chan
+  - David K Smith
+  - Julian A Tanner
+  - Andrew I Su
+  - Kathryn SE Cheah
+  - Annie WC Kung
+  - You-Qiang Song
+  publisher: Journal of Bone and Mineral Research
+  date: '2009-06-01'
+  link: https://doi.org/dv5
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkp760
+  title: 'The Gene Wiki: community intelligence applied to human gene annotation'
+  authors:
+  - Jon W. Huss
+  - Pierre Lindenbaum
+  - Michael Martone
+  - Donabel Roberts
+  - Angel Pizarro
+  - Faramarz Valafar
+  - John B. Hogenesch
+  - Andrew I. Su
+  publisher: Nucleic Acids Research
+  date: '2009-09-15'
+  link: https://doi.org/dvb
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1472-6769-9-2
+  title: Transcriptional profiling of the effects of 25-hydroxycholesterol on human
+    hepatocyte metabolism and the antiviral state it conveys against the hepatitis
+    C virus
+  authors:
+  - John Paul Pezacki
+  - Selena M Sagan
+  - Angela M Tonary
+  - Yanouchka Rouleau
+  - "Sylvie B\xE9langer"
+  - Lubica Supekova
+  - Andrew I Su
+  publisher: BMC Chemical Biology
+  date: '2009-01-16'
+  link: https://doi.org/dwx
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.0060175
+  title: A Gene Wiki for Community Annotation of Gene Function
+  authors:
+  - Jon W Huss
+  - Camilo Orozco
+  - James Goodale
+  - Chunlei Wu
+  - Serge Batalov
+  - Tim J Vickers
+  - Faramarz Valafar
+  - Andrew I Su
+  publisher: PLoS Biology
+  date: '2008-07-08'
+  link: https://doi.org/d2s
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0748730408322866
+  title: "Clock Gene Wikis Available: Join the \u201CLong Tail\u201D"
+  authors:
+  - John B. Hogenesch
+  - Andrew I. Su
+  publisher: Journal of Biological Rhythms
+  date: '2008-10-01'
+  link: https://doi.org/dzs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1745-7580-4-5
+  title: Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+  authors:
+  - Jane E Lattin
+  - Kate Schroder
+  - Andrew I Su
+  - John R Walker
+  - Jie Zhang
+  - Tim Wiltshire
+  - Kaoru Saijo
+  - Christopher K Glass
+  - David A Hume
+  - Stuart Kellie
+  - Matthew J Sweet
+  publisher: Immunome Research
+  date: '2008-01-01'
+  link: https://doi.org/d29
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1000070
+  title: Gene Set Enrichment in eQTL Data Identifies Novel Annotations and Pathway
+    Regulators
+  authors:
+  - Chunlei Wu
+  - David L. Delano
+  - Nico Mitro
+  - Stephen V. Su
+  - Jeff Janes
+  - Phillip McClurg
+  - Serge Batalov
+  - Genevieve L. Welch
+  - Jie Zhang
+  - Anthony P. Orth
+  - John R. Walker
+  - Richard J. Glynne
+  - Michael P. Cooke
+  - Joseph S. Takahashi
+  - Kazuhiro Shimomura
+  - Akira Kohsaka
+  - Joseph Bass
+  - Enrique Saez
+  - Tim Wiltshire
+  - Andrew I. Su
+  publisher: PLoS Genetics
+  date: '2008-05-09'
+  link: https://doi.org/d3d
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1000232
+  title: 'Genetical Genomics: Spotlight on QTL Hotspots'
+  authors:
+  - Rainer Breitling
+  - Yang Li
+  - Bruno M. Tesson
+  - Jingyuan Fu
+  - Chunlei Wu
+  - Tim Wiltshire
+  - Alice Gerrits
+  - Leonid V. Bystrykh
+  - Gerald de Haan
+  - Andrew I. Su
+  - Ritsert C. Jansen
+  publisher: PLoS Genetics
+  date: '2008-10-24'
+  link: https://doi.org/dzt
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/genetics.106.066241
+  title: 'Genomewide Association Analysis in Diverse Inbred Mice: Power and Population
+    Structure'
+  authors:
+  - Phillip McClurg
+  - Jeff Janes
+  - Chunlei Wu
+  - David L Delano
+  - John R Walker
+  - Serge Batalov
+  - Joseph S Takahashi
+  - Kazuhiro Shimomura
+  - Akira Kohsaka
+  - Joseph Bass
+  - Tim Wiltshire
+  - Andrew I Su
+  publisher: Genetics
+  date: '2007-05-01'
+  link: https://doi.org/d6f
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2007-8-4-404
+  title: Power-law-like distributions in biomedical publications and research funding
+  authors:
+  - Andrew I Su
+  - John B Hogenesch
+  publisher: Genome Biology
+  date: '2007-01-01'
+  link: https://doi.org/d6m
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0511292103
+  title: An efficient rapid system for profiling the cellular activities of molecular
+    libraries
+  authors:
+  - Jonathan S. Melnick
+  - Jeff Janes
+  - Sungjoon Kim
+  - Jim Y. Chang
+  - Daniel G. Sipes
+  - Drew Gunderson
+  - Laura Jarnes
+  - Jason T. Matzen
+  - Michael E. Garcia
+  - Tami L. Hood
+  - Ronak Beigi
+  - Gang Xia
+  - Richard A. Harig
+  - Hayk Asatryan
+  - S. Frank Yan
+  - Yingyao Zhou
+  - Xiang-Ju Gu
+  - Alham Saadat
+  - Vicki Zhou
+  - Frederick J. King
+  - Christopher M. Shaw
+  - Andrew I. Su
+  - Robert Downs
+  - Nathanael S. Gray
+  - Peter G. Schultz
+  - Markus Warmuth
+  - Jeremy S. Caldwell
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2006-02-21'
+  link: https://doi.org/fr6
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-7-61
+  title: Comparative analysis of haplotype association mapping algorithms
+  authors:
+  - Phillip McClurg
+  - Mathew T Pletcher
+  - Tim Wiltshire
+  - Andrew I Su
+  publisher: BMC Bioinformatics
+  date: '2006-02-09'
+  link: https://doi.org/d9v
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng0806-856
+  title: "Reply to \u201CNormalization procedures and detection of linkage signal\
+    \ in genetical-genomics experiments\u201D"
+  authors:
+  - Elissa J Chesler
+  - Leonid Bystrykh
+  - Gerald de Haan
+  - Michael P Cooke
+  - Andrew Su
+  - Kenneth F Manly
+  - Robert W Williams
+  publisher: Nature Genetics
+  date: '2006-08-01'
+  link: https://doi.org/d8q
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1139/o05-149
+  title: The influence of cholesterol and lipid metabolism on host cell structure
+    and hepatitis C virus replication
+  authors:
+  - Selena M Sagan
+  - Yanouchka Rouleau
+  - Cynthia Leggiadro
+  - Lubica Supekova
+  - Peter G Schultz
+  - Andrew I Su
+  - John Paul Pezacki
+  publisher: Biochemistry and Cell Biology
+  date: '2006-02-01'
+  link: https://doi.org/d9w
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/chem.200600307
+  title: "Visual Artificial Tongue for Quantitative Metal\u2010Cation Analysis by\
+    \ an Off\u2010the\u2010Shelf Dye Array"
+  authors:
+  - Jae Wook Lee
+  - "Jun\u2010Seok Lee"
+  - Mira Kang
+  - Andrew I. Su
+  - "Young\u2010Tae Chang"
+  publisher: "Chemistry \u2013 A European Journal"
+  date: '2006-07-17'
+  link: https://doi.org/d8t
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msi206
+  title: Gene Expression Evolves Faster in Narrowly Than in Broadly Expressed Mammalian
+    Genes
+  authors:
+  - Jing Yang
+  - Andrew I. Su
+  - Wen-Hsiung Li
+  publisher: Molecular Biology and Evolution
+  date: '2005-06-29'
+  link: https://doi.org/fcq
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0409459102
+  title: Gene expression profile of murine long-term reconstituting vs. short-term
+    reconstituting hematopoietic stem cells
+  authors:
+  - Jiang F. Zhong
+  - Yi Zhao
+  - Susan Sutton
+  - Andrew Su
+  - Yuxia Zhan
+  - Lunjian Zhu
+  - Chunli Yan
+  - Tim Gallaher
+  - Patrick B. Johnston
+  - W. French Anderson
+  - Michael P. Cooke
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2005-02-04'
+  link: https://doi.org/b5q66z
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jm049032d
+  title: "HierS:\u2009 Hierarchical Scaffold Clustering Using Topological Chemical\
+    \ Graphs"
+  authors:
+  - Steven J. Wilkens
+  - Jeff Janes
+  - Andrew I. Su
+  publisher: Journal of Medicinal Chemistry
+  date: '2005-04-08'
+  link: https://doi.org/fdf
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1091/mbc.E05-01-0062
+  title: 'Large-Scale Profiling of Rab GTPase Trafficking Networks: The Membrome'
+  authors:
+  - Cemal Gurkan
+  - Hilmar Lapp
+  - Christelle Alory
+  - Andrew I. Su
+  - John B. Hogenesch
+  - William E. Balch
+  publisher: Molecular Biology of the Cell
+  date: '2005-08-01'
+  link: https://doi.org/ct86r5
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng1497
+  title: Uncovering regulatory pathways that affect hematopoietic stem cell function
+    using 'genetical genomics'
+  authors:
+  - Leonid Bystrykh
+  - Ellen Weersing
+  - Bert Dontje
+  - Sue Sutton
+  - Mathew T Pletcher
+  - Tim Wiltshire
+  - Andrew I Su
+  - Edo Vellenga
+  - Jintao Wang
+  - Kenneth F Manly
+  - Lu Lu
+  - Elissa J Chesler
+  - Rudi Alberts
+  - Ritsert C Jansen
+  - Robert W Williams
+  - Michael P Cooke
+  - Gerald de Haan
+  publisher: Nature Genetics
+  date: '2005-02-13'
+  link: https://doi.org/fbv
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0400782101
+  title: A gene atlas of the mouse and human protein-encoding transcriptomes
+  authors:
+  - Andrew I. Su
+  - Tim Wiltshire
+  - Serge Batalov
+  - Hilmar Lapp
+  - Keith A. Ching
+  - David Block
+  - Jie Zhang
+  - Richard Soden
+  - Mimi Hayakawa
+  - Gabriel Kreiman
+  - Michael P. Cooke
+  - John R. Walker
+  - John B. Hogenesch
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2004-04-09'
+  link: https://doi.org/fg3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.2161804
+  title: Applications of a Rat Multiple Tissue Gene Expression Data Set
+  authors:
+  - John R. Walker
+  - Andrew I. Su
+  - David W. Self
+  - John B. Hogenesch
+  - Hilmar Lapp
+  - Rainer Maier
+  - Daniel Hoyer
+  - Graeme Bilbe
+  publisher: Genome Research
+  date: '2004-04-01'
+  link: https://doi.org/dcfv8j
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-3543127794
+  title: 'Erratum: Applications of a rat multiple tissue gene expression data set
+    (Genome Research (2004) vol. 14 (742-749))'
+  publisher: Genome Research
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-3543127794&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.0020393
+  title: Use of a Dense Single Nucleotide Polymorphism Map for In Silico Mapping in
+    the Mouse
+  authors:
+  - Mathew T Pletcher
+  - Philip McClurg
+  - Serge Batalov
+  - Andrew I Su
+  - S. Whitney Barnes
+  - Erica Lagler
+  - Ron Korstanje
+  - Xiaosong Wang
+  - Deborah Nusskern
+  - Molly A Bogue
+  - Richard J Mural
+  - Beverly Paigen
+  - Tim Wiltshire
+  publisher: PLoS Biology
+  date: '2004-11-09'
+  link: https://doi.org/ff3
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1097-2765(03)00199-0
+  title: Genome-Wide Analysis of CREB Target Genes Reveals A Core Promoter Requirement
+    for cAMP Responsiveness
+  authors:
+  - Michael D Conkright
+  - "Ernesto Guzm\xE1n"
+  - Lawrence Flechner
+  - Andrew I Su
+  - John B Hogenesch
+  - Marc Montminy
+  publisher: Molecular Cell
+  date: '2003-05-01'
+  link: https://doi.org/c3dzjj
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1097-2765(03)00134-5
+  title: Genome-Wide Analysis of CREB Target Genes Reveals A Core Promoter Requirement
+    for cAMP Responsiveness
+  authors:
+  - Michael D. Conkright
+  - "Ernesto Guzm\xE1n"
+  - Lawrence Flechner
+  - Andrew I. Su
+  - John B. Hogenesch
+  - Marc Montminy
+  publisher: Molecular Cell
+  date: '2003-04-01'
+  link: https://doi.org/fkb
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0002-9440(10)64408-2
+  title: Large Scale Molecular Analysis Identifies Genes with Altered Expression in
+    Salivary Adenoid Cystic Carcinoma
+  authors:
+  - Henry F. Frierson
+  - Adel K. El-Naggar
+  - John B. Welsh
+  - Lisa M. Sapinoso
+  - Andrew I. Su
+  - Jun Cheng
+  - Takashi Saku
+  - Christopher A. Moskaluk
+  - Garret M. Hampton
+  publisher: The American Journal of Pathology
+  date: '2002-10-01'
+  link: https://doi.org/b8w9fs
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0092-8674(02)00722-5
+  title: Coordinated Transcription of Key Pathways in the Mouse by the Circadian Clock
+  authors:
+  - Satchidananda Panda
+  - Marina P. Antoch
+  - Brooke H. Miller
+  - Andrew I. Su
+  - Andrew B. Schook
+  - Marty Straume
+  - Peter G. Schultz
+  - Steve A. Kay
+  - Joseph S. Takahashi
+  - John B. Hogenesch
+  publisher: Cell
+  date: '2002-05-01'
+  link: https://doi.org/fmz
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.122359899
+  title: Gene expression during the priming phase of liver regeneration after partial
+    hepatectomy in mice
+  authors:
+  - Andrew I. Su
+  - Luca G. Guidotti
+  - John Paul Pezacki
+  - Francis V. Chisari
+  - Peter G. Schultz
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2002-08-12'
+  link: https://doi.org/fmp
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.202608199
+  title: Genomic analysis of the host response to hepatitis C virus infection
+  authors:
+  - Andrew I. Su
+  - John P. Pezacki
+  - Lisa Wodicka
+  - Amy D. Brideau
+  - Lubica Supekova
+  - Robert Thimme
+  - Stefan Wieland
+  - Jens Bukh
+  - Robert H. Purcell
+  - Peter G. Schultz
+  - Francis V. Chisari
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2002-11-19'
+  link: https://doi.org/fmf
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1074-5521(02)00174-6
+  title: Genomic Effects of Polyamide/DNA Interactions on mRNA Expression
+  authors:
+  - Lubica Supekova
+  - John Paul Pezacki
+  - Andrew I. Su
+  - Colin J. Loweth
+  - Rainer Riedl
+  - Bernhard Geierstanger
+  - Peter G. Schultz
+  - David E. Wemmer
+  publisher: Chemistry &amp; Biology
+  date: '2002-07-01'
+  link: https://doi.org/fmq
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0036790528
+  title: Large scale molecular analysis identifies genes with altered expression in
+    salivary adenoid cystic carcinoma
+  publisher: American Journal of Pathology
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036790528&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.012025199
+  title: Large-scale analysis of the human and mouse transcriptomes
+  authors:
+  - Andrew I. Su
+  - Michael P. Cooke
+  - Keith A. Ching
+  - Yaron Hakak
+  - John R. Walker
+  - Tim Wiltshire
+  - Anthony P. Orth
+  - Raquel G. Vega
+  - Lisa M. Sapinoso
+  - Aziz Moqrich
+  - Ardem Patapoutian
+  - Garret M. Hampton
+  - Peter G. Schultz
+  - John B. Hogenesch
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2002-03-19'
+  link: https://doi.org/fm5
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:11606367
+  title: Molecular classification of human carcinomas by use of gene expression signatures.
+  authors:
+  - A I Su
+  - J B Welsh
+  - L M Sapinoso
+  - S G Kern
+  - P Dimitrov
+  - H Lapp
+  - P G Schultz
+  - S M Powell
+  - C A Moskaluk
+  - H F Frierson
+  - G M Hampton
+  publisher: Cancer research
+  date: '2022-05-23'
+  link: http://europepmc.org/abstract/med/11606367
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:11507037
+  title: Analysis of gene expression identifies candidate markers and pharmacological
+    targets in prostate cancer.
+  authors:
+  - J B Welsh
+  - L M Sapinoso
+  - A I Su
+  - S G Kern
+  - J Wang-Rodriguez
+  - C A Moskaluk
+  - H F Frierson
+  - G M Hampton
+  publisher: Cancer research
+  date: '2022-05-23'
+  link: http://europepmc.org/abstract/med/11507037
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0092-8674(01)00467-6
+  title: A Comparison of the Celera and Ensembl Predicted Gene Sets Reveals Little
+    Overlap in Novel Genes
+  authors:
+  - John B. Hogenesch
+  - Keith A. Ching
+  - Serge Batalov
+  - Andrew I. Su
+  - John R. Walker
+  - Yingyao Zhou
+  - Steve A. Kay
+  - Peter G. Schultz
+  - Michael P. Cooke
+  publisher: Cell
+  date: '2001-08-01'
+  link: https://doi.org/fn6
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0035881732
+  title: Analysis of gene expression identifies candidate markers and pharmacological
+    targets in prostate cancer
+  publisher: Cancer Research
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0035881732&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0038968618
+  title: 'Combinatorial synthesis and discovery of an antibiotic compound: An experiment
+    suitable for high school and undergraduate laboratories'
+  publisher: Journal of Chemical Education
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0038968618&partnerID=MN8TOARS
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.041452598
+  title: Destabilization of Ca<sup>2+</sup>-free gelsolin may not be responsible for
+    proteolysis in Familial Amyloidosis of Finnish Type
+  authors:
+  - Gayathri Ratnaswamy
+  - Mary E. Huff
+  - Andrew I. Su
+  - Severine Rion
+  - Jeffery W. Kelly
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2001-02-20'
+  link: https://doi.org/bxfbhw
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/1097-0134(20010201)42:2<279::AID-PROT150>3.0.CO;2-U
+  title: 'Docking molecules by families to increase the diversity of hits in database
+    screens: Computational strategy and experimental evaluation'
+  authors:
+  - Andrew I. Su
+  - David M. Lorber
+  - G. Scott Weston
+  - Walter A. Baase
+  - Brian W. Matthews
+  - Brian K. Shoichet
+  publisher: 'Proteins: Structure, Function, and Genetics'
+  date: '2000-01-01'
+  link: https://doi.org/dkvcvj
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jm010451+
+  title: "Synthesis and Biological Evaluation of Myoseverin Derivatives:\u2009 Microtubule\
+    \ Assembly Inhibitors"
+  authors:
+  - Young-Tae Chang
+  - Sarah M. Wignall
+  - Gustavo R. Rosania
+  - Nathanael S. Gray
+  - Sarah R. Hanson
+  - Andrew I. Su
+  - John Merlie,
+  - Ho-Sang Moon
+  - Sameep B. Sangankar
+  - Omar Perez
+  - Rebecca Heald
+  - Peter G. Schultz
+  publisher: Journal of Medicinal Chemistry
+  date: '2001-11-21'
+  link: https://doi.org/fpg
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.01.538993
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
+  authors:
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael D. Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrik A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-02'
+  link: https://doi.org/gtrg2f
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btac205
+  title: Design and application of a knowledge network for automatic prioritization
+    of drug mechanisms
+  authors:
+  - Michael Mayers
+  - Roger Tu
+  - Dylan Steinecke
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2022-04-06'
+  link: https://doi.org/gptwsz
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
