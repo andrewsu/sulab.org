@@ -1,26 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1186/s12915-023-01764-2
-  title: 'Author Correction: A protocol for adding knowledge to Wikidata: aligning
-    resources on human coronaviruses'
+- id: doi:10.1038/s41597-023-02534-z
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
   authors:
-  - Andra Waagmeester
-  - Egon L. Willighagen
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrick A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
   - Andrew I. Su
-  - Martina Kutmon
-  - Jose Emilio Labra Gayo
-  - "Daniel Fern\xE1ndez-\xC1lvarez"
-  - Quentin Groom
-  - Peter J. Schaap
-  - Lisa M. Verhagen
-  - Jasper J. Koehorst
-  publisher: BMC Biology
-  date: '2023-11-16'
-  link: https://doi.org/gtrgz9
+  publisher: Scientific Data
+  date: '2023-09-16'
+  link: https://doi.org/gtrg2b
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
 - id: doi:10.1093/bioinformatics/btad570
   title: 'BioThings Explorer: a query engine for a federated knowledge graph of biomedical
     APIs'
@@ -62,28 +61,26 @@
   link: https://doi.org/gtrg2d
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41597-023-02534-z
-  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
-  authors:
-  - Adriana Carolina Gonzalez-Cavazos
-  - Anna Tanska
-  - Michael Mayers
-  - Denise Carvalho-Silva
-  - Brindha Sridharan
-  - Patrick A. Rewers
-  - Umasri Sankarlal
-  - Lakshmanan Jagannathan
-  - Andrew I. Su
-  publisher: Scientific Data
-  date: '2023-09-16'
-  link: https://doi.org/gtrg2b
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
+- id: doi:10.1101/2021.04.15.440028
+  title: Design and application of a knowledge network for automatic prioritization
+    of drug mechanisms
+  authors:
+  - Michael Mayers
+  - Roger Tu
+  - Dylan Steinecke
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-15'
+  link: https://doi.org/gtrg2h
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2021.09.02.458726
   title: 'Schema Playground: A tool for authoring, extending, and using metadata schemas
     to improve FAIRness of biomedical data'
@@ -99,23 +96,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-09-03'
   link: https://doi.org/gtrg2g
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.04.15.440028
-  title: Design and application of a knowledge network for automatic prioritization
-    of drug mechanisms
-  authors:
-  - Michael Mayers
-  - Roger Tu
-  - Dylan Steinecke
-  - Tong Shu Li
-  - "N\xFAria Queralt-Rosinach"
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-04-15'
-  link: https://doi.org/gtrg2h
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -561,6 +541,21 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/pmic.201700391
+  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
+    Colitic Mice and Control Groups
+  authors:
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: PROTEOMICS
+  date: '2018-02-01'
+  link: https://doi.org/gtrg2r
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1073/pnas.1810137115
   title: The ReFRAME library as a comprehensive drug repurposing library and its application
     to the treatment of cryptosporidiosis
@@ -585,21 +580,6 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2018-10-03'
   link: https://doi.org/gfhbr4
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/pmic.201700391
-  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
-    Colitic Mice and Control Groups
-  authors:
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: PROTEOMICS
-  date: '2018-02-01'
-  link: https://doi.org/gtrg2r
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -1287,6 +1267,20 @@
   publisher: Journal of Extracellular Vesicles
   date: '2015-01-01'
   link: https://doi.org/gtrg2z
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25592589
+  title: Microtask crowdsourcing for disease mention annotation in PubMed abstracts.
+  authors:
+  - Benjamin M Good
+  - Max Nanis
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2022-05-24'
+  link: http://europepmc.org/abstract/med/25592589
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py

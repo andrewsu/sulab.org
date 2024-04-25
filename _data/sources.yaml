@@ -4,8 +4,11 @@
 - id: doi:10.1093/bioinformatics/btad570
   image: images/bte.jpeg
 
-- id: eid:2-s2.0-84971246378
-  remove: true
+- id: doi:10.1101/2023.05.12.540594
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
 
-- id: pmid:25592589
+# Article removals
+#
+# remove correction for A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses
+- id: doi:10.1186/s12915-023-01764-2
   remove: true
