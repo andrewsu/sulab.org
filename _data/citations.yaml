@@ -2000,19 +2000,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: pmc:PMC3782358
-  title: 'Correction: Dizeez: An Online Game for Human Gene-Disease Annotation.'
-  authors:
-  - Salvatore Loguercio
-  - Benjamin M. Good
-  - Andrew I. Su
-  publisher: PLoS ONE
-  date: '2022-05-23'
-  link: http://europepmc.org/abstract/PMC/PMC3782358
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btt333
   title: Crowdsourcing for bioinformatics
   authors:
