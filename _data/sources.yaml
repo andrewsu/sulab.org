@@ -1,3 +1,5 @@
+# Thumbnail image additions
+
 - id: doi:10.1038/s41597-023-02534-z
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
 
@@ -7,6 +9,8 @@
 - id: doi:10.1101/2023.05.12.540594
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
 
+- id: doi:10.1186/s12859-023-05258-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-023-05258-4/MediaObjects/12859_2023_5258_Fig1_HTML.png?as=webp
 # Article removals
 #
 # remove correction for A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses
