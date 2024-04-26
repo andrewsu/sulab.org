@@ -1,5 +1,489 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.05.01.538993
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
+  authors:
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael D. Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrik A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-02'
+  link: https://doi.org/gtrg2f
+  orcid: 0000-0002-7792-0150
+  mike-mayers-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btac205
+  title: Design and application of a knowledge network for automatic prioritization
+    of drug mechanisms
+  authors:
+  - Michael Mayers
+  - Roger Tu
+  - Dylan Steinecke
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2022-04-06'
+  link: https://doi.org/gptwsz
+  orcid: 0000-0002-9859-4104
+  mike-mayers-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  roger-tu-list: true
+  andrew-su-list: true
+- id: doi:10.1186/s12859-019-3297-0
+  title: Time-resolved evaluation of compound repositioning predictions on a text-mined
+    knowledge network
+  authors:
+  - Michael Mayers
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I. Su
+  publisher: BMC Bioinformatics
+  date: '2019-12-01'
+  link: https://doi.org/ggpcsr
+  orcid: 0000-0002-9859-4104
+  mike-mayers-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1101/729475
+  title: Structured Reviews for Data and Knowledge Driven Research
+  authors:
+  - "N\xFAria Queralt-Rosinach"
+  - Gregory S. Stupp
+  - Tong Shu Li
+  - Michael Mayers
+  - Maureen E. Hoatlin
+  - Matthew Might
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-12'
+  link: https://doi.org/gkxdqp
+  orcid: 0000-0002-7792-0150
+  mike-mayers-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/564187
+  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
+    Biomedical Abstracts
+  authors:
+  - Ginger Tsueng
+  - Max Nanis
+  - Jennifer T. Fouquier
+  - Michael Mayers
+  - Benjamin M. Good
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-28'
+  link: https://doi.org/gkv78t
+  orcid: 0000-0002-7792-0150
+  mike-mayers-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.6b00938
+  title: Quantitative Metaproteomics and Activity-Based Probe Enrichment Reveals Significant
+    Alterations in Protein Expression from a Mouse Model of Inflammatory Bowel Disease
+  authors:
+  - Michael D. Mayers
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: Journal of Proteome Research
+  date: '2017-01-23'
+  link: https://doi.org/f9q8c4
+  orcid: 0000-0002-9859-4104
+  mike-mayers-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.7554/elife.52614
+  title: Wikidata as a knowledge graph for the life sciences
+  authors:
+  - Andra Waagmeester
+  - Gregory Stupp
+  - Sebastian Burgstaller-Muehlbacher
+  - Benjamin M Good
+  - Malachi Griffith
+  - Obi L Griffith
+  - Kristina Hanspers
+  - Henning Hermjakob
+  - Toby S Hudson
+  - Kevin Hybiske
+  - Sarah M Keating
+  - Magnus Manske
+  - Michael Mayers
+  - Daniel Mietchen
+  - Elvira Mitraka
+  - Alexander R Pico
+  - Timothy Putman
+  - Anders Riutta
+  - Nuria Queralt-Rosinach
+  - Lynn M Schriml
+  - Thomas Shafee
+  - Denise Slenter
+  - Ralf Stephan
+  - Katherine Thornton
+  - Ginger Tsueng
+  - Roger Tu
+  - Sabah Ul-Hasan
+  - Egon Willighagen
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: eLife
+  date: '2020-03-17'
+  link: https://doi.org/ggqqc6
+  orcid: 0000-0002-9859-4104
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1371/journal.pone.0173375
+  title: Effects of diluents on cell culture viability measured by automated cell
+    counter
+  authors:
+  - Aaron Chen
+  - Matthew Leith
+  - Roger Tu
+  - Gurpreet Tahim
+  - Anish Sudra
+  - Swapnil Bhargava
+  publisher: PLOS ONE
+  date: '2017-03-06'
+  link: https://doi.org/f9s3sj
+  orcid: 0000-0002-7899-1604
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ma9030196
+  title: Nanotextured Shrink Wrap Superhydrophobic Surfaces by Argon Plasma Etching
+  authors:
+  - Jolie Nokes
+  - Himanshu Sharma
+  - Roger Tu
+  - Monica Kim
+  - Michael Chu
+  - Ali Siddiqui
+  - Michelle Khine
+  publisher: Materials
+  date: '2016-03-14'
+  link: https://doi.org/f8h9tw
+  orcid: 0000-0002-7899-1604
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biomaterials.2013.10.007
+  title: Integrated platform for functional monitoring of biomimetic heart sheets
+    derived from human pluripotent stem cells
+  authors:
+  - Aaron Chen
+  - Eugene Lee
+  - Roger Tu
+  - Kevin Santiago
+  - Anna Grosberg
+  - Charless Fowlkes
+  - Michelle Khine
+  publisher: Biomaterials
+  date: '2014-01-01'
+  link: https://doi.org/f5kqqz
+  orcid: 0000-0002-7899-1604
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-1047-2_9
+  title: Shrink-Induced Biomimetic Wrinkled Substrates for Functional Cardiac Cell
+    Alignment and Culture
+  authors:
+  - Nicole Mendoza
+  - Roger Tu
+  - Aaron Chen
+  - Eugene Lee
+  - Michelle Khine
+  publisher: Methods in Molecular Biology
+  date: '2014-01-01'
+  link: https://doi.org/f6j8hj
+  orcid: 0000-0002-7899-1604
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+  authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-2629-6124
+  marco-cano-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  chunlei-wu-list: true
+- id: doi:10.1101/2022.10.10.511492
+  title: Developing a standardized but extendable framework to increase the findability
+    of infectious disease datasets
+  authors:
+  - Ginger Tsueng
+  - Marco A. Alvarado Cano
+  - "Jos\xE9 Bento"
+  - Candice Czech
+  - Mengjia Kang
+  - Lars Pache
+  - Luke V. Rasmussen
+  - Tor C. Savidge
+  - Justin Starren
+  - Qinglong Wu
+  - Jiwen Xin
+  - Michael R. Yeaman
+  - Xinghua Zhou
+  - Andrew I. Su
+  - Chunlei Wu
+  - Liliana Brown
+  - Reed S. Shabman
+  - Laura D. Hughes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-13'
+  link: https://doi.org/gtsb8f
+  orcid: 0000-0001-6992-8390
+  marco-cano-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.20.477133
+  title: 'Outbreak.info Research Library: A standardized, searchable platform to discover
+    and explore COVID-19 resources'
+  authors:
+  - Ginger Tsueng
+  - Julia L. Mullen
+  - Manar Alkuzweny
+  - Marco Cano
+  - Benjamin Rush
+  - Emily Haag
+  - Jason Lin
+  - Dylan J. Welzel
+  - Xinghua Zhou
+  - Zhongchao Qian
+  - Alaa Abdel Latif
+  - Emory Hufbauer
+  - Mark Zeller
+  - Kristian G. Andersen
+  - Chunlei Wu
+  - Andrew I. Su
+  - Karthik Gangavarapu
+  - Laura D. Hughes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-21'
+  link: https://doi.org/gsvqq9
+  orcid: 0000-0001-6992-8390
+  marco-cano-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btad570
+  title: 'BioThings Explorer: a query engine for a federated knowledge graph of biomedical
+    APIs'
+  authors:
+  - Jackson Callaghan
+  - Colleen H Xu
+  - Jiwen Xin
+  - Marco Alvarado Cano
+  - Anders Riutta
+  - Eric Zhou
+  - Rohan Juneja
+  - Yao Yao
+  - Madhumita Narayan
+  - Kristina Hanspers
+  - Ayushi Agrawal
+  - Alexander R Pico
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2023-09-01'
+  link: https://doi.org/gtrg2c
+  orcid: 0000-0002-9859-4104
+  chunlei-wu-list: true
+  plugin: sources.py
+  file: sources.yaml
+  andrew-su-list: true
+  image: images/bte.jpeg
+- id: doi:10.1038/s41597-023-01969-8
+  title: Addressing barriers in FAIR data practices for biomedical data
+  authors:
+  - Laura D. Hughes
+  - Ginger Tsueng
+  - Jack DiGiovanna
+  - Thomas D. Horvath
+  - Luke V. Rasmussen
+  - Tor C. Savidge
+  - Thomas Stoeger
+  - Serdar Turkarslan
+  - Qinglong Wu
+  - Chunlei Wu
+  - Andrew I. Su
+  - Lars Pache
+  publisher: Scientific Data
+  date: '2023-02-23'
+  link: https://doi.org/gtr8pp
+  orcid: 0000-0002-9859-4104
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1093/nargab/lqac017
+  title: Generation and network analysis of an RNA-seq transcriptional atlas for the
+    rat
+  authors:
+  - Kim M Summers
+  - Stephen J Bush
+  - Chunlei Wu
+  - David A Hume
+  publisher: NAR Genomics and Bioinformatics
+  date: '2022-01-13'
+  link: https://doi.org/gtsb8b
+  orcid: 0000-0002-2629-6124
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.09.02.458726
+  title: 'Schema Playground: A tool for authoring, extending, and using metadata schemas
+    to improve FAIRness of biomedical data'
+  authors:
+  - Marco Cano
+  - Ginger Tsueng
+  - Xinghua Zhou
+  - Laura D. Hughes
+  - Julia L. Mullen
+  - Jiwen Xin
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-03'
+  link: https://doi.org/gtrg2g
+  orcid: 0000-0002-2629-6124
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.37044/osf.io/8qdse
+  title: Data validation and schema interoperability
+  authors:
+  - Leyla Jael Castro
+  - Jerven Bolleman
+  - michel dumontier
+  - Simon Jupp
+  - Jose Emilio Labra-Gayo
+  - Thomas Liener
+  - Tazro Ohta
+  - "N\xFAria Queralt-Rosinach"
+  - Chunlei Wu
+  publisher: Center for Open Science
+  date: '2020-04-07'
+  link: https://doi.org/gtsb8c
+  orcid: 0000-0002-2629-6124
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/baz041
+  title: 'ChlamBase: a curated model organism database for the Chlamydia research
+    community'
+  authors:
+  - Tim Putman
+  - Kevin Hybiske
+  - Derek Jow
+  - Cyrus Afrasiabi
+  - Sebastien Lelong
+  - Marco Alvarado Cano
+  - Gregory S Stupp
+  - Andra Waagmeester
+  - Benjamin M Good
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: Database
+  date: '2019-01-01'
+  link: https://doi.org/gtsb8d
+  orcid: 0000-0002-2629-6124
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/database/baz091
+  title: 'ChlamBase: a curated model organism database for the Chlamydia research
+    community'
+  authors:
+  - Tim Putman
+  - Kevin Hybiske
+  - Derek Jow
+  - Cyrus Afrasiabi
+  - Sebastien Lelong
+  - Marco Alvarado Cano
+  - Gregory S Stupp
+  - Andra Waagmeester
+  - Benjamin M Good
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: Database
+  date: '2019-01-01'
+  link: https://doi.org/gtr8px
+  orcid: 0000-0002-9859-4104
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1371/journal.pgen.1006997
+  title: A high resolution atlas of gene expression in the domestic sheep (Ovis aries)
+  authors:
+  - Emily L. Clark
+  - Stephen J. Bush
+  - Mary E. B. McCulloch
+  - Iseabail L. Farquhar
+  - Rachel Young
+  - Lucas Lefevre
+  - Clare Pridans
+  - Hiu G. Tsang
+  - Chunlei Wu
+  - Cyrus Afrasiabi
+  - Mick Watson
+  - C. Bruce Whitelaw
+  - Tom C. Freeman
+  - Kim M. Summers
+  - Alan L. Archibald
+  - David A. Hume
+  publisher: PLOS Genetics
+  date: '2017-09-15'
+  link: https://doi.org/gbw67w
+  orcid: 0000-0002-2629-6124
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/121178
+  title: 'EXPLANe: An Extensible Framework for Poster Annotation with Mobile Devices'
+  authors:
+  - Nikhil Gopal
+  - Andrew Su
+  - Chunlei Wu
+  - Sean D. Mooney
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-29'
+  link: https://doi.org/gkz3cs
+  orcid: 0000-0002-9859-4104
+  chunlei-wu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
 - id: doi:10.4049/jimmunol.2300769
   title: Repositioning the Early Pathology of Type 1 Diabetes to the Extraislet Vasculature
   authors:
@@ -102,32 +586,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/bioinformatics/btad570
-  title: 'BioThings Explorer: a query engine for a federated knowledge graph of biomedical
-    APIs'
-  authors:
-  - Jackson Callaghan
-  - Colleen H Xu
-  - Jiwen Xin
-  - Marco Alvarado Cano
-  - Anders Riutta
-  - Eric Zhou
-  - Rohan Juneja
-  - Yao Yao
-  - Madhumita Narayan
-  - Kristina Hanspers
-  - Ayushi Agrawal
-  - Alexander R Pico
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: Bioinformatics
-  date: '2023-09-01'
-  link: https://doi.org/gtrg2c
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/bte.jpeg
 - id: doi:10.1186/s13195-023-01255-0
   title: "Association study between drug prescriptions and Alzheimer\u2019s disease\
     \ claims in a commercial insurance database"
@@ -181,28 +639,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-023-05258-4/MediaObjects/12859_2023_5258_Fig1_HTML.png?as=webp
-- id: doi:10.1038/s41597-023-01969-8
-  title: Addressing barriers in FAIR data practices for biomedical data
-  authors:
-  - Laura D. Hughes
-  - Ginger Tsueng
-  - Jack DiGiovanna
-  - Thomas D. Horvath
-  - Luke V. Rasmussen
-  - Tor C. Savidge
-  - Thomas Stoeger
-  - Serdar Turkarslan
-  - Qinglong Wu
-  - Chunlei Wu
-  - Andrew I. Su
-  - Lars Pache
-  publisher: Scientific Data
-  date: '2023-02-23'
-  link: https://doi.org/gtr8pp
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41597-023-01968-9
   title: Developing a standardized but extendable framework to increase the findability
     of infectious disease datasets
@@ -366,24 +802,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/bioinformatics/btac205
-  title: Design and application of a knowledge network for automatic prioritization
-    of drug mechanisms
-  authors:
-  - Michael Mayers
-  - Roger Tu
-  - Dylan Steinecke
-  - Tong Shu Li
-  - "N\xFAria Queralt-Rosinach"
-  - Andrew I Su
-  publisher: Bioinformatics
-  date: '2022-04-06'
-  link: https://doi.org/gptwsz
-  orcid: 0000-0002-7792-0150
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-  mike-mayers-list: true
 - id: doi:10.1016/j.gene.2022.146534
   title: A retrospective evaluation of a decade of Gene Wiki Reviews and their impact
   authors:
@@ -566,46 +984,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/elife.52614
-  title: Wikidata as a knowledge graph for the life sciences
-  authors:
-  - Andra Waagmeester
-  - Gregory Stupp
-  - Sebastian Burgstaller-Muehlbacher
-  - Benjamin M Good
-  - Malachi Griffith
-  - Obi L Griffith
-  - Kristina Hanspers
-  - Henning Hermjakob
-  - Toby S Hudson
-  - Kevin Hybiske
-  - Sarah M Keating
-  - Magnus Manske
-  - Michael Mayers
-  - Daniel Mietchen
-  - Elvira Mitraka
-  - Alexander R Pico
-  - Timothy Putman
-  - Anders Riutta
-  - Nuria Queralt-Rosinach
-  - Lynn M Schriml
-  - Thomas Shafee
-  - Denise Slenter
-  - Ralf Stephan
-  - Katherine Thornton
-  - Ginger Tsueng
-  - Roger Tu
-  - Sabah Ul-Hasan
-  - Egon Willighagen
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: eLife
-  date: '2020-03-17'
-  link: https://doi.org/ggqqc6
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btz678
   title: Applying citizen science to gene, drug and disease relationship extraction
     from biomedical abstracts
@@ -664,22 +1042,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s12859-019-3297-0
-  title: Time-resolved evaluation of compound repositioning predictions on a text-mined
-    knowledge network
-  authors:
-  - Michael Mayers
-  - Tong Shu Li
-  - "N\xFAria Queralt-Rosinach"
-  - Andrew I. Su
-  publisher: BMC Bioinformatics
-  date: '2019-12-01'
-  link: https://doi.org/ggpcsr
-  orcid: 0000-0002-7792-0150
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-  mike-mayers-list: true
 - id: doi:10.1371/journal.pone.0222165
   title: Advancing computational biology and bioinformatics research through open
     innovation competitions
@@ -829,28 +1191,6 @@
   publisher: Molecular Immunology
   date: '2019-03-01'
   link: https://doi.org/gtrg2p
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/database/baz091
-  title: 'ChlamBase: a curated model organism database for the Chlamydia research
-    community'
-  authors:
-  - Tim Putman
-  - Kevin Hybiske
-  - Derek Jow
-  - Cyrus Afrasiabi
-  - Sebastien Lelong
-  - Marco Alvarado Cano
-  - Gregory S Stupp
-  - Andra Waagmeester
-  - Benjamin M Good
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: Database
-  date: '2019-01-01'
-  link: https://doi.org/gtr8px
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
   plugin: orcid.py
@@ -1153,20 +1493,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/121178
-  title: 'EXPLANe: An Extensible Framework for Poster Annotation with Mobile Devices'
-  authors:
-  - Nikhil Gopal
-  - Andrew Su
-  - Chunlei Wu
-  - Sean D. Mooney
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-03-29'
-  link: https://doi.org/gkz3cs
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/ng.3774
   title: CIViC is a community knowledgebase for expert crowdsourcing the clinical
     interpretation of variants in cancer
@@ -1223,23 +1549,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/acs.jproteome.6b00938
-  title: Quantitative Metaproteomics and Activity-Based Probe Enrichment Reveals Significant
-    Alterations in Protein Expression from a Mouse Model of Inflammatory Bowel Disease
-  authors:
-  - Michael D. Mayers
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: Journal of Proteome Research
-  date: '2017-01-23'
-  link: https://doi.org/f9q8c4
-  orcid: 0000-0002-7792-0150
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-  mike-mayers-list: true
 - id: doi:10.1093/database/bax025
   title: 'WikiGenomes: an open web application for community consumption and curation
     of gene annotation data in Wikidata'
@@ -3174,59 +3483,5 @@
   link: https://doi.org/fpg
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.05.01.538993
-  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
-  authors:
-  - Adriana Carolina Gonzalez-Cavazos
-  - Anna Tanska
-  - Michael D. Mayers
-  - Denise Carvalho-Silva
-  - Brindha Sridharan
-  - Patrik A. Rewers
-  - Umasri Sankarlal
-  - Lakshmanan Jagannathan
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-02'
-  link: https://doi.org/gtrg2f
-  orcid: 0000-0002-7792-0150
-  mike-mayers-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/729475
-  title: Structured Reviews for Data and Knowledge Driven Research
-  authors:
-  - "N\xFAria Queralt-Rosinach"
-  - Gregory S. Stupp
-  - Tong Shu Li
-  - Michael Mayers
-  - Maureen E. Hoatlin
-  - Matthew Might
-  - Benjamin M. Good
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-08-12'
-  link: https://doi.org/gkxdqp
-  orcid: 0000-0002-7792-0150
-  mike-mayers-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/564187
-  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
-    Biomedical Abstracts
-  authors:
-  - Ginger Tsueng
-  - Max Nanis
-  - Jennifer T. Fouquier
-  - Michael Mayers
-  - Benjamin M. Good
-  - Andrew I Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-28'
-  link: https://doi.org/gkv78t
-  orcid: 0000-0002-7792-0150
-  mike-mayers-list: true
   plugin: orcid.py
   file: orcid.yaml
