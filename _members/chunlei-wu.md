@@ -1,6 +1,6 @@
 ---
 name: Chunlei Wu
-image: images/photo.jpg
+image: https://www.gravatar.com/avatar/108605daee6b3c24d02db9753637a66b?s=200
 role: pi
 group: cwu-lab
 aliases:

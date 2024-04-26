@@ -1,6 +1,6 @@
 ---
 name: Mike Mayers
-image: images/photo.jpg
+image: images/mayers-768x768.jpg
 role: phd
 group: alum
 aliases:

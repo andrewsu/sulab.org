@@ -15,10 +15,11 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-05-02'
   link: https://doi.org/gtrg2f
-  orcid: 0000-0002-7792-0150
+  orcid: 0000-0001-9615-7157
   mike-mayers-list: true
   plugin: orcid.py
   file: orcid.yaml
+  carolina-gonzalez-cavazos-list: true
 - id: doi:10.1093/bioinformatics/btac205
   title: Design and application of a knowledge network for automatic prioritization
     of drug mechanisms
@@ -236,6 +237,7 @@
   marco-cano-list: true
   plugin: orcid.py
   file: orcid.yaml
+  ginger-tsueng-list: true
   chunlei-wu-list: true
 - id: doi:10.1101/2022.10.10.511492
   title: Developing a standardized but extendable framework to increase the findability
@@ -291,8 +293,28 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-01-21'
   link: https://doi.org/gsvqq9
-  orcid: 0000-0001-6992-8390
+  orcid: 0000-0001-9536-9115
   marco-cano-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  ginger-tsueng-list: true
+- id: doi:10.1111/mec.16873
+  title: Ecological network structure in response to community assembly processes
+    over evolutionary time
+  authors:
+  - Natalie R. Graham
+  - Henrik Krehenwinkel
+  - Jun Ying Lim
+  - Phillip Staniczenko
+  - Jackson Callaghan
+  - Jeremy C. Andersen
+  - Daniel S. Gruner
+  - Rosemary G. Gillespie
+  publisher: Molecular Ecology
+  date: '2023-02-15'
+  link: https://doi.org/gtsb88
+  orcid: 0000-0001-7627-2086
+  jackson-callaghan-list: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btad570
@@ -317,11 +339,106 @@
   date: '2023-09-01'
   link: https://doi.org/gtrg2c
   orcid: 0000-0002-9859-4104
+  jackson-callaghan-list: true
+  plugin: sources.py
+  file: sources.yaml
+  colleen-xu-list: true
   chunlei-wu-list: true
+  andrew-su-list: true
+  image: images/bte.jpeg
+- id: doi:10.1017/cts.2023.619
+  title: 'An approach for collaborative development of a federated biomedical knowledge
+    graph-based question-answering system: Question-of-the-Month challenges'
+  authors:
+  - Karamarie Fecho
+  - Chris Bizon
+  - Tursynay Issabekova
+  - Sierra Moxon
+  - Anne E. Thessen
+  - Shervin Abdollahi
+  - Sergio E. Baranzini
+  - Basazin Belhu
+  - William E. Byrd
+  - Lawrence Chung
+  - Andrew Crouse
+  - Marc P. Duby
+  - Stephen Ferguson
+  - Aleksandra Foksinska
+  - Laura Forero
+  - Jennifer Friedman
+  - Vicki Gardner
+  - "Gw\xEAnlyn Glusman"
+  - Jennifer Hadlock
+  - Kristina Hanspers
+  - Eugene Hinderer
+  - Charlotte Hobbs
+  - Gregory Hyde
+  - Sui Huang
+  - David Koslicki
+  - Philip Mease
+  - Sandrine Muller
+  - Christopher J. Mungall
+  - Stephen A. Ramsey
+  - Jared Roach
+  - Irit Rubin
+  - Shepherd H. Schurman
+  - Anath Shalev
+  - Brett Smith
+  - Karthik Soman
+  - Sarah Stemann
+  - Andrew I. Su
+  - Casey Ta
+  - Paul B. Watkins
+  - Mark D. Williams
+  - Chunlei Wu
+  - Colleen H. Xu
+  publisher: Journal of Clinical and Translational Science
+  date: '2023-01-01'
+  link: https://doi.org/gtr8pm
+  orcid: 0000-0002-9859-4104
+  colleen-xu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1186/s12859-023-05258-4
+  title: 'Schema Playground: a tool for authoring, extending, and using metadata schemas
+    to improve FAIRness of biomedical data'
+  authors:
+  - Marco A. Cano
+  - Ginger Tsueng
+  - Xinghua Zhou
+  - Jiwen Xin
+  - Laura D. Hughes
+  - Julia L. Mullen
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: BMC Bioinformatics
+  date: '2023-04-20'
+  link: https://doi.org/gr9ccd
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: images/bte.jpeg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-023-05258-4/MediaObjects/12859_2023_5258_Fig1_HTML.png?as=webp
+- id: doi:10.37044/osf.io/3b9gp
+  title: Enabling profile updates through the Data Discovery Engine (DDE)
+  authors:
+  - Ginger Tsueng
+  - Sahar Frika
+  - Alasdair J. G. Gray
+  - Marcos Casado Barbero
+  - Alban Gaignard
+  - "Ivan Mi\u010Deti\u0107"
+  - Leyla Jael Castro
+  - Nick Juty
+  publisher: Center for Open Science
+  date: '2023-04-03'
+  link: https://doi.org/gtsb89
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41597-023-01969-8
   title: Addressing barriers in FAIR data practices for biomedical data
   authors:
@@ -341,23 +458,681 @@
   date: '2023-02-23'
   link: https://doi.org/gtr8pp
   orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  laura-hughes-list: true
   chunlei-wu-list: true
+  andrew-su-list: true
+- id: doi:10.5281/zenodo.6816052
+  title: Figures associated with "Developing a standardized but extendable framework
+    to increase the findability of infectious disease datasets"
+  authors:
+  - Ginger Tsueng
+  - Marco A. Alvarado Cano
+  - "Jos\xE9 Bento"
+  - Candice Czech
+  - Lars Pache
+  - Tor C. Savidge
+  - Justin Starren
+  - Luke V. Rasmussen
+  - Mengjia Kang
+  - Qinglong Wu
+  - Jiwen Xin
+  - Xinghua Zhou
+  - Andrew I. Su
+  - Chunlei Wu
+  - Liliana Brown
+  - Reed S. Shabman
+  - Laura D. Hughes
+  publisher: Zenodo
+  date: '2022-07-10'
+  link: https://doi.org/gtsb9b
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.27.22269965
+  title: 'Outbreak.info genomic reports: scalable and dynamic surveillance of SARS-CoV-2
+    variants and mutations'
+  authors:
+  - Karthik Gangavarapu
+  - Alaa Abdel Latif
+  - Julia L. Mullen
+  - Manar Alkuzweny
+  - Emory Hufbauer
+  - Ginger Tsueng
+  - Emily Haag
+  - Mark Zeller
+  - Christine M. Aceves
+  - Karina Zaiets
+  - Marco Cano
+  - Jerry Zhou
+  - Zhongchao Qian
+  - Rachel Sattler
+  - Nathaniel L Matteson
+  - Joshua I. Levy
+  - Raphael TC Lee
+  - Lucas Freitas
+  - Sebastian Maurer-Stroh
+  - Marc A. Suchard
+  - Chunlei Wu
+  - Andrew I. Su
+  - Kristian G. Andersen
+  - Laura D. Hughes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-29'
+  link: https://doi.org/gscp3r
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gene.2022.146534
+  title: A retrospective evaluation of a decade of Gene Wiki Reviews and their impact
+  authors:
+  - Andre J. van Wijnen
+  - Erica Golemis
+  - Israel Hanukoglu
+  - Stephen Kwok-Wing Tsui
+  - Eric Hu
+  - Sabah Ul-Hasan
+  - Janet Joy
+  - Andrew I. Su
+  - Ginger Tsueng
+  publisher: Gene
+  date: '2022-07-01'
+  link: https://doi.org/gtr8pt
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
   plugin: orcid.py
   file: orcid.yaml
   andrew-su-list: true
-- id: doi:10.1093/nargab/lqac017
-  title: Generation and network analysis of an RNA-seq transcriptional atlas for the
-    rat
+- id: doi:10.1101/2021.10.18.464256
+  title: 'BioThings SDK: a toolkit for building high-performance data APIs in biomedical
+    research'
   authors:
-  - Kim M Summers
-  - Stephen J Bush
+  - Sebastien Lelong
+  - Xinghua Zhou
+  - Cyrus Afrasiabi
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Ginger Tsueng
+  - Jiwen Xin
+  - Julia Mullen
+  - Yao Yao
+  - Ricardo Avila
+  - Greg Taylor
+  - Andrew I Su
   - Chunlei Wu
-  - David A Hume
-  publisher: NAR Genomics and Bioinformatics
-  date: '2022-01-13'
-  link: https://doi.org/gtsb8b
-  orcid: 0000-0002-2629-6124
-  chunlei-wu-list: true
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-10-19'
+  link: https://doi.org/gtsb9c
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/799684
+  title: Wikidata as a FAIR knowledge graph for the life sciences
+  authors:
+  - Andra Waagmeester
+  - Gregory Stupp
+  - Sebastian Burgstaller-Muehlbacher
+  - Benjamin M. Good
+  - Malachi Griffith
+  - Obi Griffith
+  - Kristina Hanspers
+  - Henning Hermjakob
+  - Toby S. Hudson
+  - Kevin Hybiske
+  - Sarah M. Keating
+  - Magnus Manske
+  - Michael Mayers
+  - Daniel Mietchen
+  - Elvira Mitraka
+  - Alexander R. Pico
+  - Timothy Putman
+  - Anders Riutta
+  - "N\xFAria Queralt-Rosinach"
+  - Lynn M. Schriml
+  - Thomas Shafee
+  - Denise Slenter
+  - Ralf Stephan
+  - Katherine Thornton
+  - Ginger Tsueng
+  - Roger Tu
+  - Sabah Ul-Hasan
+  - Egon Willighagen
+  - Chunlei Wu
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-10-21'
+  link: https://doi.org/gkv79g
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btz678
+  title: Applying citizen science to gene, drug and disease relationship extraction
+    from biomedical abstracts
+  authors:
+  - Ginger Tsueng
+  - Max Nanis
+  - Jennifer T Fouquier
+  - Michael Mayers
+  - Benjamin M Good
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2019-09-03'
+  link: https://doi.org/ghbhx7
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.15346/hc.v6i1.4
+  title: 'Aligning Needs: Integrating Citizen Science Efforts into Schools Through
+    Service Requirements.'
+  authors:
+  - Ginger Tsueng
+  - Arun Kumar
+  - Steven Max Nanis
+  - Andrew I Su
+  publisher: Human Computation
+  date: '2019-06-02'
+  link: https://doi.org/gtrg2n
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1186/s12859-018-2041-5
+  title: Cross-linking BioThings APIs through JSON-LD to facilitate knowledge exploration
+  authors:
+  - Jiwen Xin
+  - Cyrus Afrasiabi
+  - Sebastien Lelong
+  - Julee Adesara
+  - Ginger Tsueng
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: BMC Bioinformatics
+  date: '2018-02-01'
+  link: https://doi.org/grfnc4
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1101/156141
+  title: 'Science Game Lab: tool for the unification of biomedical games with a purpose'
+  authors:
+  - Benjamin M. Good
+  - Sarah Santini
+  - Margaret Wallace
+  - Nicholas Fortugno
+  - John Szeder
+  - Patrick Mooney
+  - Jerome Waldispuhl
+  - Ginger Tsueng
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-07-10'
+  link: https://doi.org/gkz9ch
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1093/nar/gkv1104
+  title: 'BioGPS: building your own mash-up of gene annotations and expression profiles'
+  authors:
+  - Chunlei Wu
+  - Xuefeng Jin
+  - Ginger Tsueng
+  - Cyrus Afrasiabi
+  - Andrew I. Su
+  publisher: Nucleic Acids Research
+  date: '2015-11-17'
+  link: https://doi.org/f8cnjs
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1101/038083
+  title: Citizen Science for Mining the Biomedical Literature
+  authors:
+  - Ginger Tsueng
+  - Steven M. Nanis
+  - Jennifer Fouquier
+  - Benjamin M Good
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2016-01-27'
+  link: https://doi.org/gkwsxg
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gene.2016.04.053
+  title: "Gene Wiki Reviews\u2014Raising the quality and accessibility of information\
+    \ about the human genome"
+  authors:
+  - Ginger Tsueng
+  - Benjamin M. Good
+  - Peipei Ping
+  - Erica Golemis
+  - Israel Hanukoglu
+  - Andre J. van Wijnen
+  - Andrew I. Su
+  publisher: Gene
+  date: '2016-11-01'
+  link: https://doi.org/f85mvw
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1186/s13059-016-0953-9
+  title: High-performance web services for querying gene and variant annotation
+  authors:
+  - Jiwen Xin
+  - Adam Mark
+  - Cyrus Afrasiabi
+  - Ginger Tsueng
+  - Moritz Juchler
+  - Nikhil Gopal
+  - Gregory S. Stupp
+  - Timothy E. Putman
+  - Benjamin J. Ainscough
+  - Obi L. Griffith
+  - Ali Torkamani
+  - Patricia L. Whetzel
+  - Christopher J. Mungall
+  - Sean D. Mooney
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: Genome Biology
+  date: '2016-05-06'
+  link: https://doi.org/gqgsp3
+  orcid: 0000-0002-9859-4104
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrew-su-list: true
+- id: doi:10.1101/035667
+  title: 'MyGene.info and MyVariant.info: Gene and Variant Annotation Query Services'
+  authors:
+  - Jiwen Xin
+  - Adam Mark
+  - Cyrus Afrasiabi
+  - Ginger Tsueng
+  - Moritz Juchler
+  - Nikhil Gopal
+  - Gregory Stupp
+  - Timothy Putman
+  - Benjamin Ainscough
+  - Obi Griffith
+  - Ali Torkamani
+  - Patricia Whetzel
+  - Christopher J Mungall
+  - Sean Mooney
+  - Andrew I Su
+  - Chunlei Wu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2015-12-30'
+  link: https://doi.org/gkvj3w
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1004045
+  title: Coxsackievirus B Exits the Host Cell in Shed Microvesicles Displaying Autophagosomal
+    Markers
+  authors:
+  - Scott M. Robinson
+  - Ginger Tsueng
+  - Jon Sin
+  - Vrushali Mangale
+  - Shahad Rahawi
+  - Laura L. McIntyre
+  - Wesley Williams
+  - Nelson Kha
+  - Casey Cruz
+  - Bryan M. Hancock
+  - David P. Nguyen
+  - M. Richard Sayen
+  - Brett J. Hilton
+  - Kelly S. Doran
+  - Anca M. Segall
+  - Roland Wolkowicz
+  - Christopher T. Cornell
+  - J. Lindsay Whitton
+  - Roberta A. Gottlieb
+  - Ralph Feuer
+  publisher: PLoS Pathogens
+  date: '2014-04-10'
+  link: https://doi.org/f5388d
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4161/auto.19781
+  title: The role of autophagy during coxsackievirus infection of neural progenitor
+    and stem cells
+  authors:
+  - Jenna M. Tabor-Godwin
+  - Ginger Tsueng
+  - M. Richard Sayen
+  - Roberta A. Gottlieb
+  - Ralph Feuer
+  publisher: Autophagy
+  date: '2012-06-23'
+  link: https://doi.org/f39bpk
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.02261-10
+  title: Coxsackievirus Preferentially Replicates and Induces Cytopathic Effects in
+    Undifferentiated Neural Progenitor Cells
+  authors:
+  - Ginger Tsueng
+  - Jenna M. Tabor-Godwin
+  - Aparajita Gopal
+  - Chelsea M. Ruller
+  - Steven Deline
+  - Naili An
+  - Ricardo F. Frausto
+  - Richard Milner
+  - Stephen J. Crocker
+  - J. Lindsay Whitton
+  - Ralph Feuer
+  publisher: Journal of Virology
+  date: '2011-06-15'
+  link: https://doi.org/bvfvrq
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virol.2010.12.014
+  title: Enterovirus infections of the central nervous system
+  authors:
+  - Ross E. Rhoades
+  - Jenna M. Tabor-Godwin
+  - Ginger Tsueng
+  - Ralph Feuer
+  publisher: Virology
+  date: '2011-03-01'
+  link: https://doi.org/b2th47
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-009-2424-7
+  title: A preliminary investigation on the growth requirement for monovalent cations,
+    divalent cations and medium ionic strength of marine actinomycete Salinispora
+  authors:
+  - Ginger Tsueng
+  - Kin Sing Lam
+  publisher: Applied Microbiology and Biotechnology
+  date: '2010-01-19'
+  link: https://doi.org/dmq2sg
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/np800578e
+  title: Antiprotealide Is a Natural Product
+  authors:
+  - Rama Rao Manam
+  - Venkat R. Macherla
+  - Ginger Tsueng
+  - Chris W. Dring
+  - Jeffrey Weiss
+  - Saskia T. C. Neuteboom
+  - Kin S. Lam
+  - Barbara C. Potts
+  publisher: Journal of Natural Products
+  date: '2009-01-09'
+  link: https://doi.org/fk6nbg
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ja.2009.7
+  title: Effect of cobalt and vitamin B12 on the production of salinosporamides by
+    Salinispora tropica
+  authors:
+  - Ginger Tsueng
+  - Kin Sing Lam
+  publisher: The Journal of Antibiotics
+  date: '2009-02-06'
+  link: https://doi.org/dkkj84
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-008-1357-x
+  title: A low-sodium-salt formulation for the fermentation of salinosporamides by
+    Salinispora tropica strain NPS21184
+  authors:
+  - Ginger Tsueng
+  - Kin S. Lam
+  publisher: Applied Microbiology and Biotechnology
+  date: '2008-04-01'
+  link: https://doi.org/bp9g95
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-008-1358-9
+  title: Defined salt formulations for the growth of Salinispora tropica strain NPS21184
+    and the production of salinosporamide A (NPI-0052) and related analogs
+  authors:
+  - Ginger Tsueng
+  - Sy Teisan
+  - Kin S. Lam
+  publisher: Applied Microbiology and Biotechnology
+  date: '2008-04-01'
+  link: https://doi.org/cgz73h
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-008-1614-z
+  title: Growth of Salinispora tropica strains CNB440, CNB476, and NPS21184 in nonsaline,
+    low-sodium media
+  authors:
+  - Ginger Tsueng
+  - Kin S. Lam
+  publisher: Applied Microbiology and Biotechnology
+  date: '2008-10-01'
+  link: https://doi.org/bfpkdj
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/np800286d
+  title: "Lynamicins A\u2212E, Chlorinated Bisindole Pyrrole Antibiotics from a Novel\
+    \ Marine Actinomycete"
+  authors:
+  - Katherine A. McArthur
+  - Scott S. Mitchell
+  - Ginger Tsueng
+  - Arnold Rheingold
+  - Donald J. White
+  - Jennifer Grodberg
+  - Kin S. Lam
+  - Barbara C. M. Potts
+  publisher: Journal of Natural Products
+  date: '2008-10-09'
+  link: https://doi.org/b9gqdr
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10295-008-0344-7
+  title: Seawater requirement for the production of lipoxazolidinones by marine actinomycete
+    strain NPS8920
+  authors:
+  - Michelle J. Sunga
+  - Sy Teisan
+  - Ginger Tsueng
+  - Venkat R. Macherla
+  - Kin S. Lam
+  publisher: Journal of Industrial Microbiology &amp; Biotechnology
+  date: '2008-04-04'
+  link: https://doi.org/bv7z98
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ja.2007.2
+  title: Effects of Halogens on the Production of Salinosporamides by the Obligate
+    Marine Actinomycete Salinispora tropica
+  authors:
+  - Kin S Lam
+  - Ginger Tsueng
+  - Katherine A Mcarthur
+  - Scott S Mitchell
+  - Barbara C M Potts
+  - Jianlin Xu
+  publisher: The Journal of Antibiotics
+  date: '2007-01-01'
+  link: https://doi.org/bf38fw
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ja.2007.61
+  title: Stabilization Effect of Resin on the Production of Potent Proteasome Inhibitor
+    NPI-0052 During Submerged Fermentation of Salinispora tropica
+  authors:
+  - Ginger Tsueng
+  - Kin S Lam
+  publisher: The Journal of Antibiotics
+  date: '2007-07-01'
+  link: https://doi.org/c6dzz7
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-007-0899-7
+  title: Unique butyric acid incorporation patterns for salinosporamides A and B reveal
+    distinct biosynthetic origins
+  authors:
+  - Ginger Tsueng
+  - Katherine A. McArthur
+  - Barbara C. M. Potts
+  - Kin S. Lam
+  publisher: Applied Microbiology and Biotechnology
+  date: '2007-03-06'
+  link: https://doi.org/c55c2h
+  orcid: 0000-0001-9536-9115
+  ginger-tsueng-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41597-023-02534-z
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
+  authors:
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrick A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
+  - Andrew I. Su
+  publisher: Scientific Data
+  date: '2023-09-16'
+  link: https://doi.org/gtrg2b
+  orcid: 0000-0002-9859-4104
+  carolina-gonzalez-cavazos-list: true
+  plugin: sources.py
+  file: sources.yaml
+  andrew-su-list: true
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
+- id: doi:10.1101/2023.05.12.540594
+  title: Drug Repositioning using Consilience of Knowledge Graph Completion Methods
+  authors:
+  - Roger Tu
+  - Meghamala Sinha
+  - "Carolina Gonz\xE1lez"
+  - Eric Hu
+  - Shehzaad Dhuliawala
+  - Andrew McCallum
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-14'
+  link: https://doi.org/gtrg2d
+  orcid: 0000-0002-9859-4104
+  carolina-gonzalez-cavazos-list: true
+  plugin: sources.py
+  file: sources.yaml
+  andrew-su-list: true
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
+- id: doi:10.21203/rs.3.rs-1723808/v1
+  title: 'Outbreak.info Research Library: A standardized, searchable platform to discover
+    and explore COVID-19 resources'
+  authors:
+  - Laura Hughes
+  - Ginger Tsueng
+  - Julia Mullen
+  - Manar Alkuzweny
+  - Marco Cano
+  - Benjamin Rush
+  - Emily Haag
+  - Alaa Abdel Latif
+  - Xinghua Zhou
+  - Zhongchao Qian
+  - Emory Hufbauer
+  - Mark Zeller
+  - Kristian Andersen
+  - Chunlei Wu
+  - Andrew Su
+  - Karthik Gangavarapu
+  publisher: Research Square Platform LLC
+  date: '2022-06-28'
+  link: https://doi.org/gtsb9d
+  orcid: 0000-0003-1718-6676
+  laura-hughes-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1723829/v1
+  title: 'Outbreak.info genomic reports: scalable and dynamic surveillance of SARS-CoV-2
+    variants and mutations'
+  authors:
+  - Laura Hughes
+  - Karthik Gangavarapu
+  - Alaa Abdel Latif
+  - Julia Mullen
+  - Manar Alkuzweny
+  - Emory Hufbauer
+  - Ginger Tsueng
+  - Emily Haag
+  - Mark Zeller
+  - Christine Aceves
+  - Karina Zaiets
+  - Marco Cano
+  - Jerry Zhou
+  - Zhongchao Qian
+  - Rachel Sattler
+  - Nathaniel Matteson
+  - Joshua Levy
+  - Raphael Lee
+  - Lucas Freitas
+  - Sebastian Maurer-Stroh
+  - Marc Suchard
+  - Chunlei Wu
+  - Andrew Su
+  - Kristian Andersen
+  publisher: Research Square Platform LLC
+  date: '2022-06-28'
+  link: https://doi.org/gtsb9f
+  orcid: 0000-0003-1718-6676
+  laura-hughes-list: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.09.02.458726
@@ -375,6 +1150,22 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-09-03'
   link: https://doi.org/gtrg2g
+  orcid: 0000-0002-2629-6124
+  laura-hughes-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  chunlei-wu-list: true
+- id: doi:10.1093/nargab/lqac017
+  title: Generation and network analysis of an RNA-seq transcriptional atlas for the
+    rat
+  authors:
+  - Kim M Summers
+  - Stephen J Bush
+  - Chunlei Wu
+  - David A Hume
+  publisher: NAR Genomics and Bioinformatics
+  date: '2022-01-13'
+  link: https://doi.org/gtsb8b
   orcid: 0000-0002-2629-6124
   chunlei-wu-list: true
   plugin: orcid.py
@@ -511,81 +1302,9 @@
   link: https://doi.org/gtr8pk
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41597-023-02534-z
-  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
-  authors:
-  - Adriana Carolina Gonzalez-Cavazos
-  - Anna Tanska
-  - Michael Mayers
-  - Denise Carvalho-Silva
-  - Brindha Sridharan
-  - Patrick A. Rewers
-  - Umasri Sankarlal
-  - Lakshmanan Jagannathan
-  - Andrew I. Su
-  publisher: Scientific Data
-  date: '2023-09-16'
-  link: https://doi.org/gtrg2b
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
-- id: doi:10.1017/cts.2023.619
-  title: 'An approach for collaborative development of a federated biomedical knowledge
-    graph-based question-answering system: Question-of-the-Month challenges'
-  authors:
-  - Karamarie Fecho
-  - Chris Bizon
-  - Tursynay Issabekova
-  - Sierra Moxon
-  - Anne E. Thessen
-  - Shervin Abdollahi
-  - Sergio E. Baranzini
-  - Basazin Belhu
-  - William E. Byrd
-  - Lawrence Chung
-  - Andrew Crouse
-  - Marc P. Duby
-  - Stephen Ferguson
-  - Aleksandra Foksinska
-  - Laura Forero
-  - Jennifer Friedman
-  - Vicki Gardner
-  - "Gw\xEAnlyn Glusman"
-  - Jennifer Hadlock
-  - Kristina Hanspers
-  - Eugene Hinderer
-  - Charlotte Hobbs
-  - Gregory Hyde
-  - Sui Huang
-  - David Koslicki
-  - Philip Mease
-  - Sandrine Muller
-  - Christopher J. Mungall
-  - Stephen A. Ramsey
-  - Jared Roach
-  - Irit Rubin
-  - Shepherd H. Schurman
-  - Anath Shalev
-  - Brett Smith
-  - Karthik Soman
-  - Sarah Stemann
-  - Andrew I. Su
-  - Casey Ta
-  - Paul B. Watkins
-  - Mark D. Williams
-  - Chunlei Wu
-  - Colleen H. Xu
-  publisher: Journal of Clinical and Translational Science
-  date: '2023-01-01'
-  link: https://doi.org/gtr8pm
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
+  image: images/m_ji2300769f2.png
 - id: doi:10.1186/s13195-023-01255-0
   title: "Association study between drug prescriptions and Alzheimer\u2019s disease\
     \ claims in a commercial insurance database"
@@ -601,44 +1320,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.05.12.540594
-  title: Drug Repositioning using Consilience of Knowledge Graph Completion Methods
-  authors:
-  - Roger Tu
-  - Meghamala Sinha
-  - "Carolina Gonz\xE1lez"
-  - Eric Hu
-  - Shehzaad Dhuliawala
-  - Andrew McCallum
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-14'
-  link: https://doi.org/gtrg2d
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
-- id: doi:10.1186/s12859-023-05258-4
-  title: 'Schema Playground: a tool for authoring, extending, and using metadata schemas
-    to improve FAIRness of biomedical data'
-  authors:
-  - Marco A. Cano
-  - Ginger Tsueng
-  - Xinghua Zhou
-  - Jiwen Xin
-  - Laura D. Hughes
-  - Julia L. Mullen
-  - Andrew I. Su
-  - Chunlei Wu
-  publisher: BMC Bioinformatics
-  date: '2023-04-20'
-  link: https://doi.org/gr9ccd
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-023-05258-4/MediaObjects/12859_2023_5258_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41597-023-01968-9
   title: Developing a standardized but extendable framework to increase the findability
     of infectious disease datasets
@@ -798,25 +1479,6 @@
   publisher: Clinical and Translational Science
   date: '2022-06-06'
   link: https://doi.org/gq6hdk
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.gene.2022.146534
-  title: A retrospective evaluation of a decade of Gene Wiki Reviews and their impact
-  authors:
-  - Andre J. van Wijnen
-  - Erica Golemis
-  - Israel Hanukoglu
-  - Stephen Kwok-Wing Tsui
-  - Eric Hu
-  - Sabah Ul-Hasan
-  - Janet Joy
-  - Andrew I. Su
-  - Ginger Tsueng
-  publisher: Gene
-  date: '2022-07-01'
-  link: https://doi.org/gtr8pt
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
   plugin: orcid.py
@@ -984,23 +1646,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/bioinformatics/btz678
-  title: Applying citizen science to gene, drug and disease relationship extraction
-    from biomedical abstracts
-  authors:
-  - Ginger Tsueng
-  - Max Nanis
-  - Jennifer T Fouquier
-  - Michael Mayers
-  - Benjamin M Good
-  - Andrew I Su
-  publisher: Bioinformatics
-  date: '2019-09-03'
-  link: https://doi.org/ghbhx7
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3389/fgene.2019.01355
   title: Functional Annotation of the Transcriptome of the Pig, Sus scrofa, Based
     Upon Network Analysis of an RNAseq Transcriptional Atlas
@@ -1087,21 +1732,6 @@
   publisher: Science Immunology
   date: '2019-08-02'
   link: https://doi.org/gtrg2k
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15346/hc.v6i1.4
-  title: 'Aligning Needs: Integrating Citizen Science Efforts into Schools Through
-    Service Requirements.'
-  authors:
-  - Ginger Tsueng
-  - Arun Kumar
-  - Steven Max Nanis
-  - Andrew I Su
-  publisher: Human Computation
-  date: '2019-06-02'
-  link: https://doi.org/gtrg2n
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
   plugin: orcid.py
@@ -1344,23 +1974,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s12859-018-2041-5
-  title: Cross-linking BioThings APIs through JSON-LD to facilitate knowledge exploration
-  authors:
-  - Jiwen Xin
-  - Cyrus Afrasiabi
-  - Sebastien Lelong
-  - Julee Adesara
-  - Ginger Tsueng
-  - Andrew I. Su
-  - Chunlei Wu
-  publisher: BMC Bioinformatics
-  date: '2018-02-01'
-  link: https://doi.org/grfnc4
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.jsb.2018.02.006
   title: Exploring applications of crowdsourcing to cryo-EM
   authors:
@@ -1470,25 +2083,6 @@
   publisher: Molecular Immunology
   date: '2018-11-01'
   link: https://doi.org/gfp76k
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/156141
-  title: 'Science Game Lab: tool for the unification of biomedical games with a purpose'
-  authors:
-  - Benjamin M. Good
-  - Sarah Santini
-  - Margaret Wallace
-  - Nicholas Fortugno
-  - John Szeder
-  - Patrick Mooney
-  - Jerome Waldispuhl
-  - Ginger Tsueng
-  - Andrew I Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-07-10'
-  link: https://doi.org/gkz9ch
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
   plugin: orcid.py
@@ -1641,24 +2235,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.gene.2016.04.053
-  title: "Gene Wiki Reviews\u2014Raising the quality and accessibility of information\
-    \ about the human genome"
-  authors:
-  - Ginger Tsueng
-  - Benjamin M. Good
-  - Peipei Ping
-  - Erica Golemis
-  - Israel Hanukoglu
-  - Andre J. van Wijnen
-  - Andrew I. Su
-  publisher: Gene
-  date: '2016-11-01'
-  link: https://doi.org/f85mvw
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.joca.2016.04.015
   title: Suppression of REDD1 in osteoarthritis cartilage, a novel mechanism for dysregulated
     mTOR signaling and defective autophagy
@@ -1775,32 +2351,6 @@
   andrew-su-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-016-0953-9
-  title: High-performance web services for querying gene and variant annotation
-  authors:
-  - Jiwen Xin
-  - Adam Mark
-  - Cyrus Afrasiabi
-  - Ginger Tsueng
-  - Moritz Juchler
-  - Nikhil Gopal
-  - Gregory S. Stupp
-  - Timothy E. Putman
-  - Benjamin J. Ainscough
-  - Obi L. Griffith
-  - Ali Torkamani
-  - Patricia L. Whetzel
-  - Christopher J. Mungall
-  - Sean D. Mooney
-  - Andrew I. Su
-  - Chunlei Wu
-  publisher: Genome Biology
-  date: '2016-05-06'
-  link: https://doi.org/gqgsp3
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/database/baw051
   title: A crowdsourcing workflow for extracting chemical-induced disease relations
     from free text
@@ -1813,21 +2363,6 @@
   publisher: Database
   date: '2016-01-01'
   link: https://doi.org/f8w9vw
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkv1104
-  title: 'BioGPS: building your own mash-up of gene annotations and expression profiles'
-  authors:
-  - Chunlei Wu
-  - Xuefeng Jin
-  - Ginger Tsueng
-  - Cyrus Afrasiabi
-  - Andrew I. Su
-  publisher: Nucleic Acids Research
-  date: '2015-11-17'
-  link: https://doi.org/f8cnjs
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
   plugin: orcid.py

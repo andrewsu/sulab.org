@@ -26,6 +26,14 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+intern:
+  icon: 
+  description: Intern
+
+staff:
+  icon: 
+  description: Staff
+
 # general
 
 link:

@@ -1,6 +1,6 @@
 ---
 name: Marco Cano
-image: images/photo.jpg
+image: images/marcomain.jpg
 role: programmer
 group: cwu-lab
 aliases:

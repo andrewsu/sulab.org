@@ -1,11 +1,12 @@
 ---
-name: Roger Tu
-image: images/Roger-Tu.jpg
-role: phd
+name: Pam Graham
+image: images/photo.jpg
+role: staff
 group: active
 aliases:
 links:
-  orcid: 0000-0002-7899-1604
+   - orcid: 
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -16,4 +17,3 @@ Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
 
-{% include list.html data="citations" component="citation" filters="roger-tu-list: true" %}
