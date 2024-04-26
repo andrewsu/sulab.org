@@ -2038,19 +2038,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/annotation/efa93b55-c8f0-4943-b922-a585d68f0bd0
-  title: 'Correction: Dizeez: An Online Game for Human Gene-Disease Annotation'
-  authors:
-  - Salvatore Loguercio
-  - Benjamin M. Good
-  - Andrew I. Su
-  publisher: PLoS ONE
-  date: '2013-08-26'
-  link: https://doi.org/gtrg26
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0072511
   title: "Identification of Regulatory Elements That Control PPAR\u03B3 Expression\
     \ in Adipocyte Progenitors"
@@ -3098,12 +3085,12 @@
   - H F Frierson
   - G M Hampton
   publisher: Cancer research
-  date: '2022-05-23'
+  date: '2001-10-15'
   link: http://europepmc.org/abstract/med/11606367
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: pmid:11507037
   title: Analysis of gene expression identifies candidate markers and pharmacological
     targets in prostate cancer.
@@ -3117,12 +3104,12 @@
   - H F Frierson
   - G M Hampton
   publisher: Cancer research
-  date: '2022-05-23'
+  date: '2001-08-15'
   link: http://europepmc.org/abstract/med/11507037
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0092-8674(01)00467-6
   title: A Comparison of the Celera and Ensembl Predicted Gene Sets Reveals Little
     Overlap in Novel Genes
