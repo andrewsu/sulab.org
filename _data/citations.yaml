@@ -191,8 +191,8 @@
   publisher: BMC Bioinformatics
   date: '2019-12-01'
   link: https://doi.org/ggpcsr
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/729475
@@ -209,8 +209,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-08-12'
   link: https://doi.org/gkxdqp
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/sciimmunol.aaw6329
@@ -266,8 +266,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-02-28'
   link: https://doi.org/gkv78t
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.molimm.2019.01.011
@@ -685,8 +685,8 @@
   publisher: Journal of Proteome Research
   date: '2017-01-23'
   link: https://doi.org/f9q8c4
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/database/bax025
@@ -2693,5 +2693,41 @@
   link: https://doi.org/fpg
   orcid: 0000-0002-9859-4104
   member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.01.538993
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
+  authors:
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael D. Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrik A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-02'
+  link: https://doi.org/gtrg2f
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btac205
+  title: Design and application of a knowledge network for automatic prioritization
+    of drug mechanisms
+  authors:
+  - Michael Mayers
+  - Roger Tu
+  - Dylan Steinecke
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2022-04-06'
+  link: https://doi.org/gptwsz
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
