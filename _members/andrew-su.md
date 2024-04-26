@@ -2,6 +2,7 @@
 name: Andrew Su
 image: images/Andrew_Su_smll.jpg
 role: pi
+group: active
 aliases:
 links:
   home-page: https://sulab.org

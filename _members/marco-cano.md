@@ -1,11 +1,12 @@
 ---
-name: Mike Mayers
+name: Marco Cano
 image: images/photo.jpg
-role: phd
-group: alum
+role: programmer
+group: cwu-lab
 aliases:
 links:
-  orcid: 0000-0002-7792-0150
+   orcid: 0000-0001-6992-8390
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -16,4 +17,4 @@ Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
 
-{% include list.html data="citations" component="citation" filters="mike-mayers-list: true" %}
+{% include list.html data="citations" component="citation" filters="marco-cano-list: true" %}
