@@ -18,4 +18,4 @@ Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
 
-{% include list.html data="citations" component="citation" filters="member: mike-mayers" %}
+{% include list.html data="citations" component="citation" filters="mike-mayers-list: true" %}

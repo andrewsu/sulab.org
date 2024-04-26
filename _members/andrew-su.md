@@ -22,5 +22,5 @@ Andrew received his Ph.D. in Chemistry from The Scripps Research Institute, and 
 
 ## Publication list
 
-{% include list.html data="citations" component="citation" filters="member: andrew-su" style="rich" %}
+{% include list.html data="citations" component="citation" filters="andrew-su-list: true" style="rich" %}
 
