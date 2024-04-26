@@ -64,7 +64,26 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
-- id: doi:10.1101/2021.04.15.440028
+- id: doi:10.1186/s12859-023-05258-4
+  title: 'Schema Playground: a tool for authoring, extending, and using metadata schemas
+    to improve FAIRness of biomedical data'
+  authors:
+  - Marco A. Cano
+  - Ginger Tsueng
+  - Xinghua Zhou
+  - Jiwen Xin
+  - Laura D. Hughes
+  - Julia L. Mullen
+  - Andrew I. Su
+  - Chunlei Wu
+  publisher: BMC Bioinformatics
+  date: '2023-04-20'
+  link: https://doi.org/gr9ccd
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btac205
   title: Design and application of a knowledge network for automatic prioritization
     of drug mechanisms
   authors:
@@ -73,29 +92,31 @@
   - Dylan Steinecke
   - Tong Shu Li
   - "N\xFAria Queralt-Rosinach"
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-04-15'
-  link: https://doi.org/gtrg2h
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2022-04-06'
+  link: https://doi.org/gptwsz
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.09.02.458726
-  title: 'Schema Playground: A tool for authoring, extending, and using metadata schemas
-    to improve FAIRness of biomedical data'
+- id: doi:10.1016/j.mcpro.2022.100197
+  title: Quantitative Metaproteomics and Activity-based Protein Profiling of Patient
+    Fecal Microbiome Identifies Host and Microbial Serine-type Endopeptidase Activity
+    Associated With Ulcerative Colitis
   authors:
-  - Marco Cano
-  - Ginger Tsueng
-  - Xinghua Zhou
-  - Laura D. Hughes
-  - Julia L. Mullen
-  - Jiwen Xin
+  - Peter S. Thuy-Boun
+  - Ana Y. Wang
+  - Ana Crissien-Martinez
+  - Janice H. Xu
+  - Sandip Chatterjee
+  - Gregory S. Stupp
   - Andrew I. Su
-  - Chunlei Wu
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-09-03'
-  link: https://doi.org/gtrg2g
+  - Walter J. Coyle
+  - Dennis W. Wolan
+  publisher: Molecular &amp; Cellular Proteomics
+  date: '2022-03-01'
+  link: https://doi.org/gtr736
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -140,42 +161,37 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.11.11.378836
-  title: Quantitative metaproteomics of patient fecal microbiota identifies host and
-    microbial proteins associated with ulcerative colitis
+- id: doi:10.1093/bioinformatics/btz678
+  title: Applying citizen science to gene, drug and disease relationship extraction
+    from biomedical abstracts
   authors:
-  - Peter S. Thuy-Boun
-  - Ana Y. Wang
-  - Ana Crissien-Martinez
-  - Janice H. Xu
-  - Sandip Chatterjee
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Walter J. Coyle
-  - Dennis W. Wolan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-11-11'
-  link: https://doi.org/gtrg2j
+  - Ginger Tsueng
+  - Max Nanis
+  - Jennifer T Fouquier
+  - Michael Mayers
+  - Benjamin M Good
+  - Andrew I Su
+  publisher: Bioinformatics
+  date: '2019-09-03'
+  link: https://doi.org/ghbhx7
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.04.05.026336
-  title: A protocol for adding knowledge to Wikidata, a case report
+- id: doi:10.1093/database/baaa015
+  title: Structured reviews for data and knowledge-driven research
   authors:
-  - Andra Waagmeester
-  - Egon L. Willighagen
+  - "N\xFAria Queralt-Rosinach"
+  - Gregory S Stupp
+  - Tong Shu Li
+  - Michael Mayers
+  - Maureen E Hoatlin
+  - Matthew Might
+  - Benjamin M Good
   - Andrew I Su
-  - Martina Kutmon
-  - Jose Emilio Labra Gayo
-  - "Daniel Fern\xE1ndez-\xC1lvarez"
-  - Quentin Groom
-  - Peter J. Schaap
-  - Lisa M. Verhagen
-  - Jasper J. Koehorst
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-04-07'
-  link: https://doi.org/gjqfrz
+  publisher: Database
+  date: '2020-01-01'
+  link: https://doi.org/ggsdkj
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -191,24 +207,6 @@
   publisher: BMC Bioinformatics
   date: '2019-12-01'
   link: https://doi.org/ggpcsr
-  orcid: 0000-0002-7792-0150
-  member: mike-mayers
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/729475
-  title: Structured Reviews for Data and Knowledge Driven Research
-  authors:
-  - "N\xFAria Queralt-Rosinach"
-  - Gregory S. Stupp
-  - Tong Shu Li
-  - Michael Mayers
-  - Maureen E. Hoatlin
-  - Matthew Might
-  - Benjamin M. Good
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-08-12'
-  link: https://doi.org/gkxdqp
   orcid: 0000-0002-7792-0150
   member: mike-mayers
   plugin: orcid.py
@@ -238,7 +236,7 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.15346/hc.v6i1.105
+- id: doi:10.15346/hc.v6i1.4
   title: 'Aligning Needs: Integrating Citizen Science Efforts into Schools Through
     Service Requirements.'
   authors:
@@ -248,26 +246,9 @@
   - Andrew I Su
   publisher: Human Computation
   date: '2019-06-02'
-  link: https://doi.org/gtrg2m
+  link: https://doi.org/gtrg2n
   orcid: 0000-0002-9859-4104
   member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/564187
-  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
-    Biomedical Abstracts
-  authors:
-  - Ginger Tsueng
-  - Max Nanis
-  - Jennifer T. Fouquier
-  - Michael Mayers
-  - Benjamin M. Good
-  - Andrew I Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-28'
-  link: https://doi.org/gkv78t
-  orcid: 0000-0002-7792-0150
-  member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.molimm.2019.01.011
@@ -327,6 +308,25 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41746-018-0052-2
+  title: 'The Healthy Pregnancy Research Program: transforming pregnancy research
+    through a ResearchKit app'
+  authors:
+  - Jennifer M. Radin
+  - Steven R. Steinhubl
+  - Andrew I. Su
+  - Hansa Bhargava
+  - Benjamin Greenberg
+  - Brian M. Bot
+  - Megan Doerr
+  - Eric J. Topol
+  publisher: npj Digital Medicine
+  date: '2018-09-05'
+  link: https://doi.org/gmxd4x
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/367599
   title: Triflic acid treatment enables LC-MS/MS analysis of insoluble bacterial biomass
   authors:
@@ -338,40 +338,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2018-07-11'
   link: https://doi.org/gkwvfq
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/304766
-  title: 'Aligning Needs: Integrating Citizen Science Efforts into Schools Through
-    Service Requirements'
-  authors:
-  - Ginger Tsueng
-  - Arun Kumar
-  - Steven M. Nanis
-  - Andrew I Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-04-21'
-  link: https://doi.org/gktrdt
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/289371
-  title: 'The Healthy Pregnancy Research Program: Transforming Pregnancy Research
-    Through a ResearchKit App'
-  authors:
-  - Jennifer M. Radin
-  - Steven R. Steinhubl
-  - Andrew I. Su
-  - Hansa Bhargava
-  - Benjamin Greenberg
-  - Brian M. Bot
-  - Megan Doerr
-  - Eric J. Topol
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-03-29'
-  link: https://doi.org/gkvxv3
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -724,6 +690,21 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5334/cstp.56
+  title: Citizen Science for Mining the Biomedical Literature
+  authors:
+  - Ginger Tsueng
+  - Steven M. Nanis
+  - Jennifer Fouquier
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: 'Citizen Science: Theory and Practice'
+  date: '2016-12-31'
+  link: https://doi.org/ghbvc7
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jproteome.6b00095
   title: Data-Driven Approach To Determine Popular Proteins for Targeted Proteomics
     Translation of Six Organ Systems
@@ -926,21 +907,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/038083
-  title: Citizen Science for Mining the Biomedical Literature
-  authors:
-  - Ginger Tsueng
-  - Steven M. Nanis
-  - Jennifer Fouquier
-  - Benjamin M Good
-  - Andrew I Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2016-01-27'
-  link: https://doi.org/gkwsxg
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/database/baw051
   title: A crowdsourcing workflow for extracting chemical-induced disease relations
     from free text
@@ -1075,37 +1041,23 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/032144
+- id: doi:10.1093/database/baw015
   title: Wikidata as a semantic framework for the Gene Wiki initiative
   authors:
   - Sebastian Burgstaller-Muehlbacher
   - Andra Waagmeester
   - Elvira Mitraka
   - Julia Turner
-  - Tim E. Putman
+  - Tim Putman
   - Justin Leong
+  - Chinmay Naik
   - Paul Pavlidis
   - Lynn Schriml
-  - Benjamin M. Good
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2015-11-18'
-  link: https://doi.org/gkv5sv
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:26578587
-  title: 'BioGPS: building your own mash-up of gene annotations and expression profiles.'
-  authors:
-  - Chunlei Wu
-  - Xuefeng Jin
-  - Ginger Tsueng
-  - Cyrus Afrasiabi
+  - Benjamin M Good
   - Andrew I Su
-  publisher: Nucleic acids research
-  date: '2022-05-24'
-  link: http://europepmc.org/abstract/med/26578587
+  publisher: Database
+  date: '2016-01-01'
+  link: https://doi.org/f9bbk9
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -1233,20 +1185,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: pmc:PMC4376322
-  title: Crowdsourcing and mining crowd data.
-  authors:
-  - Robert Leaman
-  - Benjamin M Good
-  - Andrew I Su
-  - Zhiyong Lu
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-24'
-  link: http://europepmc.org/abstract/med/25592587
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3402/jev.v4.27497
   title: Integration of extracellular RNA profiling data using metadata, biomedical
     ontologies and Linked Data technologies
@@ -1271,20 +1209,6 @@
   member: andrew-su
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:25592589
-  title: Microtask crowdsourcing for disease mention annotation in PubMed abstracts.
-  authors:
-  - Benjamin M Good
-  - Max Nanis
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-24'
-  link: http://europepmc.org/abstract/med/25592589
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s12920-015-0095-z
   title: 'OncoRep: an n-of-1 reporting tool to support genome-guided treatment for
     breast cancer patients using RNA-sequencing'
@@ -1296,6 +1220,34 @@
   publisher: BMC Medical Genomics
   date: '2015-05-21'
   link: https://doi.org/gb34tr
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789814644730_0026
+  title: CROWDSOURCING AND MINING CROWD DATA
+  authors:
+  - ROBERT LEAMAN
+  - BENJAMIN M. GOOD
+  - ANDREW I. su
+  - ZHIYONG LU
+  publisher: Biocomputing 2015
+  date: '2014-11-01'
+  link: https://doi.org/gtr8d5
+  orcid: 0000-0002-9859-4104
+  member: andrew-su
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789814644730_0028
+  title: MICROTASK CROWDSOURCING FOR DISEASE MENTION ANNOTATION IN PUBMED ABSTRACTS
+  authors:
+  - BENJAMIN M GOOD
+  - MAX NANIS
+  - CHUNLEI WU
+  - ANDREW I SU
+  publisher: Biocomputing 2015
+  date: '2014-11-01'
+  link: https://doi.org/gtr8d6
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -1332,24 +1284,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2014-09-18'
   link: https://doi.org/gkvs6q
-  orcid: 0000-0002-9859-4104
-  member: andrew-su
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/008383
-  title: 'Omics Pipe: A Computational Framework for Reproducible Multi-Omics Data
-    Analysis'
-  authors:
-  - Kathleen M Fisch
-  - "Tobias Mei\xDFner"
-  - Louis Gioia
-  - Jean-Christophe Ducom
-  - Tristan Carland
-  - Salvatore Loguercio
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2014-08-23'
-  link: https://doi.org/gkttjd
   orcid: 0000-0002-9859-4104
   member: andrew-su
   plugin: orcid.py
@@ -2714,19 +2648,37 @@
   member: mike-mayers
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/bioinformatics/btac205
-  title: Design and application of a knowledge network for automatic prioritization
-    of drug mechanisms
+- id: doi:10.1101/729475
+  title: Structured Reviews for Data and Knowledge Driven Research
   authors:
-  - Michael Mayers
-  - Roger Tu
-  - Dylan Steinecke
-  - Tong Shu Li
   - "N\xFAria Queralt-Rosinach"
+  - Gregory S. Stupp
+  - Tong Shu Li
+  - Michael Mayers
+  - Maureen E. Hoatlin
+  - Matthew Might
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-12'
+  link: https://doi.org/gkxdqp
+  orcid: 0000-0002-7792-0150
+  member: mike-mayers
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/564187
+  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
+    Biomedical Abstracts
+  authors:
+  - Ginger Tsueng
+  - Max Nanis
+  - Jennifer T. Fouquier
+  - Michael Mayers
+  - Benjamin M. Good
   - Andrew I Su
-  publisher: Bioinformatics
-  date: '2022-04-06'
-  link: https://doi.org/gptwsz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-28'
+  link: https://doi.org/gkv78t
   orcid: 0000-0002-7792-0150
   member: mike-mayers
   plugin: orcid.py
