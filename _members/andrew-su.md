@@ -10,6 +10,7 @@ links:
   email: asu@scripps.edu
   google-scholar: xPGhKkoAAAAJ
   github: andrewsu
+  linkedin: andrewsu
 
 ---
 

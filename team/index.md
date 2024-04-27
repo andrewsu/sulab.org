@@ -29,7 +29,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="group: alum" %}
+{% include list.html data="members" component="portrait" filters="group: alum" style="small" %}
 
 {% capture content %}
 
