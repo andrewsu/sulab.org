@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to the home page for the lab of Andrew Su. Our group works in the field of bioinformatics, both developing and applying computational tools for biomedical discovery. We are located at the Scripps Research Institute in sunny La Jolla, California. 
+Welcome to the home page for the lab of Andrew Su. Our group works in the field of bioinformatics, both developing and applying computational tools for biomedical discovery. We have a particular emphasis on open source, open data, and open science. We are located at the Scripps Research Institute in sunny La Jolla, California. 
 
 
 {% include section.html %}
