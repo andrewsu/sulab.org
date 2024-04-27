@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: The Su Lab
-subtitle: 
+subtitle: Applying the tools of computer science and statistics to the pursuit of biomedical discovery
 description: The lab website for Andrew Su's lab at Scripps
-header: images/background.jpg
+header: images/background-radial-blur.jpg
 footer: images/background.jpg
 
 # site social media and other links
