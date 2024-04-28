@@ -1,6 +1,6 @@
 ---
 name: Lucy Zhang
-image: images/photo.jpg
+image: images/bailinzhang.jpg
 role: phd
 group: cwu-lab
 aliases:

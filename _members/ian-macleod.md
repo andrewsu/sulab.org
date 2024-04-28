@@ -1,6 +1,6 @@
 ---
 name: Ian MacLeod
-image: images/photo.jpg
+image: images/ian.jpg
 role: programmer
 group: alum
 aliases:

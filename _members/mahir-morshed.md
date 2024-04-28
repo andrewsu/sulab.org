@@ -1,6 +1,6 @@
 ---
 name: Mahir Morshed
-image: images/photo.jpg
+image: images/mahir.jfif
 role: programmer
 group: active
 aliases:

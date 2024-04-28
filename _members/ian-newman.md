@@ -1,6 +1,6 @@
 ---
 name: Ian Newman
-image: images/photo.jpg
+image: images/newman.jfif
 role: phd
 group: active
 aliases:

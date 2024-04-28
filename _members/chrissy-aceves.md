@@ -1,6 +1,6 @@
 ---
 name: Chrissy Aceves
-image: images/photo.jpg
+image: images/aceves.jfif
 role: phd
 group: active
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: Dylan Welzel
-image: images/photo.jpg
+image: images/dylan.png
 role: programmer
 group: cwu-lab
 aliases:

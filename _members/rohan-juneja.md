@@ -1,6 +1,6 @@
 ---
 name: Rohan Juneja
-image: images/photo.jpg
+image: images/rohan.jfif
 role: intern
 group: active
 aliases:

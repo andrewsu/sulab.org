@@ -1,6 +1,6 @@
 ---
 name: Everaldo Rodolpho
-image: images/photo.jpg
+image: images/everaldo.jpeg
 role: programmer
 group: cwu-lab
 aliases:

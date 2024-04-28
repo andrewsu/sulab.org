@@ -1,6 +1,6 @@
 ---
 name: Leandro Collares
-image: images/photo.jpg
+image: images/leandro.jfif
 role: programmer
 group: cwu-lab
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: Zubair Qazi
-image: images/photo.jpg
+image: images/zubair.png
 role: programmer
 group: cwu-lab
 aliases:
