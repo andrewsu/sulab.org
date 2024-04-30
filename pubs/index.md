@@ -1,13 +1,14 @@
 ---
 title: Publications
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 <center>
+<!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
 <img src="../images/wordcloud.png" alt="A word cloud of publication titles" style="width:600px"/>
 </center>
 
