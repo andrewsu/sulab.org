@@ -6,13 +6,28 @@
 - id: pmid:11507037
   date: 2001-08-15
   
-# Thumbnail image additions
+# Thumbnail/pdf additions
+
+- id: doi:10.4049/jimmunol.2300769
+  image: images/m_ji2300769f2.png
+  buttons:
+    - type: pdf
+      link: pdf/costanzo_2024.pdf
 
 - id: doi:10.1038/s41597-023-02534-z
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
+  buttons:
+    - type: pdf
+      link: pdf/gonzalez-cavazos_2023.pdf
 
 - id: doi:10.1093/bioinformatics/btad570
   image: images/bte.jpeg
+
+- id: doi:10.1186/s13195-023-01255-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13195-023-01255-0/MediaObjects/13195_2023_1255_Fig3_HTML.png?as=webp
+  buttons:
+    - type: pdf
+      link: pdf/hu_2023.pdf
 
 - id: doi:10.1101/2023.05.12.540594
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/20/2023.05.12.540594/F1.large.jpg
@@ -20,8 +35,6 @@
 - id: doi:10.1186/s12859-023-05258-4
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-023-05258-4/MediaObjects/12859_2023_5258_Fig1_HTML.png?as=webp
 
-- id: doi:10.4049/jimmunol.2300769
-  image: images/m_ji2300769f2.png
  
 # Article removals
 #

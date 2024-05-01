@@ -1054,6 +1054,9 @@
   file: sources.yaml
   andrew-su-list: true
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02534-z/MediaObjects/41597_2023_2534_Fig1_HTML.png
+  buttons:
+  - type: pdf
+    link: pdf/gonzalez-cavazos_2023.pdf
 - id: doi:10.1101/2023.05.12.540594
   title: Drug Repositioning using Consilience of Knowledge Graph Completion Methods
   authors:
@@ -1305,6 +1308,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/m_ji2300769f2.png
+  buttons:
+  - type: pdf
+    link: pdf/costanzo_2024.pdf
 - id: doi:10.1186/s13195-023-01255-0
   title: "Association study between drug prescriptions and Alzheimer\u2019s disease\
     \ claims in a commercial insurance database"
@@ -1318,8 +1324,12 @@
   link: https://doi.org/gtr8pn
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13195-023-01255-0/MediaObjects/13195_2023_1255_Fig3_HTML.png?as=webp
+  buttons:
+  - type: pdf
+    link: pdf/hu_2023.pdf
 - id: doi:10.1038/s41597-023-01968-9
   title: Developing a standardized but extendable framework to increase the findability
     of infectious disease datasets
