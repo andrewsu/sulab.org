@@ -5,15 +5,8 @@ role: phd
 group: alum
 aliases:
 links:
-   - orcid: 
+    linkedin: jacob-bruggemann-a4388193
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
-
+Jake joined the lab as a graduate student in 2015, and he completed his Ph.D. in the summer of 2020. Presently, he works at Illumina as a Senior Bioinformatics Engineer. 

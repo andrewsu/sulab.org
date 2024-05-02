@@ -5,15 +5,8 @@ role: staff
 group: alum
 aliases:
 links:
-   - orcid: 
+    linkedin: gregory-stupp-4295b411a
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
-
+Greg was a postdoctoral researcher and staff scientist in the lab from September 2014 to January 2019.
