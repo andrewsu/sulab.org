@@ -1,6 +1,6 @@
 ---
 name: Derek Jow
-image: images/photo.png
+image: images/photo.jpg
 role: intern
 group: alum
 aliases:
