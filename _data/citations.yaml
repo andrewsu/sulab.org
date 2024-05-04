@@ -20,7 +20,7 @@
   plugin: sources.py
   file: sources.yaml
   carolina-gonzalez-cavazos-list: true
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/05/03/2023.05.01.538993/F1.large.jpg
   buttons:
   - type: pdf
     link: pdf/Gonzalez-Cavazos_2023.pdf
@@ -43,7 +43,7 @@
   file: sources.yaml
   roger-tu-list: true
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9113361/bin/btac205f3.jpg
   buttons:
   - type: pdf
     link: pdf/Mayers_2022.pdf
@@ -63,7 +63,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6907279/bin/12859_2019_3297_Fig3_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Mayers_2019.pdf
@@ -85,7 +85,7 @@
   mike-mayers-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/08/12/729475/F4.medium.gif
   buttons:
   - type: pdf
     link: pdf/Queralt-Rosinach_2019.pdf
@@ -106,7 +106,7 @@
   mike-mayers-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/02/28/564187/F2.medium.gif
   buttons:
   - type: pdf
     link: pdf/Tsueng_2019.pdf
@@ -127,7 +127,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441882/bin/nihms857524f2.jpg
   buttons:
   - type: pdf
     link: pdf/Mayers_2017.pdf
@@ -172,7 +172,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7077981/bin/elife-52614-fig1.jpg
   buttons:
   - type: pdf
     link: pdf/Waagmeester_2020.pdf
@@ -568,12 +568,8 @@
   link: https://doi.org/gtsb9b
   orcid: 0000-0001-9536-9115
   ginger-tsueng-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: null
-  buttons:
-  - type: pdf
-    link: pdf/Tsueng_2022c.pdf
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.01.27.22269965
   title: 'Outbreak.info genomic reports: scalable and dynamic surveillance of SARS-CoV-2
     variants and mutations'
@@ -4027,7 +4023,7 @@
   - Matthew J Sweet
   publisher: Immunome Research
   date: '2008-01-01'
-  link: https://doi.org/d29
+  link: https://immunome-research.biomedcentral.com/articles/10.1186/1745-7580-4-5
   orcid: 0000-0002-9859-4104
   andrew-su-list: true
   plugin: sources.py

@@ -9,43 +9,43 @@
 # Thumbnail/pdf additions
 
 - id: doi:10.1101/2023.05.01.538993
-  image: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/05/03/2023.05.01.538993/F1.large.jpg
   buttons:
     - type: pdf
       link: pdf/Gonzalez-Cavazos_2023.pdf
 
 - id: doi:10.1093/bioinformatics/btac205
-  image: 
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9113361/bin/btac205f3.jpg
   buttons:
     - type: pdf
       link: pdf/Mayers_2022.pdf
 
 - id: doi:10.1186/s12859-019-3297-0
-  image: 
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6907279/bin/12859_2019_3297_Fig3_HTML.jpg
   buttons:
     - type: pdf
       link: pdf/Mayers_2019.pdf
 
 - id: doi:10.1101/729475
-  image: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/08/12/729475/F4.medium.gif
   buttons:
     - type: pdf
       link: pdf/Queralt-Rosinach_2019.pdf
 
 - id: doi:10.1101/564187
-  image: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/02/28/564187/F2.medium.gif
   buttons:
     - type: pdf
       link: pdf/Tsueng_2019.pdf
 
 - id: doi:10.1021/acs.jproteome.6b00938
-  image: 
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441882/bin/nihms857524f2.jpg
   buttons:
     - type: pdf
       link: pdf/Mayers_2017.pdf
 
 - id: doi:10.7554/elife.52614
-  image: 
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7077981/bin/elife-52614-fig1.jpg
   buttons:
     - type: pdf
       link: pdf/Waagmeester_2020.pdf
@@ -127,12 +127,6 @@
   buttons:
     - type: pdf
       link: pdf/Hughes_2023.pdf
-
-- id: doi:10.5281/zenodo.6816052
-  image: 
-  buttons:
-    - type: pdf
-      link: pdf/Tsueng_2022c.pdf
 
 - id: doi:10.1101/2022.01.27.22269965
   image: 
@@ -962,11 +956,13 @@
     - type: pdf
       link: pdf/Huss_2008.pdf
 
+# The paper below has a weird doi (see doi.org/10.1186/1745-7580-4-5) so overriding link
 - id: doi:10.1186/1745-7580-4-5
   image: 
+  link: https://immunome-research.biomedcentral.com/articles/10.1186/1745-7580-4-5
   buttons:
-    - type: pdf
-      link: pdf/Lattin_2008.pdf
+  - type: pdf
+    link: pdf/Lattin_2008.pdf
 
 - id: doi:10.1371/journal.pgen.1000070
   image: 
