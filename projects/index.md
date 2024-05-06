@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-microscope" %}Projects
 
 {% include figure.html image="images/2020-07-17_poster_lab_overview.png" %}
 

@@ -5,7 +5,7 @@ nav:
   tooltip: Code of Conduct
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Code of Conduct
+# {% include icon.html icon="fa-solid fa-star" %}Code of Conduct
 
 We _love_ our group dynamic. We have been grateful and lucky that current and past lab members have seemed to intuitively understand what it means to maintain a respectful and welcoming environment.  Having said that, it’s time we made these expectations more explicit in this Code of Conduct.
 
@@ -19,7 +19,7 @@ This list is certainly not exhaustive. If you think of something that should be 
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Diversity, Equity, and Inclusion
+## {% include icon.html icon="fa-solid fa-rainbow" %}Diversity, Equity, and Inclusion
 We are a collaborative group of scientists and engineers committed to fostering diversity, equity, and inclusion (DEI). The best science comes from a positive, inclusive, and diverse environment.  We welcome people of all backgrounds. The following is our pledge to contribute to an inclusive community and culture. 
 
 * We recruit with diversity in mind. Our science is diverse and multidisciplinary, so our team should be as well. We welcome individuals from many educational backgrounds (including bioinformatics, computer science, biology and chemistry), job histories (academia, industry, and new graduates), as well as people who don’t fall neatly into any single group. We prioritize curiosity, creativity and tenacity over checking specific boxes on a resume. We also recognize that gender and racial biases exist in our scientific institutions, and we actively seek to counteract those biases.
