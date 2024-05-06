@@ -1,7 +1,7 @@
 ---
 name: Byung Jeon
-image: images/photo.jpg
-role: visiting scientist
+image: images/person.png
+role: visitor
 group: alum
 aliases:
 links:

@@ -20,19 +20,27 @@ undergrad:
 
 programmer:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Software Engineer
+
+engineer:
+  icon: fa-solid fa-code
+  description: Software Engineer
 
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
 intern:
-  icon: 
+  icon: fa-solid fa-school
   description: Intern
 
 staff:
-  icon: 
+  icon: fa-solid fa-image-portrait
   description: Staff
+
+visitor:
+  icon: fa-solid fa-globe
+  description: Visiting Scientist
 
 # general
 

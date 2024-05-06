@@ -1,6 +1,6 @@
 ---
 name: Zhongchao Qian
-image: images/photo.jpg
+image: images/person.png
 role: programmer
 group: alum
 aliases:
