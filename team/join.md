@@ -1,6 +1,7 @@
 ---
 title: Join us
 ---
+{% include breadcrumbs.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Join us
 

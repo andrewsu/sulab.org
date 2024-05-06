@@ -1,6 +1,7 @@
 ---
 title: Team photos
 ---
+{% include breadcrumbs.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Team photos
 
