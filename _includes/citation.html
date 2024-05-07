@@ -71,6 +71,14 @@
         <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>
+        &nbsp;·&nbsp;
+        <span class="citation-pmid">
+          {{- citation.PMID | default: "[no pmid info]" -}}
+        </span>
+        &nbsp;·&nbsp;
+        <span class="citation-pmcid">
+          {{- citation.PMCID | default: "[no pmcid info]" -}}
+        </span>
       </div>
 
       {% if include.style == "rich" %}

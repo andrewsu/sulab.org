@@ -217,6 +217,10 @@ def cite_with_manubot(_id):
             return citation["issued"]["date-parts"][0][index]
         except (KeyError, IndexError, TypeError):
             return ""
+        
+    # extract PMID and PMCID
+    citation["PMID"] = get_safe(manubot, "PMID", "").strip()
+    citation["PMCID"] = get_safe(manubot, "PMCID", "").strip()
 
     # date
     year = date_part(manubot, 0)
