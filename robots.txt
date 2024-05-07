@@ -1,1 +1,1 @@
-Sitemap: https://sulab.github.io/sulab.org/sitemap.xml
+Sitemap: http://sulab.org/sitemap.xml
