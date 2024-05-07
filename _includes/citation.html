@@ -71,14 +71,22 @@
         <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>
-        &nbsp;·&nbsp;
-        <span class="citation-pmid">
-          {{- citation.PMID | default: "[no pmid info]" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-pmcid">
-          {{- citation.PMCID | default: "[no pmcid info]" -}}
-        </span>
+        {% if citation.pmid %}
+          &nbsp;·&nbsp;
+          <span class="citation-pmid">
+            PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/{{ citation.pmid }}">
+              {{- citation.pmid -}}
+            </a>
+          </span>
+        {% endif %}
+        {% if citation.pmcid %}
+          &nbsp;·&nbsp;
+          <span class="citation-pmcid">
+            PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ citation.pmcid }}">
+              {{- citation.pmcid -}}
+            </a>
+          </span>
+        {% endif %}
       </div>
 
       {% if include.style == "rich" %}

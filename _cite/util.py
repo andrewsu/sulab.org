@@ -219,8 +219,12 @@ def cite_with_manubot(_id):
             return ""
         
     # extract PMID and PMCID
-    citation["PMID"] = get_safe(manubot, "PMID", "").strip()
-    citation["PMCID"] = get_safe(manubot, "PMCID", "").strip()
+    pmid = get_safe(manubot, "PMID", "").strip()
+    if pmid: 
+        citation["pmid"] = pmid
+    pmcid = get_safe(manubot, "PMCID", "").strip()
+    if pmcid:
+        citation["pmcid"] = pmcid
 
     # date
     year = date_part(manubot, 0)
