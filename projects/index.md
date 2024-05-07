@@ -7,26 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Projects
 
-{% include figure.html image="images/2020-07-17_poster_lab_overview.png" %}
+Our lab focuses on two primary areas of research within the domain of bioinformatics: the development of innovative bioinformatics tools and infrastructure, and the application of these tools to drive biomedical discovery.
 
-
-<!-->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
--->
+* [Tools and infrastructure](infrastructure)
+* [Biomedical discovery](discovery)
