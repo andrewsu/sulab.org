@@ -5,6 +5,8 @@ title: Team photos
 
 # {% include icon.html icon="fa-solid fa-users" %}Team photos
 
+COMING SOON! 
+
 {% include section.html %}
 
 {% capture content %}
