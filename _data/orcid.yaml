@@ -21,6 +21,6 @@
 - orcid: 0000-0002-2629-6124
   chunlei-wu-list: true
 
-### Keep Andrew last in this list so 'orcid' gets correctly added to citations.yaml
+## Keep Andrew last in this list so 'orcid' gets correctly added to citations.yaml
 - orcid: 0000-0002-9859-4104
   andrew-su-list: true

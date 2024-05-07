@@ -26,7 +26,7 @@
     - type: pdf
       link: pdf/Mayers_2019.pdf
 
-- id: doi:10.1101/729475
+- id: doi:10.1101/729475 
   image: https://www.biorxiv.org/content/biorxiv/early/2019/08/12/729475/F4.medium.gif
   buttons:
     - type: pdf
@@ -972,7 +972,7 @@
 
 - id: doi:10.1371/journal.pgen.1000232
   image: 
-  buttons:
+  buttons: 
     - type: pdf
       link: pdf/Breitling_2008.pdf
 
