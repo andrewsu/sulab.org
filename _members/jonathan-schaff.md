@@ -1,6 +1,6 @@
 ---
 name: Jonathan Schaff
-image: images/photo.jpg
+image: images/person.png
 role: programmer
 group: cwu-lab
 aliases:

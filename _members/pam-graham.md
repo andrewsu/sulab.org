@@ -1,6 +1,6 @@
 ---
 name: Pam Graham
-image: images/photo.jpg
+image: images/person.png
 role: staff
 group: active
 aliases:
