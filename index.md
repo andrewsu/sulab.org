@@ -72,7 +72,7 @@ Our team is made up of graduate students, postdoctoral researchers, programmers 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/reunion_2023.JPG"
   link="team"
   title="Our Team"
   text=text
