@@ -70,7 +70,7 @@ module Jekyll
             /fonts\.gstatic\.com/,
             /localhost:/,
             /0\.0\.0\.0:/,
-            nlm.nih.gov,
+            /nlm\.nih\.gov/,
           ],
         }
 
