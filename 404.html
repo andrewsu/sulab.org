@@ -395,7 +395,18 @@
     <h2 id="-page-not-found">
 <i class="icon fa-solid fa-heart-crack"></i> Page Not Found</h2>
 
-<p class="center">Try searching the whole site for the content you want:</p>
+<p id="requested-url"></p>
+
+<script>
+    // Define the base URL
+    var baseURL = 'https://archive.sulab.org'; 
+
+    // Extract the current URL from the browser's address bar and prepend it with the base URL
+    var requestedURL = baseURL + window.location.pathname;
+    document.getElementById('requested-url').innerHTML = 'Perhaps check this link on our archive site?: <a href="' + requestedURL + '">'+ requestedURL + "</a>";
+  </script>
+
+<p class="center">Or try searching the whole site for the content you want:</p>
 
 <form onsubmit="onSiteSearchSubmit(event)">
   <input type="text" name="query" placeholder="Search site with Google">
