@@ -212,7 +212,7 @@ _Lorem_ **ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 
 ### List citations
 
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation" filters="roger-tu-list: true" %}
 
 ---
 
@@ -224,7 +224,7 @@ _Lorem_ **ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 
 ### List team members
 
-{% include list.html data="members" component="portrait" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 
 ---
 
@@ -354,7 +354,7 @@ With figure components
 ### Grid of citations
 
 {% capture content %}
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" filters="roger-tu-list: true" %}
 {% endcapture %}
 {% include grid.html content=content %}
 

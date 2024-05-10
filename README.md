@@ -7,7 +7,7 @@ Visit **[sulab.org](https://sulab.org)** 🚀
 
 Lab members, please do any/all of the following!
 
-* **Update your user profile**. See the markdown files at https://github.com/SuLab/sulab.org/tree/main/_members.  For info on the format, see the other examples there and/or the documentation at https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members. To update your info, create a pull request or commit your changes directly.
+* **Update your user profile**. See the markdown files at https://github.com/SuLab/sulab.org/tree/main/_members.  For info on the format, see the other examples there. There is also documentation at https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members and examples in the [testbed](testbed.md) ([rendered](https://sulab.org/testbed)). To update your info, create a pull request or commit your changes directly.
 * **Add photos from lab events**. Add your photos to https://github.com/SuLab/sulab.org/tree/main/images/gallery (again, via commit or pull request), and add them to https://github.com/SuLab/sulab.org/blob/main/team/photos.md. (The format of that photo page is still TBD.)
 * **Add to the lab handbook**. If there's stuff about how our lab works that you think everyone should know, add it to the [lab handbook section](https://github.com/SuLab/sulab.org/tree/main/handbook). There is also stuff that has yet to be migrated from https://archive.sulab.org/intranet/.
 
