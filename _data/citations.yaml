@@ -2373,7 +2373,7 @@
   image: null
   buttons:
   - type: pdf
-    link: pdf/_2018.pdf
+    link: pdf/biocuration_2018.pdf
 - id: doi:10.1016/j.cell.2018.02.047
   title: Common PIEZO1 Allele in African Populations Causes RBC Dehydration and Attenuates
     Plasmodium Infection
@@ -3327,7 +3327,7 @@
   image: null
   buttons:
   - type: pdf
-    link: pdf/GOOD_2014.pdf
+    link: pdf/Good_2014.pdf
 - id: doi:10.1016/j.molcel.2014.09.006
   title: Oxidative Stress Diverts tRNA Synthetase to Nucleus for Protection against
     DNA Damage
@@ -3417,7 +3417,7 @@
   image: null
   buttons:
   - type: pdf
-    link: pdf/Good_2014.pdf
+    link: pdf/Good_2014a.pdf
 - id: doi:10.2196/games.3350
   title: 'The Cure: Design and Evaluation of a Crowdsourcing Game for Gene Selection
     for Breast Cancer Survival Prediction'

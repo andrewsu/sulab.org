@@ -510,7 +510,7 @@
   image: 
   buttons:
     - type: pdf
-      link: pdf/_2018.pdf
+      link: pdf/biocuration_2018.pdf
 
 - id: doi:10.1016/j.cell.2018.02.047
   image: 
@@ -720,7 +720,7 @@
   image: 
   buttons:
     - type: pdf
-      link: pdf/GOOD_2014.pdf
+      link: pdf/Good_2014.pdf
 
 - id: doi:10.1016/j.molcel.2014.09.006
   image: 
@@ -744,7 +744,7 @@
   image: 
   buttons:
     - type: pdf
-      link: pdf/Good_2014.pdf
+      link: pdf/Good_2014a.pdf
 
 - id: doi:10.2196/games.3350
   image: 
