@@ -398,13 +398,21 @@
 <p id="requested-url"></p>
 
 <script>
-    // Define the base URL
-    var baseURL = 'https://archive.sulab.org'; 
+  document.addEventListener("DOMContentLoaded", function() {
+    var path = window.location.pathname;
+    var baseURL = 'https://archive.sulab.org';
 
-    // Extract the current URL from the browser's address bar and prepend it with the base URL
-    var requestedURL = baseURL + window.location.pathname;
-    document.getElementById('requested-url').innerHTML = 'Perhaps check this link on our archive site?: <a href="' + requestedURL + '">'+ requestedURL + "</a>";
-  </script>
+    if (path.startsWith("/wp-content")) {
+      // redirect to archive.sulab.org
+      var newUrl = baseURL + path;
+      window.location.href = newUrl;
+    } else {
+      // display a suggested link to archive.sulab.org
+      var requestedURL = baseURL + path;
+      document.getElementById('requested-url').innerHTML = 'Perhaps check this link on our archive site?: <a href="' + requestedURL + '">' + requestedURL + '</a>';
+    }
+  });
+</script>
 
 <p class="center">Or try searching the whole site for the content you want:</p>
 
