@@ -23,7 +23,7 @@ We are interested in how to efficiently manage and mine biomedical knowledge, an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/startup-849804_1280_resized.jpg"
   link="projects"
   title="Our Projects"
   flip=false
@@ -48,7 +48,7 @@ A great way to learn about our work is to see what we've published.  Browse or s
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/typewriter-1170657_1280_resize.jpg"
   link="pubs"
   title="Our Publications"
   flip=true
