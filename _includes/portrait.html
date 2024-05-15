@@ -37,7 +37,10 @@
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
             <span>{{ member.description | default: type.description }}</span>
-          </span>
+            {% if page.group == "alum" %}
+              <span><br />LAB ALUMNUS</span>
+            {% endif %}
+                </span>
         {% endif %}
       </span>
     {% endif %}
