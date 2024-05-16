@@ -5,8 +5,14 @@ role: intern
 group: alum
 aliases:
 links:
-    linkedin: matsumotosachiko
-
+   linkedin: matsumotosachiko
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Sachiko was a intern in the lab from June 2015 to August 2015.

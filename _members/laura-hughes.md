@@ -7,7 +7,12 @@ aliases:
 links:
    orcid: 0000-0003-1718-6676
    linkedin: lauradhughes
-
+   github:
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Laura was a Institute Investigator in the lab from December 2017 to August 2023.

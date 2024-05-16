@@ -5,8 +5,15 @@ role: staff
 group: cwu-lab
 aliases:
 links:
-   - orcid: 
-
+   linkedin: 
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
+   
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

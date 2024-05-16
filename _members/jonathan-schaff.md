@@ -5,7 +5,13 @@ role: programmer
 group: cwu-lab
 aliases:
 links:
-   - orcid: 
+   linkedin: 
+   github:
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

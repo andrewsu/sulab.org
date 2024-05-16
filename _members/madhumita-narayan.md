@@ -5,8 +5,14 @@ role: intern
 group: alum
 aliases:
 links:
-    linkedin: madhumita-narayan-1864b4288
-
+   linkedin: madhumita-narayan-1864b4288
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Madhumita was a intern in the lab from July 2022 to August 2023.

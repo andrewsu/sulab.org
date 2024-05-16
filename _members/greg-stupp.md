@@ -5,7 +5,14 @@ role: staff
 group: alum
 aliases:
 links:
-    linkedin: gregory-stupp-4295b411a
+   linkedin: gregory-stupp-4295b411a
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

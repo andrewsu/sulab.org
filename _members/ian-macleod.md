@@ -5,8 +5,14 @@ role: programmer
 group: alum
 aliases:
 links:
-    linkedin: iancmacleod
-
+   linkedin: iancmacleod
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Ian was a programmer in the lab from July 2011 to December 2012.

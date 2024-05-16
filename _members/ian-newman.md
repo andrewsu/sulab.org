@@ -8,6 +8,12 @@ links:
    orcid: 0000-0002-0671-8668
    linkedin: ian-r-newman
    github: codingcane
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
+
 ---
 
 Ian Newman is a PhD student co-mentored by Andrew Su, PhD. and Michael Petrascheck, PhD.

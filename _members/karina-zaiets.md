@@ -5,8 +5,14 @@ role: programmer
 group: alum
 aliases:
 links:
-   - orcid: 
-
+   linkedin: 
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Karina was a member of the lab between November 2021 and May 2022.

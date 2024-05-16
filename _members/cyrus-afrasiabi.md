@@ -5,7 +5,14 @@ role: programmer
 group: alum
 aliases:
 links:
-    linkedin: cyrus-afrasiabi-b623604a
+   linkedin: cyrus-afrasiabi-b623604a
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

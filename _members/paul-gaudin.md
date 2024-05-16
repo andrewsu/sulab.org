@@ -5,8 +5,14 @@ role: programmer
 group: alum
 aliases:
 links:
-    linkedin: paulgaudin
-
+   linkedin: paulgaudin
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Paul was a programmer in the lab from June 2020 to November 2020.

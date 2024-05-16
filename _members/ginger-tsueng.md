@@ -5,7 +5,14 @@ role: staff
 group: active
 aliases:
 links:
-   - orcid: 0000-0001-9536-9115
+   orcid: 0000-0001-9536-9115
+   linkedin: 
+   github:
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

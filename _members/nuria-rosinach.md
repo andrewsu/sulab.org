@@ -9,6 +9,11 @@ links:
    google-scholar: bS4a_T8AAAAJ&hl=ca
    website: https://nuriaqueralt.wordpress.com/
    linkedin: nqueralt
+   github:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

@@ -6,7 +6,13 @@ group: alum
 aliases:
 links:
    orcid: 0000-0002-5027-3440
-
+   linkedin: 
+   github:
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

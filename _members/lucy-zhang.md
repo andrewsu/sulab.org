@@ -5,7 +5,14 @@ role: phd
 group: cwu-lab
 aliases:
 links:
-   - orcid: 
+   linkedin: 
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

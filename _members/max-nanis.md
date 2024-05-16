@@ -5,8 +5,14 @@ role: programmer
 group: alum
 aliases:
 links:
-    linkedin: termsofservice
-
+   linkedin: termsofservice
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 ---
 
 Max was a programmer in the lab from January 2012 to January 2018.

@@ -4,7 +4,14 @@ image: images/amitesh-sharma.jfif
 role: intern
 group: alum
 links:
-    linkedin: amiteshksharma
+   linkedin: amiteshksharma
+   github:
+   orcid: 
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 

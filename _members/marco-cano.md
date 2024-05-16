@@ -6,6 +6,13 @@ group: cwu-lab
 aliases:
 links:
    orcid: 0000-0001-6992-8390
+   linkedin: 
+   github:
+   google-scholar:
+   twitter:
+   facebook:
+   instagram: 
+   youtube:
 
 ---
 
