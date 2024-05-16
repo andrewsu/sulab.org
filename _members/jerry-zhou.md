@@ -5,7 +5,7 @@ role: programmer
 group: alum
 aliases:
 links:
-    linkedin: jerry-zhou-b48b04b1
+   linkedin: jerry-zhou-b48b04b1
    github:
    orcid: 
    google-scholar:
