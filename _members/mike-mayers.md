@@ -17,4 +17,7 @@ links:
 
 Mike was a graduate student and staff scientist in the lab from May 2016 to May 2021.
 
+{% include section.html %}
+## Publications
+
 {% include list.html data="citations" component="citation" filters="mike-mayers-list: true" %}

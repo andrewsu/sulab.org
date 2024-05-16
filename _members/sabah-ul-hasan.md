@@ -17,4 +17,7 @@ links:
 
 Sabah was a postdoctoral researcher in the lab from September 2019 to September 2022.
 
+{% include section.html %}
+## Publications
+
 {% include list.html data="citations" component="citation" filters="sabah-ul-hasan-list: true" %}

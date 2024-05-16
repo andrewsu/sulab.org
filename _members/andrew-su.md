@@ -20,7 +20,8 @@ The Su lab focuses on building and applying bioinformatics infrastructure for bi
 
 Andrew received his Ph.D. in Chemistry from The Scripps Research Institute, and BA degrees in Chemistry, Computing and Information Systems, and Integrated Science from Northwestern University.
 
-## Publication list
+{% include section.html %}
+## Publications
 
 {% include list.html data="citations" component="citation" filters="andrew-su-list: true" style="rich" %}
 

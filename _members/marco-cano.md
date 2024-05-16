@@ -16,5 +16,7 @@ links:
 
 ---
 
+{% include section.html %}
+## Publications
 
 {% include list.html data="citations" component="citation" filters="marco-cano-list: true" %}

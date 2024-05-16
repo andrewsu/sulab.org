@@ -24,4 +24,7 @@ Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
 
+{% include section.html %}
+## Publications
+
 {% include list.html data="citations" component="citation" filters="colleen-xu-list: true" %}
