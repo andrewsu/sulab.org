@@ -5,8 +5,9 @@ role: phd
 group: active
 aliases:
 links:
-   - orcid: [0000-0002-0671-8668](https://orcid.org/0000-0002-0671-8668)
-   - linkedin: [ian-r-newman](https://www.linkedin.com/in/ian-r-newman/)
+   - orcid: 0000-0002-0671-8668
+   - linkedin: ian-r-newman
+   - github: codingcane
 ---
 
 Ian Newman is a PhD student co-mentored by Andrew Su, PhD. and Michael Petrascheck, PhD.
