@@ -71,6 +71,8 @@ module Jekyll
             /localhost:/,
             /0\.0\.0\.0:/,
             /nlm\.nih\.gov/,
+            /doi\.org/,
+            /linkedin\.com/,
           ],
         }
 
