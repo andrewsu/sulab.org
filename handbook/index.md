@@ -4,7 +4,7 @@ title: Handbook
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab handbook
 
-This section is openly readable, but it is geared toward current and future lab members. This is the first place to look when trying to figure out how our lab works.
+This section is openly readable, but it is geared toward current and future lab members. This is the first place to look when trying to figure out how our lab works. (NOTE: not everything has been migrated from [archive.sulab.org/intranet/](https://archive.sulab.org/intranet/) yet, so also consult that site for missing links and more info.)
 
 {% include section.html %}
 
