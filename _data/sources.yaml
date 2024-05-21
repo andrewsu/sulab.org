@@ -3,12 +3,12 @@
   - id: pmid:11606367
     date: 2001-10-15
 
- - id: pmid:11507037
+  - id: pmid:11507037
     date: 2001-08-15
 
 # Thumbnail/pdf additions
 
- - id: doi:10.1101/2023.05.01.538993
+  - id: doi:10.1101/2023.05.01.538993
     image: 
       https://www.biorxiv.org/content/biorxiv/early/2023/05/03/2023.05.01.538993/F1.large.jpg
     buttons:
@@ -171,7 +171,7 @@
         link: pdf/Tsueng_2019b.pdf
 
   - id: doi:10.15346/hc.v6i1.4
-    image: 
+    image: images/csslr.png
     buttons:
       - type: pdf
         link: pdf/Tsueng_2019c.pdf
@@ -926,7 +926,7 @@
         link: pdf/Good_2011c.pdf
 
   - id: doi:10.1109/TCBB.2010.34
-    image: 
+    image: images/tclust.png
     buttons:
       - type: pdf
         link: pdf/Dost_2011.pdf
@@ -1210,3 +1210,10 @@
   - id: doi:10.1371/annotation/efa93b55-c8f0-4943-b922-a585d68f0bd0
     remove: true
 
+# remove Corrigendum to “Using single cell analysis for translational studies in immune mediated diseases: Opportunities and challenges” [Mol. Immunol. 103 (2018) 191–199]
+  - id: doi:10.1016/j.molimm.2019.01.011
+    remove: true
+      
+# remove correction to chlambase ms
+  - id: doi:10.1093/database/baz091
+    remove: true
