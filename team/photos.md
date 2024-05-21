@@ -5,7 +5,7 @@ title: Team photos
 
 # {% include icon.html icon="fa-solid fa-users" %}Team photos
 
-COMING SOON! 
+MORE COMING SOON! Until then, check out some older photos on [our pinterest page](https://www.pinterest.com/thesulab/) and our [old lab website](https://archive.sulab.org/media/photos/).
 
 {% include section.html %}
 

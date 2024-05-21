@@ -10,7 +10,7 @@ We have two standing lab meetings, both joint with the [Wu lab](https://wulab.io
 
 **On alternating Mondays, we have a science-focused meeting.** This meeting series is open to all but primarily focused on making sure our trainees (graduate students and postdocs) get ample opportunity to discuss and present the latest scientific advances and methods.  Again, it is one presenter per week, and the format can either be a research presentation, a journal club, or a practice talk for a conference or committee meeting. Lunch is provided to local attendees.
 
-The schedule for both meeting series are in the [Group meeting schedule spreadsheet](https://docs.google.com/spreadsheets/d/1oLJCLo96_LNCmBe0UcdFJMuym_bSV7hGhyVTloLJu4w/edit#gid=0), also embedded below:
+The schedule for both meeting series are in the [Group meeting schedule spreadsheet](https://docs.google.com/spreadsheets/d/1oLJCLo96_LNCmBe0UcdFJMuym_bSV7hGhyVTloLJu4w), also embedded below:
 
 
 <style>
@@ -18,6 +18,6 @@ The schedule for both meeting series are in the [Group meeting schedule spreadsh
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/spreadsheets/d/1oLJCLo96_LNCmBe0UcdFJMuym_bSV7hGhyVTloLJu4w/edit#" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/1oLJCLo96_LNCmBe0UcdFJMuym_bSV7hGhyVTloLJu4w" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
