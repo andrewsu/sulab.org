@@ -205,7 +205,7 @@
   roger-tu-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338812/bin/pone.0173375.g001.jpg
   buttons:
   - type: pdf
     link: pdf/Chen_2017.pdf
@@ -228,7 +228,7 @@
   roger-tu-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5456652/bin/materials-09-00196-g001.jpg
   buttons:
   - type: pdf
     link: pdf/Nokes_2016.pdf
@@ -252,7 +252,7 @@
   roger-tu-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300448/bin/nihms-1790024-f0003.jpg
   buttons:
   - type: pdf
     link: pdf/Chen_2014.pdf
@@ -273,7 +273,7 @@
   roger-tu-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4939-1047-2_9/MediaObjects/305869_1_En_9_Fig1_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Mendoza_2014.pdf
@@ -302,7 +302,7 @@
   file: sources.yaml
   ginger-tsueng-list: true
   chunlei-wu-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10481249/bin/gkad289figgra1.jpg
   buttons:
   - type: pdf
     link: pdf/Avila_2023.pdf
@@ -335,7 +335,7 @@
   marco-cano-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/10/13/2022.10.10.511492/F1.large.jpg?width=800&height=600&carousel=1
   buttons:
   - type: pdf
     link: pdf/Tsueng_2022.pdf
@@ -371,7 +371,7 @@
   plugin: sources.py
   file: sources.yaml
   ginger-tsueng-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8820656/bin/nihpp-2022.01.20.477133v5-f0001.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2022b.pdf
@@ -395,7 +395,7 @@
   jackson-callaghan-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://onlinelibrary.wiley.com/cms/asset/6316eaee-52d0-4b75-9050-e73c4eb66fde/mec16873-fig-0001-m.jpg
   buttons:
   - type: pdf
     link: pdf/Graham_2023.pdf
@@ -429,7 +429,7 @@
   colleen-xu-list: true
   chunlei-wu-list: true
   andrew-su-list: true
-  image: images/bte.jpeg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11015316/bin/btad570f1.jpg
   buttons:
   - type: pdf
     link: pdf/Callaghan_2023.pdf
@@ -489,7 +489,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10603356/bin/S2059866123006192_fig2.jpg
   buttons:
   - type: pdf
     link: pdf/Fecho_2023.pdf
@@ -515,7 +515,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-023-05258-4/MediaObjects/12859_2023_5258_Fig1_HTML.png?as=webp
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10116472/bin/12859_2023_5258_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Cano_2023.pdf
@@ -635,7 +635,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.medrxiv.org/content/medrxiv/early/2022/06/02/2022.01.27.22269965/F2.medium.gif
   buttons:
   - type: pdf
     link: pdf/Gangavarapu_2022.pdf
@@ -660,7 +660,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111922003535-gr1.jpg
   buttons:
   - type: pdf
     link: pdf/Wijnen_2022.pdf
@@ -688,7 +688,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/10/19/2021.10.18.464256/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Lelong_2021.pdf
@@ -732,7 +732,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/02/11/799684/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Waagmeester_2019.pdf
@@ -756,7 +756,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8104067/bin/bioinformatics_36_4_1226_f1.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2019b.pdf
@@ -776,7 +776,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: images/csslr.png
   buttons:
   - type: pdf
     link: pdf/Tsueng_2019c.pdf
@@ -800,7 +800,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796402/bin/12859_2018_2041_Fig3_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Xin_2018.pdf
@@ -824,7 +824,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/07/10/156141/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Good_2017.pdf
@@ -846,7 +846,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702805/bin/gkv1104fig1.jpg
   buttons:
   - type: pdf
     link: pdf/Wu_2015.pdf
@@ -865,7 +865,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2016/06/13/038083/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Tsueng_2016.pdf
@@ -890,7 +890,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5944608/bin/nihms965367f2.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2016b.pdf
@@ -923,7 +923,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4858870/bin/13059_2016_953_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Xin_2016.pdf
@@ -953,7 +953,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2015/12/30/035667/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Xin_2015.pdf
@@ -990,7 +990,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3983045/bin/ppat.1004045.g014.jpg
   buttons:
   - type: pdf
     link: pdf/Robinson_2014.pdf
@@ -1012,7 +1012,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427259/bin/auto-8-938-g2.jpg
   buttons:
   - type: pdf
     link: pdf/Tabor-Godwin_2012.pdf
@@ -1040,7 +1040,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3126326/bin/zjv9990946270008.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2011.pdf
@@ -1060,7 +1060,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060663/bin/gr5_lrg.jpg
   buttons:
   - type: pdf
     link: pdf/Rhoades_2011.pdf
@@ -1078,7 +1078,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00253-009-2424-7/MediaObjects/253_2009_2424_Fig1_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Tsueng_2010.pdf
@@ -1101,7 +1101,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://pubs.acs.org/cms/10.1021/np800578e/asset/images/medium/np-2008-00578e_0001.gif
   buttons:
   - type: pdf
     link: pdf/Manam_2009.pdf
@@ -1119,7 +1119,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fja.2009.7/MediaObjects/41429_2009_Article_BFja20097_Fig1_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Tsueng_2009.pdf
@@ -1137,7 +1137,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00253-008-1357-x/MediaObjects/253_2008_1357_Fig1_HTML.jpg?as=webp
   buttons:
   - type: pdf
     link: pdf/Tsueng_2008.pdf
@@ -1156,7 +1156,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00253-008-1358-9/MediaObjects/253_2008_1358_Fig1_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Tsueng_2008b.pdf
@@ -1174,7 +1174,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00253-008-1614-z/MediaObjects/253_2008_1614_Fig4_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Tsueng_2008c.pdf
@@ -1198,7 +1198,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://pubs.acs.org/cms/10.1021/np800286d/asset/images/medium/np-2008-00286d_0002.gif
   buttons:
   - type: pdf
     link: pdf/McArthur_2008.pdf
@@ -1279,7 +1279,7 @@
   ginger-tsueng-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00253-007-0899-7/MediaObjects/253_2007_899_Fig3_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Tsueng_2007b.pdf
@@ -1399,7 +1399,7 @@
   laura-hughes-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258294/bin/nihpp-rs1723829v1-f0003.jpg
   buttons:
   - type: pdf
     link: pdf/Hughes_2022b.pdf
@@ -1425,7 +1425,7 @@
   plugin: sources.py
   file: sources.yaml
   chunlei-wu-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9176648/bin/nihpp-2021.09.02.458726v2-f0002.jpg
   buttons:
   - type: pdf
     link: pdf/Cano_2021.pdf
@@ -1446,7 +1446,7 @@
   chunlei-wu-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900154/bin/lqac017fig1.jpg
   buttons:
   - type: pdf
     link: pdf/Summers_2022.pdf
@@ -1493,43 +1493,15 @@
   pmcid: PMC6463448
   date: '2019-01-01'
   link: https://doi.org/gtsb8d
-  orcid: 0000-0002-2629-6124
-  chunlei-wu-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: null
-  buttons:
-  - type: pdf
-    link: pdf/Putman_2019.pdf
-- id: doi:10.1093/database/baz091
-  title: 'ChlamBase: a curated model organism database for the Chlamydia research
-    community'
-  authors:
-  - Tim Putman
-  - Kevin Hybiske
-  - Derek Jow
-  - Cyrus Afrasiabi
-  - Sebastien Lelong
-  - Marco Alvarado Cano
-  - Gregory S Stupp
-  - Andra Waagmeester
-  - Benjamin M Good
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: Database
-  pmid: '31211397'
-  pmcid: PMC6580685
-  date: '2019-01-01'
-  link: https://doi.org/gtr8px
   orcid: 0000-0002-9859-4104
   chunlei-wu-list: true
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463448/bin/baz041f1.jpg
   buttons:
   - type: pdf
-    link: pdf/Putman_2019b.pdf
+    link: pdf/Putman_2019.pdf
 - id: doi:10.1371/journal.pgen.1006997
   title: A high resolution atlas of gene expression in the domestic sheep (Ovis aries)
   authors:
@@ -1558,7 +1530,7 @@
   chunlei-wu-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626511/bin/pgen.1006997.g003.jpg
   buttons:
   - type: pdf
     link: pdf/Clark_2017.pdf
@@ -1577,7 +1549,7 @@
   plugin: sources.py
   file: sources.yaml
   andrew-su-list: true
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/03/29/121178/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Gopal_2017.pdf
@@ -1669,7 +1641,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9950378/bin/41597_2023_1968_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2023b.pdf
@@ -1704,7 +1676,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8820656/bin/nihpp-2022.01.20.477133v5-f0004.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2023c.pdf
@@ -1745,7 +1717,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10399614/bin/nihms-1918406-f0001.jpg
   buttons:
   - type: pdf
     link: pdf/Gangavarapu_2023.pdf
@@ -1786,7 +1758,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372416/bin/CTS-15-1848-g002.jpg
   buttons:
   - type: pdf
     link: pdf/Unni_2022.pdf
@@ -1826,7 +1798,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372428/bin/CTS-15-1838-g002.jpg
   buttons:
   - type: pdf
     link: pdf/Fecho_2022.pdf
@@ -1856,7 +1828,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963279/bin/btac017f1.jpg
   buttons:
   - type: pdf
     link: pdf/Lelong_2022.pdf
@@ -1883,7 +1855,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8941213/bin/gr1.jpg
   buttons:
   - type: pdf
     link: pdf/Thuy-Boun_2022.pdf
@@ -1910,7 +1882,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7820539/bin/12915_2020_940_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Waagmeester_2021.pdf
@@ -1935,7 +1907,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700366/bin/genes-11-01384-g002.jpg
   buttons:
   - type: pdf
     link: pdf/Wang_2020.pdf
@@ -1964,7 +1936,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7955769/bin/nihms-1659893-f0003.jpg
   buttons:
   - type: pdf
     link: pdf/Lee_2020.pdf
@@ -2025,7 +1997,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7603405/bin/nihms-1613359-f0001.jpg
   buttons:
   - type: pdf
     link: pdf/Riva_2020.pdf
@@ -2054,7 +2026,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7034361/bin/fgene-10-01355-g001.jpg
   buttons:
   - type: pdf
     link: pdf/Summers_2020.pdf
@@ -2078,7 +2050,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153956/bin/baaa015f1.jpg
   buttons:
   - type: pdf
     link: pdf/Queralt-Rosinach_2020.pdf
@@ -2108,7 +2080,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6764653/bin/pone.0222165.g002.jpg
   buttons:
   - type: pdf
     link: pdf/Blasco_2019.pdf
@@ -2139,7 +2111,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6816460/bin/nihms-1055478-f0001.jpg
   buttons:
   - type: pdf
     link: pdf/Gioia_2019.pdf
@@ -2214,35 +2186,10 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616370/bin/nihms-1521746-f0002.jpg
   buttons:
   - type: pdf
     link: pdf/Murillo_2019.pdf
-- id: doi:10.1016/j.molimm.2019.01.011
-  title: "Corrigendum to \u201CUsing single cell analysis for translational studies\
-    \ in immune mediated diseases: Opportunities and challenges\u201D [Mol. Immunol.\
-    \ 103 (2018) 191\u2013199]"
-  authors:
-  - Siddhartha Sharma
-  - Louis Gioia
-  - Brian Abe
-  - Marie Holt
-  - Anne Costanzo
-  - Lisa Kain
-  - Andrew Su
-  - Luc Teyton
-  publisher: Molecular Immunology
-  pmid: '30732931'
-  date: '2019-03-01'
-  link: https://doi.org/gtrg2p
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: null
-  buttons:
-  - type: pdf
-    link: pdf/Sharma_2019.pdf
 - id: doi:10.1101/444497
   title: Association study of long-term kidney transplant rejection using whole-exome
     sequencing
@@ -2261,7 +2208,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2018/10/16/444497/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Gioia_2018.pdf
@@ -2286,7 +2233,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6550256/bin/41746_2018_52_Fig2_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Radin_2018.pdf
@@ -2305,7 +2252,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367599/F5.medium.gif
   buttons:
   - type: pdf
     link: pdf/Wang_2018.pdf
@@ -2333,7 +2280,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204214/bin/nihms-992825-f0008.jpg
   buttons:
   - type: pdf
     link: pdf/Matsuzaki_2018.pdf
@@ -2354,7 +2301,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5941560/bin/12864_2018_4718_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Gioia_2018b.pdf
@@ -2410,7 +2357,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5889333/bin/nihms946013f6.jpg
   buttons:
   - type: pdf
     link: pdf/Ma_2018.pdf
@@ -2432,7 +2379,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120211/bin/zbc0361892560007.jpg
   buttons:
   - type: pdf
     link: pdf/Hutt_2018.pdf
@@ -2451,7 +2398,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6086358/bin/nihms-976652-f0004.jpg
   buttons:
   - type: pdf
     link: pdf/Bruggemann_2018.pdf
@@ -2500,10 +2447,31 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245598/bin/nihms-992829-f0003.jpg
   buttons:
   - type: pdf
     link: pdf/Fisch_2018.pdf
+- id: doi:10.1002/pmic.201700391
+  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
+    Colitic Mice and Control Groups
+  authors:
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: PROTEOMICS
+  pmid: '29319931'
+  pmcid: PMC5921860
+  date: '2018-02-01'
+  link: https://doi.org/gtrg2r
+  orcid: 0000-0002-9859-4104
+  andrew-su-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5921860/bin/nihms959173f1.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Moon_2018.pdf
 - id: doi:10.1073/pnas.1810137115
   title: The ReFRAME library as a comprehensive drug repurposing library and its application
     to the treatment of cryptosporidiosis
@@ -2534,7 +2502,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6196526/bin/pnas.1810137115fig02.jpg
   buttons:
   - type: pdf
     link: pdf/Janes_2018.pdf
@@ -2559,25 +2527,10 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6258053/bin/nihms-996555-f0003.jpg
   buttons:
   - type: pdf
     link: pdf/Sharma_2018.pdf
-- id: doi:10.1101/219782
-  title: Metaproteomics of colonic microbiota unveils discrete protein functions among
-    colitic mice and control groups
-  authors:
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-11-15'
-  link: https://doi.org/gkt8wg
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/ng.3774
   title: CIViC is a community knowledgebase for expert crowdsourcing the clinical
     interpretation of variants in cancer
@@ -2636,7 +2589,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367263/bin/nihms851295f1.jpg
   buttons:
   - type: pdf
     link: pdf/Griffith_2017.pdf
@@ -2664,7 +2617,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467579/bin/bax025f1.jpg
   buttons:
   - type: pdf
     link: pdf/Putman_2017.pdf
@@ -2703,7 +2656,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6226017/bin/nihms-992547-f0001.jpg
   buttons:
   - type: pdf
     link: pdf/Tsueng_2016c.pdf
@@ -2730,7 +2683,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5120959/bin/nihms-827833-f0002.jpg
   buttons:
   - type: pdf
     link: pdf/Lam_2016.pdf
@@ -2757,7 +2710,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5438901/bin/nihms853698f4.jpg
   buttons:
   - type: pdf
     link: pdf/Akagi_2017.pdf
@@ -2782,7 +2735,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4992644/bin/nihms791169f6.jpg
   buttons:
   - type: pdf
     link: pdf/Alvarez-Garcia_2016.pdf
@@ -2805,7 +2758,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4986259/bin/12864_2016_2855_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Chatterjee_2016.pdf
@@ -2830,7 +2783,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4963260/bin/nihms761062f1.jpg
   buttons:
   - type: pdf
     link: "pdf/Alvarez\u2010Garcia_2016.pdf"
@@ -2852,7 +2805,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4920125/bin/btw117f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Gangavarapu_2016.pdf
@@ -2888,7 +2841,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5501990/bin/nihms870079f3.jpg
   buttons:
   - type: pdf
     link: pdf/Modena_2016.pdf
@@ -2909,7 +2862,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941496/bin/pnas.1606297113fig01.jpg
   buttons:
   - type: pdf
     link: pdf/Kleiman_2016.pdf
@@ -2931,7 +2884,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4834205/bin/baw051f7p.jpg
   buttons:
   - type: pdf
     link: pdf/Li_2016.pdf
@@ -2954,7 +2907,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822648/bin/baw028f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Putman_2016.pdf
@@ -2976,7 +2929,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4908671/bin/baw094f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Bravo_2016.pdf
@@ -3020,7 +2973,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4830068/bin/13326_2016_61_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Cheung_2016.pdf
@@ -3058,7 +3011,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4769089/bin/pone.0149621.g001.jpg
   buttons:
   - type: pdf
     link: pdf/Hettne_2016.pdf
@@ -3085,7 +3038,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4795929/bin/baw015f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Burgstaller-Muehlbacher_2016.pdf
@@ -3135,7 +3088,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4443682/bin/btv061f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Fisch_2015.pdf
@@ -3193,7 +3146,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018401/bin/nihms814673f1.jpg
   buttons:
   - type: pdf
     link: pdf/Wieskopf_2015.pdf
@@ -3214,7 +3167,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4719068/bin/bbv021f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Khare_2015.pdf
@@ -3237,7 +3190,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4721634/bin/nihms664252f2.jpg
   buttons:
   - type: pdf
     link: pdf/Scruggs_2015.pdf
@@ -3267,7 +3220,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4553261/bin/JEV-4-27497-g001.jpg
   buttons:
   - type: pdf
     link: pdf/Subramanian_2015.pdf
@@ -3288,7 +3241,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4494802/bin/12920_2015_95_Fig1_HTML.jpg
   buttons:
   - type: pdf
     link: "pdf/Mei\xDFner_2015.pdf"
@@ -3353,7 +3306,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4224670/bin/nihms626748f4.jpg
   buttons:
   - type: pdf
     link: pdf/Wei_2014.pdf
@@ -3370,7 +3323,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2014/09/17/009332/F1.medium.gif
   buttons:
   - type: pdf
     link: pdf/Wu_2014.pdf
@@ -3393,7 +3346,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4132376/bin/fcimb-04-00108-g0005.jpg
   buttons:
   - type: pdf
     link: pdf/Peterson_2014.pdf
@@ -3414,7 +3367,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281950/bin/13059_2014_438_Fig2_HTML.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2014a.pdf
@@ -3437,7 +3390,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4307816/bin/games_v2i2e7_fig1.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2014b.pdf
@@ -3481,7 +3434,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3778908/bin/nihms509554f1.jpg
   buttons:
   - type: pdf
     link: pdf/Choi_2013.pdf
@@ -3508,7 +3461,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.pnas.org/cms/10.1073/pnas.1304048110/asset/acdfc533-3d1b-4ac1-b950-5785d2556400/assets/graphic/pnas.1304048110fig01.jpeg
   buttons:
   - type: pdf
     link: pdf/Gopalakrishnan_2013.pdf
@@ -3528,7 +3481,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3633003/bin/2041-1480-4-S1-S4-2.jpg
   buttons:
   - type: pdf
     link: pdf/Clarke_2013.pdf
@@ -3547,7 +3500,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531157/bin/gks1114f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Wu_2012.pdf
@@ -3565,7 +3518,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3722523/bin/btt333f1p.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2013.pdf
@@ -3584,7 +3537,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737187/bin/pone.0071171.g003.jpg
   buttons:
   - type: pdf
     link: pdf/Loguercio_2013.pdf
@@ -3608,7 +3561,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757023/bin/pone.0072511.g002.jpg
   buttons:
   - type: pdf
     link: pdf/Chou_2013.pdf
@@ -3635,7 +3588,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754422/bin/nihms459775f3.jpg
   buttons:
   - type: pdf
     link: pdf/Shoulders_2013.pdf
@@ -3684,7 +3637,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3558601/bin/nihms417098f2.jpg
   buttons:
   - type: pdf
     link: pdf/Grogan_2013.pdf
@@ -3718,7 +3671,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3814290/bin/1741-7007-10-90-1.jpg
   buttons:
   - type: pdf
     link: pdf/Freeman_2012.pdf
@@ -3738,7 +3691,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469763/bin/nihms397506f1.jpg
   buttons:
   - type: pdf
     link: pdf/Ringwald_2012.pdf
@@ -3758,7 +3711,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308151/bin/bar060f1.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2012.pdf
@@ -3783,7 +3736,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1074552112002281-gr2.jpg
   buttons:
   - type: pdf
     link: pdf/Miller_2012.pdf
@@ -3803,7 +3756,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337266/bin/2041-1480-3-S1-S6-1.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2012b.pdf
@@ -3823,7 +3776,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3245148/bin/gkr925f2.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2011.pdf
@@ -3842,7 +3795,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5715466/bin/nihms909913f2.jpg
   buttons:
   - type: pdf
     link: pdf/Liu_2012.pdf
@@ -3883,7 +3836,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189939/bin/pone.0025807.g005.jpg
   buttons:
   - type: pdf
     link: pdf/Hu_2011.pdf
@@ -3922,7 +3875,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271090/bin/1471-2164-12-603-7.jpg
   buttons:
   - type: pdf
     link: pdf/Good_2011c.pdf
@@ -3941,7 +3894,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: images/tclust.png
   buttons:
   - type: pdf
     link: pdf/Dost_2011.pdf
@@ -3972,7 +3925,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856555/bin/1752-0509-4-29-1.jpg
   buttons:
   - type: pdf
     link: pdf/Lee_2010.pdf
@@ -3998,7 +3951,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2978079/bin/pone.0013920.g001.jpg
   buttons:
   - type: pdf
     link: pdf/Loguercio_2010.pdf
@@ -4020,7 +3973,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3012073/bin/pone.0014458.g001.jpg
   buttons:
   - type: pdf
     link: pdf/Miller_2010.pdf
@@ -4060,7 +4013,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840467/bin/pnas.0914019107fig01.jpg
   buttons:
   - type: pdf
     link: pdf/Gonzalez_2010.pdf
@@ -4089,7 +4042,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2777987/bin/nihms144235f6.jpg
   buttons:
   - type: pdf
     link: pdf/Zhang_2009.pdf
@@ -4120,7 +4073,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2650792/bin/pone.0004649.g004.jpg
   buttons:
   - type: pdf
     link: pdf/Williams_2009.pdf
@@ -4148,7 +4101,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3091323/bin/gb-2009-10-11-r130-1.jpg
   buttons:
   - type: pdf
     link: pdf/Wu_2009.pdf
@@ -4200,7 +4153,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808918/bin/gkp760f4.jpg
   buttons:
   - type: pdf
     link: pdf/Huss_2009.pdf
@@ -4225,7 +4178,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651120/bin/1472-6769-9-2-1.jpg
   buttons:
   - type: pdf
     link: pdf/Pezacki_2009.pdf
@@ -4249,7 +4202,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2443188/bin/pbio.0060175.g001.jpg
   buttons:
   - type: pdf
     link: pdf/Huss_2008.pdf
@@ -4276,7 +4229,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394514/bin/1745-7580-4-5-3.jpg
   buttons:
   - type: pdf
     link: pdf/Lattin_2008.pdf
@@ -4313,7 +4266,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394514/bin/1745-7580-4-5-3.jpg
   buttons:
   - type: pdf
     link: pdf/Wu_2008.pdf
@@ -4340,7 +4293,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563687/bin/pgen.1000232.g001.jpg
   buttons:
   - type: pdf
     link: pdf/Breitling_2008.pdf
@@ -4369,7 +4322,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1893038/bin/GEN1761675f2.jpg
   buttons:
   - type: pdf
     link: pdf/McClurg_2007.pdf
@@ -4387,7 +4340,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1895997/bin/gb-2007-8-4-404-1.jpg
   buttons:
   - type: pdf
     link: pdf/Su_2007.pdf
@@ -4431,7 +4384,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1413928/bin/zpq0070612810004.jpg
   buttons:
   - type: pdf
     link: pdf/Melnick_2006.pdf
@@ -4451,7 +4404,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1409800/bin/1471-2105-7-61-1.jpg
   buttons:
   - type: pdf
     link: pdf/McClurg_2006.pdf
@@ -4473,7 +4426,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng0806-856/MediaObjects/41588_2006_Article_BFng0806856_Fig1_HTML.gif?as=webp
   buttons:
   - type: pdf
     link: pdf/Chesler_2006.pdf
@@ -4517,7 +4470,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/be8aef24-8085-492b-94ab-6252dc78282f/mfig001.jpg
   buttons:
   - type: pdf
     link: pdf/Lee_2006.pdf
@@ -4564,7 +4517,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC548308/bin/zpq0060572350001.jpg
   buttons:
   - type: pdf
     link: pdf/Zhong_2005.pdf
@@ -4583,7 +4536,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://pubs.acs.org/cms/10.1021/jm049032d/asset/images/medium/jm049032df00003.gif
   buttons:
   - type: pdf
     link: pdf/Wilkens_2005.pdf
@@ -4605,7 +4558,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182321/bin/zmk0080572610001.jpg
   buttons:
   - type: pdf
     link: pdf/Gurkan_2005.pdf
@@ -4638,7 +4591,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng1497/MediaObjects/41588_2005_Article_BFng1497_Fig4_HTML.jpg?as=webp
   buttons:
   - type: pdf
     link: pdf/Bystrykh_2005.pdf
@@ -4667,7 +4620,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395923/bin/zpq0170445980001.jpg
   buttons:
   - type: pdf
     link: pdf/Su_2004.pdf
@@ -4764,7 +4717,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC383321/bin/74731-34f2_4t.jpg
   buttons:
   - type: pdf
     link: pdf/Conkright_2003b.pdf
@@ -4790,7 +4743,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1867312/bin/jh1023353004.jpg
   buttons:
   - type: pdf
     link: pdf/Frierson_2002.pdf
@@ -4815,7 +4768,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867402007225-gr4.jpg
   buttons:
   - type: pdf
     link: pdf/Panda_2002.pdf
@@ -4837,7 +4790,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC123230/bin/pq1623598002.jpg
   buttons:
   - type: pdf
     link: pdf/Su_2002.pdf
@@ -4864,7 +4817,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137774/bin/pq2426081003.jpg
   buttons:
   - type: pdf
     link: pdf/Su_2002b.pdf
@@ -4887,7 +4840,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1074552102001746-gr4.jpg
   buttons:
   - type: pdf
     link: pdf/Supekova_2002.pdf
@@ -4917,7 +4870,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC123671/bin/pq0520251005.jpg
   buttons:
   - type: pdf
     link: pdf/Su_2002c.pdf
@@ -4992,7 +4945,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867401004676-gr2.jpg
   buttons:
   - type: pdf
     link: pdf/Hogenesch_2001.pdf
@@ -5014,7 +4967,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC30139/bin/pq0414525006.jpg
   buttons:
   - type: pdf
     link: pdf/Ratnaswamy_2001.pdf
@@ -5036,7 +4989,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://onlinelibrary.wiley.com/cms/asset/fe6a32f8-72c2-41e4-9df8-99107acf8996/mfig003.jpg
   buttons:
   - type: pdf
     link: pdf/Su_2000.pdf
@@ -5064,26 +5017,7 @@
   andrew-su-list: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://pubs.acs.org/cms/10.1021/jm010451+/asset/images/medium/jm0104511f00004.gif
   buttons:
   - type: pdf
     link: pdf/Chang_2001.pdf
-- id: doi:10.1002/pmic.201700391
-  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
-    Colitic Mice and Control Groups
-  authors:
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: PROTEOMICS
-  pmid: '29319931'
-  pmcid: PMC5921860
-  date: '2018-02-01'
-  link: https://doi.org/gtrg2r
-  image: null
-  buttons:
-  - type: pdf
-    link: pdf/Moon_2018.pdf
-  plugin: sources.py
-  file: sources.yaml
