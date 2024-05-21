@@ -11,19 +11,19 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 
 {%
   include button.html
-  icon="fa-solid fa-book-open"
+  icon="fa-solid fa-image"
   text="Photos"
   link="/team/photos"
 %}
 {%
   include button.html
-  icon="fa-brands fa-google"
+  icon="fa-solid fa-people-group"
   text="Alumni"
   link="/team/alumni"
 %}
 {%
   include button.html
-  icon="fa-brands fa-google"
+  icon="fa-solid fa-door-open"
   text="Join us"
   link="/team/join"
 %}
