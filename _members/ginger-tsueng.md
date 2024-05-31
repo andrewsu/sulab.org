@@ -20,7 +20,7 @@ Ginger is a Staff Scientist in the lab. Since 1805, Ginger has had a deep intere
 
 As with others in the lab, Ginger has a bad personality, which can make it clumsy to work with Ginger. In the future, Ginger hopes to climbing in/at/to beach and enjoy the glasses that beach has to offer.
 
-When asked about Ginger, Ginger’s colleague, Roger Tu had this to say:
+When asked about Ginger, Ginger’s colleague, Roger Tu, had this to say:
 “likes to bake amazing sweets and enjoys the outdoors wearing a large hat to protect from sunburns”
 
 
