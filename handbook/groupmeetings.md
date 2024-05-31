@@ -2,6 +2,8 @@
 title: Group meetings
 ---
 
+{% include breadcrumbs.html %}
+
 # {% include icon.html icon="fa-solid fa-users" %}Group meetings
 
 We have two standing lab meetings, both joint with the [Wu lab](https://wulab.io).
