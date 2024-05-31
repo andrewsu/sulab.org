@@ -1,28 +1,21 @@
 ---
-name: Carolina Gonzalez-Cavazos
+name: Carolina González-Cavazos
 image: images/Carolina-Gonzalez-Cavazos-480x501.jpg
 role: phd
 group: active
 aliases:
 links:
-   linkedin: 
-   github:
+   linkedin: https://www.linkedin.com/in/carolina-gonz%C3%A1lez-cavazos/ 
+   github: https://github.com/Carolina1396
    orcid: 
-   google-scholar:
+   google-scholar: https://scholar.google.com/citations?user=1VcZSWEAAAAJ&hl=en
    twitter:
    facebook:
    instagram: 
    youtube:
 
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Carolina González-Cavazos is a PhD student mentored by Professor Andrew Su. Before joining Su Lab, she was a research intern at Caltech, focusing on autism spectrum disorder genetic variants. She completed her undergraduate studies in genomics at Universidad Autonoma de Nuevo Leon, Mexico. Currently, her thesis focuses on implementing graph neural network (GNN) explainability models in biomedical knowledge graphs. Carolina's research aims to provide interpretable explanations that support the discovery of novel drug-disease associations.
 
 {% include section.html %}
 ## Publications
