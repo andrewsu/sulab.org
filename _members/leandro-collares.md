@@ -5,8 +5,8 @@ role: programmer
 group: cwu-lab
 aliases:
 links:
-   linkedin: 
-   github:
+   linkedin: lcollares
+   github: leandrocollares
    orcid: 
    google-scholar:
    twitter:
@@ -16,12 +16,6 @@ links:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Leandro is a software engineer at Scripps Research. His role involves creating interfaces and interactive visualizations that help diverse audiences explore science topics and make data-driven decisions. Additionally, he supports the team in UX research and accessibility initiatives.
 
 {% include list.html data="citations" component="citation" filters="leandro-collares-list: true" %}
