@@ -1493,10 +1493,11 @@
   pmcid: PMC6463448
   date: '2019-01-01'
   link: https://doi.org/gtsb8d
-  orcid: 0000-0002-2629-6124
+  orcid: 0000-0002-9859-4104
   chunlei-wu-list: true
   plugin: sources.py
   file: sources.yaml
+  andrew-su-list: true
   image: null
   buttons:
   - type: pdf
@@ -2504,6 +2505,27 @@
   buttons:
   - type: pdf
     link: pdf/Fisch_2018.pdf
+- id: doi:10.1002/pmic.201700391
+  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
+    Colitic Mice and Control Groups
+  authors:
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: PROTEOMICS
+  pmid: '29319931'
+  pmcid: PMC5921860
+  date: '2018-02-01'
+  link: https://doi.org/gtrg2r
+  orcid: 0000-0002-9859-4104
+  andrew-su-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  buttons:
+  - type: pdf
+    link: pdf/Moon_2018.pdf
 - id: doi:10.1073/pnas.1810137115
   title: The ReFRAME library as a comprehensive drug repurposing library and its application
     to the treatment of cryptosporidiosis
@@ -2563,21 +2585,6 @@
   buttons:
   - type: pdf
     link: pdf/Sharma_2018.pdf
-- id: doi:10.1101/219782
-  title: Metaproteomics of colonic microbiota unveils discrete protein functions among
-    colitic mice and control groups
-  authors:
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-11-15'
-  link: https://doi.org/gkt8wg
-  orcid: 0000-0002-9859-4104
-  andrew-su-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/ng.3774
   title: CIViC is a community knowledgebase for expert crowdsourcing the clinical
     interpretation of variants in cancer
@@ -5068,22 +5075,3 @@
   buttons:
   - type: pdf
     link: pdf/Chang_2001.pdf
-- id: doi:10.1002/pmic.201700391
-  title: Metaproteomics of Colonic Microbiota Unveils Discrete Protein Functions among
-    Colitic Mice and Control Groups
-  authors:
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: PROTEOMICS
-  pmid: '29319931'
-  pmcid: PMC5921860
-  date: '2018-02-01'
-  link: https://doi.org/gtrg2r
-  image: null
-  buttons:
-  - type: pdf
-    link: pdf/Moon_2018.pdf
-  plugin: sources.py
-  file: sources.yaml
