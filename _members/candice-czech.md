@@ -1,7 +1,7 @@
 ---
 name: Candice Czech
 image: images/candice_czech-169x300.jpg
-role: staff
+role: programmer
 group: cwu-lab
 aliases:
 links:
