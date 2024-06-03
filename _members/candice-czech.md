@@ -5,8 +5,8 @@ role: staff
 group: cwu-lab
 aliases:
 links:
-   linkedin: 
-   github:
+   linkedin: candiceczech
+   github: candicecz
    orcid: 
    google-scholar:
    twitter:
@@ -16,12 +16,7 @@ links:
    
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Candice Czech is a research programmer who joined in 2021. She is a full-stack developer with a background in graphic design based in Montreal. Her interests include developing intuitive user interfaces and interactive data visualizations. Her out-of-office interests include tinkering with electronics, cooking (and eating) and board games.
 
 {% include list.html data="citations" component="citation" filters="candice-czech-list: true" %}
+
