@@ -5,8 +5,8 @@ role: phd
 group: active
 aliases:
 links:
-   linkedin: 
-   github:
+   linkedin: janetjoyphd
+   github: janjoy
    orcid: 
    google-scholar:
    twitter:
@@ -15,12 +15,6 @@ links:
    youtube:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Janet is a PhD student under the mentorship of Professor Andrew Su. Her research focuses on computational drug repurposing approaches for Alzheimer’s disease, aiming to uncover new potential therapeutic options. She previously completed her Master's in Physics at the National Institute of Technology, Calicut, India, and her Bachelor's in Physics at St. Stephen's College, New Delhi, India.
 
 {% include list.html data="citations" component="citation" filters="janet-joy-list: true" %}
