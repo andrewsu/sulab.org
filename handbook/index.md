@@ -13,7 +13,7 @@ This section is openly readable, but it is geared toward current and future lab 
 * [Slack](/handbook/slack)
 * Holiday and vacation policy
 * Travel and reimbursements policy
-* Conferences and Training
+* [Conferences and Training](/handbook/conferences)
 * Poster printing
 * Ordering supplies
 
