@@ -37,7 +37,7 @@ This section is openly readable, but it is geared toward current and future lab 
 * [Code of Conduct](/conduct)
 * Group committees
 * Titles and Honorifics
-* Names and pronouns
+* [Names and pronouns](/handbook/names-and-pronouns)
 * [Interviewing notes](/handbook/interviewing)
 
 {% include section.html %}
