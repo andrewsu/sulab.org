@@ -22,7 +22,7 @@ This section is openly readable, but it is geared toward current and future lab 
 ## Local San Diego
 * Preparing for your move to San Diego
 * Lunch options
-* How to work the lights
+* [How to work the lights](https://docs.google.com/presentation/d/1vSX05AUbuNsRd-o7zye5GS9lwIm53WDJZODOFoBt4H4/edit)
 * Safety and Security
 
 {% include section.html %}
@@ -44,9 +44,8 @@ This section is openly readable, but it is geared toward current and future lab 
 
 ## Scientific/technical info
 * [*NIX Command line bootcamp](http://command-line-bootcamp.wurmlab.com/)
-* Through the library, technical books through the O’Reilly Safari Learning Program (use your scripps.edu email)
+* Through the [library](https://library.scripps.edu/), technical books through the [O’Reilly Safari Learning Program](https://www.safaribooksonline.com/library/view/temporary-access/) (use your scripps.edu email)
 * [Good Enough Practices in Scientific Computing](https://doi.org/10.1371/journal.pcbi.1005510) — highly recommended reading!
 * Organizing science projects
-* Coding standards
-* How to give a great talk
+ How to give a great talk
 * Using Amazon web services
