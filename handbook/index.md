@@ -38,7 +38,7 @@ This section is openly readable, but it is geared toward current and future lab 
 * Group committees
 * Titles and Honorifics
 * Names and pronouns
-* Interviewing notes
+* [Interviewing notes](/handbook/interviewing)
 
 {% include section.html %}
 
