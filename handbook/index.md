@@ -28,7 +28,7 @@ This section is openly readable, but it is geared toward current and future lab 
 {% include section.html %}
 
 ## Graduate students
-* Individual Development Plans (IDP)
+* [Individual Development Plans](/handbook/idp)
 * [lllustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) by [Matt Might](https://matt.might.net/)
 
 {% include section.html %}
