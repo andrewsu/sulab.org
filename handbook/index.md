@@ -46,6 +46,6 @@ This section is openly readable, but it is geared toward current and future lab 
 * [*NIX Command line bootcamp](http://command-line-bootcamp.wurmlab.com/)
 * Through the [library](https://library.scripps.edu/), technical books through the [O’Reilly Safari Learning Program](https://www.safaribooksonline.com/library/view/temporary-access/) (use your scripps.edu email)
 * [Good Enough Practices in Scientific Computing](https://doi.org/10.1371/journal.pcbi.1005510) — highly recommended reading!
-* Organizing science projects
+* [Organizing science projects](/handbook/organizing-science)
 * [How to give a great talk](/handbook/giving-a-talk)
 * Using Amazon web services
